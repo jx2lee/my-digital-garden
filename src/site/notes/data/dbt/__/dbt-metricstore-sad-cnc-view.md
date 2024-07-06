@@ -36,7 +36,7 @@ flowchart TB
     AsyncListener --> |event listener| MetricService
     MetricService --> |request| MetricClient
     MetricClient --> |response| MetricService
-    MetricClient <--> |request query & reponse| bigquery
+    MetricClient <--> |request query n reponse| bigquery
     MetricService --> AsyncWebClient --> AsyncSlackResponse --> slack
 ```
 
