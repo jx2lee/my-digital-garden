@@ -8,7 +8,6 @@
 
 
 [[data/kafka/__/migration-to-kakfa-connect\|서버로그 마이그레이션 (kafka connect)]]
-- 
 
 
 ### job knowledge
