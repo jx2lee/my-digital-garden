@@ -1,10 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/etc/__/opensource-contributing/","tags":["\bopensource"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowInlineTitle":true,"dgEnableSearch":true,"dgLinkPreview":true}
+{"dg-publish":true,"permalink":"/etc//opensource-contributing/","tags":["\bopensource"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowInlineTitle":true,"dgEnableSearch":true,"dgLinkPreview":true}
 ---
 
 
 
-### in-progress
+### ⌛️
 
 
 - airflow
@@ -14,7 +14,7 @@
 - dbt
 	- dbt-bigquery: [add test case when raise ServiceUnavailable in is_retryable #1224](https://github.com/dbt-labs/dbt-bigquery/pull/1224)
 
-### done
+### ✅
 
 - airflow
 - dbt
