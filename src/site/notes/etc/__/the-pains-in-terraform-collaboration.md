@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/etc/__/the-pains-in-terraform-collaboration/"}
+{"dg-publish":true,"permalink":"/etc//the-pains-in-terraform-collaboration/"}
 ---
 
 
