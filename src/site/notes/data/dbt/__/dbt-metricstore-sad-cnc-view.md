@@ -100,15 +100,15 @@ flowchart LR
         m([MetricStore Application])
     end
 
-    subgraph " "
+    subgraph i [" "]
         b[(BigQuery)]
     end
 
-    subgraph " "
+    subgraph j [" "]
         u[[사용자]]
     end
 
-    subgraph " "
+    subgraph k [" "]
         w[[작업자]]
     end
     
