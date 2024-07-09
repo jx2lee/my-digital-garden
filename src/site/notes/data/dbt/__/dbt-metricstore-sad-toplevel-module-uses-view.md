@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/data/dbt/__/dbt-metricstore-sad-toplevel-module-uses-view/"}
+{"dg-publish":true,"permalink":"/data/dbt/__/dbt-metricstore-sad-toplevel-module-uses-view/","noteIcon":""}
 ---
 
 
