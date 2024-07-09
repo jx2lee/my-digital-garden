@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/data/dbt//dbt-metricstore-sad-cnc-view/"}
+{"dg-publish":true,"permalink":"/data/dbt/__/dbt-metricstore-sad-cnc-view/","noteIcon":""}
 ---
 
 
@@ -39,6 +39,7 @@ flowchart TB
     MetricClient <--> |request query & reponse| bigquery
     MetricService --> AsyncWebClient --> AsyncSlackResponse --> slack
 ```
+
 
 
 C&C 뷰로 분석한 MetricStore 시스템은 위 그림과 같이 Layered 패턴을 띄고 있다. 슬랙 봇과의 대화에서 사용한 슬래시 커맨드 이벤트를 받아 적절한 서비스를 호출한다. 지표를 생성하기 위한 클라이언트는 Persistent Layer 에 속하며 사용자가 원하는 지표를 생성할 수 있도록 쿼리를 생성하고 데이터 웨어하우스에 조회한다. 이렇게 조회된 결과는 슬랙 봇 과의 대화의 메세지로 전송하는 시스템이다.
