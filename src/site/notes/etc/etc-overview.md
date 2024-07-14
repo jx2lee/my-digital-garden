@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/etc/etc-overview/","tags":["overview","etc"]}
+{"dg-publish":true,"permalink":"/etc/etc-overview/","tags":["overview","etc"],"noteIcon":""}
 ---
 
 
