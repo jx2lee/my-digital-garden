@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/data/airflow/__/airflow-task/"}
+{"dg-publish":true,"permalink":"/data/airflow/__/airflow-task/","noteIcon":""}
 ---
 
 

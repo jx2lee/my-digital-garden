@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/data/bigquery/__/bigquery-shallow-dive/"}
+{"dg-publish":true,"permalink":"/data/bigquery/__/bigquery-shallow-dive/","noteIcon":""}
 ---
 
 

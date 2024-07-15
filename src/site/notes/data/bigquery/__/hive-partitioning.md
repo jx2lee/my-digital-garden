@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/data/bigquery/__/hive-partitioning/","tags":["bigquery","partitioning","hive"]}
+{"dg-publish":true,"permalink":"/data/bigquery/__/hive-partitioning/","tags":["bigquery","partitioning","hive"],"noteIcon":""}
 ---
 
 
