@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/data/bigquery/__/bigquery-partitioning-clustering/"}
+{"dg-publish":true,"permalink":"/data/bigquery/__/bigquery-partitioning-clustering/","noteIcon":""}
 ---
 
 

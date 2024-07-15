@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/data/kafka/__/debezium-mysql-connector/","tags":["debezium","kafka","mysql","connect","source"],"dgHomeLink":true,"dgShowBacklinks":true,"dgShowLocalGraph":true,"dgShowInlineTitle":true,"dgEnableSearch":true,"dgLinkPreview":true,"dgShowTags":true}
+{"dg-publish":true,"permalink":"/data/kafka/__/debezium-mysql-connector/","tags":["debezium","kafka","mysql","connect","source"],"dgHomeLink":true,"dgShowBacklinks":true,"dgShowLocalGraph":true,"dgShowInlineTitle":true,"dgEnableSearch":true,"dgLinkPreview":true,"dgShowTags":true,"noteIcon":""}
 ---
 
 

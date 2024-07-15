@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/data/kafka/kafka-overview/","tags":["kafka","overview"]}
+{"dg-publish":true,"permalink":"/data/kafka/kafka-overview/","tags":["kafka","overview"],"noteIcon":""}
 ---
 
 

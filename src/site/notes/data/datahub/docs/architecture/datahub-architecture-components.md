@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/data/datahub/docs/architecture/datahub-architecture-components/"}
+{"dg-publish":true,"permalink":"/data/datahub/docs/architecture/datahub-architecture-components/","noteIcon":""}
 ---
 
 #datahub #architecture 

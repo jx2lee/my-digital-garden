@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/data/dbt/__/dbt-thread/","tags":["dbt","thread"]}
+{"dg-publish":true,"permalink":"/data/dbt/__/dbt-thread/","tags":["dbt","thread"],"noteIcon":""}
 ---
 
 ### definition

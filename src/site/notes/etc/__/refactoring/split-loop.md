@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/etc/__/refactoring/split-loop/","dgShowBacklinks":true,"dgShowLocalGraph":true}
+{"dg-publish":true,"permalink":"/etc/__/refactoring/split-loop/","dgShowBacklinks":true,"dgShowLocalGraph":true,"noteIcon":""}
 ---
 
 

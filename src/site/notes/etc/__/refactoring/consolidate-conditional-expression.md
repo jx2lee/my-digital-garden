@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/etc/__/refactoring/consolidate-conditional-expression/"}
+{"dg-publish":true,"permalink":"/etc/__/refactoring/consolidate-conditional-expression/","noteIcon":""}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/data/kafka/__/cdc-research/"}
+{"dg-publish":true,"permalink":"/data/kafka/__/cdc-research/","noteIcon":""}
 ---
 
 

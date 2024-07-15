@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/data/__research/mage/"}
+{"dg-publish":true,"permalink":"/data/__research/mage/","noteIcon":""}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/data/__research/arrow/","tags":["apache","arrow"]}
+{"dg-publish":true,"permalink":"/data/__research/arrow/","tags":["apache","arrow"],"noteIcon":""}
 ---
 
 

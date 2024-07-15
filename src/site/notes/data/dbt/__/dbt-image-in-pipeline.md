@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/data/dbt/__/dbt-image-in-pipeline/","tags":["dbt","image","pipeline"],"dgHomeLink":true,"dgShowBacklinks":true,"dgShowLocalGraph":true,"dgShowInlineTitle":true,"dgEnableSearch":true,"dgLinkPreview":true,"dgShowTags":true}
+{"dg-publish":true,"permalink":"/data/dbt/__/dbt-image-in-pipeline/","tags":["dbt","image","pipeline"],"dgHomeLink":true,"dgShowBacklinks":true,"dgShowLocalGraph":true,"dgShowInlineTitle":true,"dgEnableSearch":true,"dgLinkPreview":true,"dgShowTags":true,"noteIcon":""}
 ---
 
 

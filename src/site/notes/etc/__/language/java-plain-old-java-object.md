@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/etc/__/language/java-plain-old-java-object/"}
+{"dg-publish":true,"permalink":"/etc/__/language/java-plain-old-java-object/","noteIcon":""}
 ---
 
 

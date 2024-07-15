@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/data/rdb/__/rdb-mysql-binlog/","tags":["rdb","binlog"]}
+{"dg-publish":true,"permalink":"/data/rdb/__/rdb-mysql-binlog/","tags":["rdb","binlog"],"noteIcon":""}
 ---
 
 

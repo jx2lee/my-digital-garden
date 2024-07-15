@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/etc/__/lakehouse-tool-localtest/"}
+{"dg-publish":true,"permalink":"/etc/__/lakehouse-tool-localtest/","noteIcon":""}
 ---
 
 > Data Lakehouse 테스트한 내용들을 간략히 정리하고 공유해보자

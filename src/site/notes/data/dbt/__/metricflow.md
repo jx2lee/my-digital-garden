@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/data/dbt/__/metricflow/"}
+{"dg-publish":true,"permalink":"/data/dbt/__/metricflow/","noteIcon":""}
 ---
 
 

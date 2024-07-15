@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/data/airbyte/airbyte-overview/","tags":["overview","airbyte"],"dgHomeLink":true,"dgShowBacklinks":true,"dgShowLocalGraph":true,"dgShowInlineTitle":true,"dgEnableSearch":true,"dgLinkPreview":"ture","dgShowTags":true}
+{"dg-publish":true,"permalink":"/data/airbyte/airbyte-overview/","tags":["overview","airbyte"],"dgHomeLink":true,"dgShowBacklinks":true,"dgShowLocalGraph":true,"dgShowInlineTitle":true,"dgEnableSearch":true,"dgLinkPreview":"ture","dgShowTags":true,"noteIcon":""}
 ---
 
 

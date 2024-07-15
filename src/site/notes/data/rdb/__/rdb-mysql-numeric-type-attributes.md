@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/data/rdb/__/rdb-mysql-numeric-type-attributes/","tags":["rdb","numeric type","unsigned"]}
+{"dg-publish":true,"permalink":"/data/rdb/__/rdb-mysql-numeric-type-attributes/","tags":["rdb","numeric type","unsigned"],"noteIcon":""}
 ---
 
 

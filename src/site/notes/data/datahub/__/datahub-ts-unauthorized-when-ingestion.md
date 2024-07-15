@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/data/datahub/__/datahub-ts-unauthorized-when-ingestion/"}
+{"dg-publish":true,"permalink":"/data/datahub/__/datahub-ts-unauthorized-when-ingestion/","noteIcon":""}
 ---
 
 #datahub #troubleshooting 

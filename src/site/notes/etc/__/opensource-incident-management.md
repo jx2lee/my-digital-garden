@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/etc/__/opensource-incident-management/","tags":["dispatch","incident","opensource"]}
+{"dg-publish":true,"permalink":"/etc/__/opensource-incident-management/","tags":["dispatch","incident","opensource"],"noteIcon":""}
 ---
 
 

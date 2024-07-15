@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/data/dbt/__/dbt-custom-schemas/","tags":["dbt"]}
+{"dg-publish":true,"permalink":"/data/dbt/__/dbt-custom-schemas/","tags":["dbt"],"noteIcon":""}
 ---
 
 ### background

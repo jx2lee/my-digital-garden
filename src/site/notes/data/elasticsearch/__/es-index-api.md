@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/data/elasticsearch/__/es-index-api/","tags":["elasticsearch"]}
+{"dg-publish":true,"permalink":"/data/elasticsearch/__/es-index-api/","tags":["elasticsearch"],"noteIcon":""}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/etc//opensource-contributing/","tags":["\bopensource"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowInlineTitle":true,"dgEnableSearch":true,"dgLinkPreview":true,"noteIcon":""}
+{"dg-publish":true,"permalink":"/etc/__/opensource-contributing/","tags":["\bopensource"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowInlineTitle":true,"dgEnableSearch":true,"dgLinkPreview":true,"noteIcon":""}
 ---
 
 
@@ -32,4 +32,5 @@
 		- [docs(architecture): edit documents in architecture section](https://github.com/datahub-project/datahub/pull/6798)
 		- [docs(aws): edit markdown link](https://github.com/datahub-project/datahub/pull/6706)
 		- [docs(quickstart): enable slack community link](https://github.com/datahub-project/datahub/pull/6209)
+	- great-expectations: [[DOCS] edit term(data_conext, checkpoints)-link in with airflow](https://github.com/great-expectations/great_expectations/pull/6646)
 	- great-expectations: [[DOCS] edit term(data_conext, checkpoints)-link in with airflow](https://github.com/great-expectations/great_expectations/pull/6646)

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/data/airbyte/__/airbyte-architecture/"}
+{"dg-publish":true,"permalink":"/data/airbyte/__/airbyte-architecture/","noteIcon":""}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/data/datahub/__/datahub-develop-action/"}
+{"dg-publish":true,"permalink":"/data/datahub/__/datahub-develop-action/","noteIcon":""}
 ---
 
 #datahub #action #develop

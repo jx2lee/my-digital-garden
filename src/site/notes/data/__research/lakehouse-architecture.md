@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/data/__research/lakehouse-architecture/"}
+{"dg-publish":true,"permalink":"/data/__research/lakehouse-architecture/","noteIcon":""}
 ---
 
 

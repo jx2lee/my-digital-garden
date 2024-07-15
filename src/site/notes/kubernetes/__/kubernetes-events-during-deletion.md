@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/kubernetes/__/kubernetes-events-during-deletion/","tags":["kubernetes","pod-deletion"]}
+{"dg-publish":true,"permalink":"/kubernetes/__/kubernetes-events-during-deletion/","tags":["kubernetes","pod-deletion"],"noteIcon":""}
 ---
 
 

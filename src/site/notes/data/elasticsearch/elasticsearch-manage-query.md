@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/data/elasticsearch/elasticsearch-manage-query/"}
+{"dg-publish":true,"permalink":"/data/elasticsearch/elasticsearch-manage-query/","noteIcon":""}
 ---
 
 

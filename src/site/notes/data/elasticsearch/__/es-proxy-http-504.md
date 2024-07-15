@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/data/elasticsearch/__/es-proxy-http-504/"}
+{"dg-publish":true,"permalink":"/data/elasticsearch/__/es-proxy-http-504/","noteIcon":""}
 ---
 
 

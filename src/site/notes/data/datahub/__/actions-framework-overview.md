@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/data/datahub/__/actions-framework-overview/","dgShowInlineTitle":true}
+{"dg-publish":true,"permalink":"/data/datahub/__/actions-framework-overview/","dgShowInlineTitle":true,"noteIcon":""}
 ---
 
 #datahub #action #test 

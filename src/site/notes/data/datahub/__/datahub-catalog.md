@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/data/datahub/__/datahub-catalog/"}
+{"dg-publish":true,"permalink":"/data/datahub/__/datahub-catalog/","noteIcon":""}
 ---
 
 #datahub #catalog 

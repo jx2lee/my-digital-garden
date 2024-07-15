@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/data/kafka/__/migration-target-schema/","tags":["kafka","connect","bigquery"]}
+{"dg-publish":true,"permalink":"/data/kafka/__/migration-target-schema/","tags":["kafka","connect","bigquery"],"noteIcon":""}
 ---
 
 

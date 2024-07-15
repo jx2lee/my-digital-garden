@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/data/__research/elasticsearch-scroll-api/","tags":["elasticsearch","scroll"]}
+{"dg-publish":true,"permalink":"/data/__research/elasticsearch-scroll-api/","tags":["elasticsearch","scroll"],"noteIcon":""}
 ---
 
 

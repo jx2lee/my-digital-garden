@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/data/rdb/__/rdb-auto-incremental-versus-identity/","tags":["rdb","autoincremental","identity"]}
+{"dg-publish":true,"permalink":"/data/rdb/__/rdb-auto-incremental-versus-identity/","tags":["rdb","autoincremental","identity"],"noteIcon":""}
 ---
 
 

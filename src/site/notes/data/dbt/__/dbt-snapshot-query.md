@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/data/dbt/__/dbt-snapshot-query/"}
+{"dg-publish":true,"permalink":"/data/dbt/__/dbt-snapshot-query/","noteIcon":""}
 ---
 
 

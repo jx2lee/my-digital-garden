@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/data/rdb/__/rdb-mysql-privilege/","tags":["rdb","MySQL","privilege"]}
+{"dg-publish":true,"permalink":"/data/rdb/__/rdb-mysql-privilege/","tags":["rdb","MySQL","privilege"],"noteIcon":""}
 ---
 
 

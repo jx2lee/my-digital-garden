@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/etc/__/effective-python/python-better-way-14/"}
+{"dg-publish":true,"permalink":"/etc/__/effective-python/python-better-way-14/","noteIcon":""}
 ---
 
 

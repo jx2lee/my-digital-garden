@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/data/rdb/__/rdb-null-versus-empty-string/"}
+{"dg-publish":true,"permalink":"/data/rdb/__/rdb-null-versus-empty-string/","noteIcon":""}
 ---
 
 

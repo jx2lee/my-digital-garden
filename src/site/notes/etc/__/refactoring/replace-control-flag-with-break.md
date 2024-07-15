@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/etc/__/refactoring/replace-control-flag-with-break/"}
+{"dg-publish":true,"permalink":"/etc/__/refactoring/replace-control-flag-with-break/","noteIcon":""}
 ---
 
 

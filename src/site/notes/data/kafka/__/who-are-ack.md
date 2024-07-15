@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/data/kafka/__/who-are-ack/","dgShowToc":true}
+{"dg-publish":true,"permalink":"/data/kafka/__/who-are-ack/","dgShowToc":true,"noteIcon":""}
 ---
 
 

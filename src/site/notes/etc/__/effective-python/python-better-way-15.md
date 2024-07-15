@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/etc/__/effective-python/python-better-way-15/","title":"클로저가 변수 스코프와 상호 작용하는 방법","tags":["Python Better Way"]}
+{"dg-publish":true,"permalink":"/etc/__/effective-python/python-better-way-15/","title":"클로저가 변수 스코프와 상호 작용하는 방법","tags":["Python Better Way"],"noteIcon":""}
 ---
 
 

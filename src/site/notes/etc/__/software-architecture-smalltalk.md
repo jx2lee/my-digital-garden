@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/etc/__/software-architecture-smalltalk/"}
+{"dg-publish":true,"permalink":"/etc/__/software-architecture-smalltalk/","noteIcon":""}
 ---
 
 

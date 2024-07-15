@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/data/dbt/__/run-results-json-means/","tags":["dbt"]}
+{"dg-publish":true,"permalink":"/data/dbt/__/run-results-json-means/","tags":["dbt"],"noteIcon":""}
 ---
 
 
