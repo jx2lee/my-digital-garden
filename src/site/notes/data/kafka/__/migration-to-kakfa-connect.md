@@ -43,4 +43,3 @@ TBD
 - [[data/kafka/__/migration-used-packages\|사용중인 커넥터 & 트랜스폼]]
 - [[data/kafka/__/migration-error-handling\|적재 실패 메세지의 처리 방안]]
 - [[data/kafka/__/migration-connector-cicd\|커넥터 CI/CD]]
-- [[data/kafka/__/__PROTECTED__migration-connector-properties\|__PROTECTED__migration-connector-properties]]
