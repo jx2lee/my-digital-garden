@@ -43,6 +43,7 @@ flowchart TB
     style external stroke:blue
 ```
 
+
 ### Element Catalog
 
 #### metric_server
