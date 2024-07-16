@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/data/__research/sqlmesh/","noteIcon":""}
+{"dg-publish":true,"permalink":"/data/__research/sqlmesh/","noteIcon":"","created":"2024-06-30T00:39:32.589+09:00"}
 ---
 
 

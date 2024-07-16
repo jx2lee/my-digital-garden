@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/etc/__/json-rpc/","tags":["json","rpc"],"dgShowBacklinks":true,"dgShowLocalGraph":true,"dgShowInlineTitle":true,"dgEnableSearch":true,"dgLinkPreview":true,"dgShowTags":true,"noteIcon":""}
+{"dg-publish":true,"permalink":"/etc/__/json-rpc/","tags":["json","rpc"],"dgShowBacklinks":true,"dgShowLocalGraph":true,"dgShowInlineTitle":true,"dgEnableSearch":true,"dgLinkPreview":true,"dgShowTags":true,"noteIcon":"","created":"2024-04-24T22:10:34.000+09:00"}
 ---
 
 

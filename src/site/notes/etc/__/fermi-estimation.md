@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/etc/__/fermi-estimation/","noteIcon":""}
+{"dg-publish":true,"permalink":"/etc/__/fermi-estimation/","noteIcon":"","created":"2024-03-01T19:37:49.000+09:00"}
 ---
 
 

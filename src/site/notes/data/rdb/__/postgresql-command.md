@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/data/rdb/__/postgresql-command/","tags":["rdb","postgres"],"noteIcon":""}
+{"dg-publish":true,"permalink":"/data/rdb/__/postgresql-command/","tags":["rdb","postgres"],"noteIcon":"","created":"2024-06-30T00:39:32.605+09:00"}
 ---
 
 

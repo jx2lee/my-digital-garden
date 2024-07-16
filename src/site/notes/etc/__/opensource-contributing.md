@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/etc/__/opensource-contributing/","tags":["\bopensource"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowInlineTitle":true,"dgEnableSearch":true,"dgLinkPreview":true,"noteIcon":""}
+{"dg-publish":true,"permalink":"/etc/__/opensource-contributing/","tags":["\bopensource"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgShowInlineTitle":true,"dgEnableSearch":true,"dgLinkPreview":true,"noteIcon":"","created":"2024-06-23T15:41:23.000+09:00"}
 ---
 
 

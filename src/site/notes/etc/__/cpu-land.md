@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/etc/__/cpu-land/","tags":["etc","cpu_land","cs"],"dgHomeLink":true,"dgShowBacklinks":true,"dgShowLocalGraph":true,"dgShowInlineTitle":true,"dgEnableSearch":true,"dgLinkPreview":true,"dgShowTags":true,"noteIcon":""}
+{"dg-publish":true,"permalink":"/etc/__/cpu-land/","tags":["etc","cpu_land","cs"],"dgHomeLink":true,"dgShowBacklinks":true,"dgShowLocalGraph":true,"dgShowInlineTitle":true,"dgEnableSearch":true,"dgLinkPreview":true,"dgShowTags":true,"noteIcon":"","created":"2024-03-15T23:12:30.000+09:00"}
 ---
 
 

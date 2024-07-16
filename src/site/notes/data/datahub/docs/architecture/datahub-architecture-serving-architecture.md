@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/data/datahub/docs/architecture/datahub-architecture-serving-architecture/","noteIcon":""}
+{"dg-publish":true,"permalink":"/data/datahub/docs/architecture/datahub-architecture-serving-architecture/","noteIcon":"","created":"2024-06-30T00:39:32.595+09:00"}
 ---
 
 #datahub #architecture #serving-tier

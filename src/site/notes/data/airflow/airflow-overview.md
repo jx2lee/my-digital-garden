@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/data/airflow/airflow-overview/","tags":["airflow","overview"],"noteIcon":""}
+{"dg-publish":true,"permalink":"/data/airflow/airflow-overview/","tags":["airflow","overview"],"noteIcon":"","created":"2024-06-30T00:39:32.591+09:00"}
 ---
 
 
