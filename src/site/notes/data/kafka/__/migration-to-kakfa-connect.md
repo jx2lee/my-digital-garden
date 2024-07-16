@@ -39,8 +39,8 @@ TBD
 ### 더보기
 
 
-- [[data/kafka/__/migration-target-schema\|[migrate-to-kakfa-connect] 빅쿼리로 적재할 테이블 스키마]]
-- [[data/kafka/__/migration-used-packages\|[migrate-to-kafka-connect] 사용중인 커넥터 & 트랜스폼]]
-- [[data/kafka/__/migration-error-handling\|[migrate-to-kafka-connect] 적재 실패 메세지의 처리 방안]]
-- [[data/kafka/__/migration-connector-cicd\|[migrate-to-kafka-connect] 커넥터 CI/CD]]
-- [[data/kafka/__/__PROTECTED__migration-connector-properties\|[migrate-to-kafka-connect] Connector Properties]]
+- [[data/kafka/__/migration-target-schema\|빅쿼리로 적재할 테이블 스키마]]
+- [[data/kafka/__/migration-used-packages\|사용중인 커넥터 & 트랜스폼]]
+- [[data/kafka/__/migration-error-handling\|적재 실패 메세지의 처리 방안]]
+- [[data/kafka/__/migration-connector-cicd\|커넥터 CI/CD]]
+- [[data/kafka/__/__PROTECTED__migration-connector-properties\|__PROTECTED__migration-connector-properties]]
