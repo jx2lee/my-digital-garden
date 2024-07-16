@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/Welcome to jx2lee garden/","tags":["gardenEntry"],"dgEnableSearch":true,"noteIcon":""}
+{"dg-publish":true,"permalink":"/Welcome to jx2lee garden/","tags":["gardenEntry"],"dgEnableSearch":true,"noteIcon":"","created":"2023-12-20T00:33:04.000+09:00"}
 ---
+
 
 
 ### 안녕하세요. 가상자산 거래소 [@Coinone](https://coinone.co.kr/)의 데이터 엔지니어, 이재준 입니다.
