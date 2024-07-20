@@ -3,10 +3,12 @@
 ---
 
 
+> [!info] 프로젝트 리스트
 
-| File                                                                        | file.aliases                                             | file.tags                                 | project.company |
-| --------------------------------------------------------------------------- | -------------------------------------------------------- | ----------------------------------------- | --------------- |
-| [[data/dbt/__/dbt-cicd-pipeline\|dbt-cicd-pipeline]]                     | <ul><li>dbt cicd pipelines with Github Actions</li></ul> | <ul><li>#dbt</li><li>#cicd</li></ul>      | coinone         |
-| [[data/kafka/__/migration-to-kakfa-connect\|migration-to-kakfa-connect]] | <ul><li>서버로그 마이그레이션 (kafka connect)</li></ul>            | <ul><li>#kafka</li><li>#connect</li></ul> | coinone         |
+
+| File                                                                        | 프로젝트명                                                     | 어디서     | 기간                |
+| --------------------------------------------------------------------------- | --------------------------------------------------------- | ------- | ----------------- |
+| [[data/dbt/__/dbt-cicd-pipeline\|dbt-cicd-pipeline]]                     | <ul><li>dbt CI/CD pipelines with Github Actions</li></ul> | coinone | 2023.07 - 2023.09 |
+| [[data/kafka/__/migration-to-kakfa-connect\|migration-to-kakfa-connect]] | <ul><li>서버로그 파이프라인 마이그레이션</li></ul>                       | coinone | 2023.10 - 2023.12 |
 
 { .block-language-dataview}
