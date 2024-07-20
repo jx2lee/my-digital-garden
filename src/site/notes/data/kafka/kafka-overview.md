@@ -7,7 +7,7 @@
 ### project & work to share
 
 
-[[data/kafka/__/migration-to-kakfa-connect\|서버로그 파이프라인 마이그레이션]]
+[[data/kafka/__/migration-to-kakfa-connect\|서버로그 파이프라인 마이마이그레이션]]
 
 
 ### job knowledge
