@@ -39,11 +39,14 @@
 | File                                             | Modified                 |
 | ------------------------------------------------ | ------------------------ |
 | [[Untitled\|Untitled]]                        | 10:21 PM - July 17, 2024 |
+| [[data/2024-07-14\|2024-07-14]]               | 3:27 PM - July 21, 2024  |
+| [[data/2024-07-16\|2024-07-16]]               | 3:27 PM - July 21, 2024  |
 | [[notes/2024/2024-07/2024-07-10\|2024-07-10]] | 9:53 PM - July 16, 2024  |
 | [[notes/2024/2024-07/2024-07-11\|2024-07-11]] | 9:53 PM - July 16, 2024  |
 | [[notes/2024/2024-07/2024-07-12\|2024-07-12]] | 9:53 PM - July 16, 2024  |
 | [[notes/2024/2024-07/2024-07-14\|2024-07-14]] | 9:53 PM - July 16, 2024  |
 | [[projects\|projects]]                        | 11:59 PM - July 20, 2024 |
 | [[templates/tpl-project\|tpl-project]]        | 11:16 PM - July 20, 2024 |
+| [[delivery-semantics\|delivery-semantics]]    | 4:33 PM - July 21, 2024  |
 
 { .block-language-dataview}
