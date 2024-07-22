@@ -4,7 +4,7 @@
 
 
 
-### ⌛️
+### ⌛️⌛️⌛️
 
 
 - airflow
@@ -14,8 +14,10 @@
 - dbt
 	- [Modified git tag option in `dbt deps`](https://github.com/dbt-labs/dbt-core/pull/10398)
 	- dbt-bigquery: [add test case when raise ServiceUnavailable in is_retryable](https://github.com/dbt-labs/dbt-bigquery/pull/1224)
+- etc
+    - meltano: [fix(cli): working GCS state backend properly when any files were located in root bucket](https://github.com/meltano/meltano/pull/8648)
 
-### ✅
+### ✅✅✅
 
 - airflow
 - dbt
