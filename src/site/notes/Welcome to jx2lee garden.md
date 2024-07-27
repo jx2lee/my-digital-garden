@@ -20,11 +20,12 @@
 
 ![|400](https://i.imgur.com/EfyC7Gg.jpeg)
 
-### notes
+### note
 | Category   | Link                                                       |
 | ---------- | ---------------------------------------------------------- |
 | airbyte    | [[data/airbyte/airbyte-overview\|airbyte-overview]]     |
 | airflow    | [[data/airflow/airflow-overview\|airflow-overview]]     |
+| bigquery   | [[data/bigquery/bigquery_overview\|bigquery_overview]]  |
 | datahub    | [[data/datahub/datahub-overview\|datahub-overview]]     |
 | dbt        | [[data/dbt/dbt-overview\|dbt-overview]]                 |
 | etc        | [[etc/etc-overview\|etc-overview]]                      |
@@ -38,13 +39,13 @@
 ### recently works
 | File                                                        | Modified                 |
 | ----------------------------------------------------------- | ------------------------ |
-| [[data/kafka/__/delivery-semantics\|delivery-semantics]] | 4:50 PM - July 21, 2024  |
-| [[etc/__/job-descriptions\|job-descriptions]]            | 10:21 PM - July 17, 2024 |
-| [[notes/2024/2024-07/2024-07-22\|2024-07-22]]            | 12:02 AM - July 24, 2024 |
+| [[data/2024-07-23\|2024-07-23]]                          | 1:35 PM - July 27, 2024  |
+| [[data/2024-07-24\|2024-07-24]]                          | 1:35 PM - July 27, 2024  |
+| [[data/Untitled\|Untitled]]                              | 1:28 AM - July 28, 2024  |
+| [[data/kafka/__/delivery-semantics\|delivery-semantics]] | 10:59 PM - July 27, 2024 |
 | [[notes/2024/2024-07/2024-07-16\|2024-07-16]]            | 3:27 PM - July 21, 2024  |
 | [[notes/2024/2024-07/2024-07-18\|2024-07-18]]            | 12:02 AM - July 24, 2024 |
 | [[notes/2024/2024-07/2024-07-19\|2024-07-19]]            | 12:02 AM - July 24, 2024 |
-| [[templates/tpl-project\|tpl-project]]                   | 11:16 PM - July 20, 2024 |
-| [[projects\|projects]]                                   | 11:59 PM - July 20, 2024 |
+| [[notes/2024/2024-07/2024-07-22\|2024-07-22]]            | 12:02 AM - July 24, 2024 |
 
 { .block-language-dataview}
