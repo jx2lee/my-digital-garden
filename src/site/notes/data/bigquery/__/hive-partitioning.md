@@ -1,11 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/data/bigquery/__/hive-partitioning/","tags":["bigquery","partitioning","hive"],"noteIcon":"","created":"2024-06-30T00:39:32.592+09:00"}
+{"dg-publish":true,"permalink":"/data/bigquery/__/hive-partitioning/","tags":["bigquery","partitioning","hive"],"dgHomeLink":true,"dgShowBacklinks":true,"dgShowLocalGraph":true,"dgShowInlineTitle":true,"dgEnableSearch":true,"dgLinkPreview":true,"noteIcon":"","created":"2024-06-30T00:39:32.592+09:00"}
 ---
 
 
-> [!tldr] 그래서 하이브 파티셔닝이 뭔데?
-
-
+그래서 하이브 파티셔닝이 뭔데?
 BigQuery external 테이블 생성 시 hive partitioning 에 대해 고민했었고 정리할 필요가 있어 여러 곳에서 하이브 파티셔닝에 대해 정리한 내용을 가져왔다.
 
 
