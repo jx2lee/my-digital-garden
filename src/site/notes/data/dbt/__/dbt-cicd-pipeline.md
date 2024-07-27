@@ -22,7 +22,23 @@
 ### howto
 system architecture
 ```mermaid
+flowchart BT
+    subgraph eks["AWS EKS"]
+        subgraph action_pod["Action Pod"]
+            docker["docker container"]
+            runner["runner container"]
+            dbt_docker["dbt runner"]
+        end
+    end
+    bigquery[(BigQuery)]
 
+    users --> |push event| docker
+    users --> |push event| runner
+    docker --> |run| dbt_docker
+    runner --> |lint & jira integration| runner
+    dbt_docker --> |transform| bigquery
+
+    classDef main stroke:red,stroke-width:2px;
 ```
 - branch push 이벤트 기반 워크플로우를 만들었습니다.
 	- `dev/prod` 브랜치 푸시 이벤트가 발생하면 download s3(previous state) > build with select modified 커맨드를 실행하는 워크플로우가 실행됩니다.
