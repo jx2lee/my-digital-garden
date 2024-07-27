@@ -4,7 +4,5 @@
 
 
 ### job knowledge
-
-
-### basic
+- [[data/bigquery/__/hive-partitioning\|하이브 파티셔닝]]
 - [[data/bigquery/__/bigquery-partitioning-clustering\|bigquery-partitioning-clustering]]
