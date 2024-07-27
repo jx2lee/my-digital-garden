@@ -20,6 +20,10 @@
 
 
 ### howto
+system architecture
+```mermaid
+
+```
 - branch push 이벤트 기반 워크플로우를 만들었습니다.
 	- `dev/prod` 브랜치 푸시 이벤트가 발생하면 download s3(previous state) > build with select modified 커맨드를 실행하는 워크플로우가 실행됩니다.
 	- 현재는 변경된 모델의 자식모델을 모두 빌드하는데 이는 비효율적이라 PR 과정 혹은 빌드과정에 특정 자식 모델들만 선택해 빌드하는 과정을 고민하고 있습니다. (`Github App or other backend`)
@@ -35,6 +39,8 @@
 
 ### keytakeaway
 
+- dbt 파이프라인을 Github Action 을 이용해 이관했어요.
+- 새롭게 제공한 기능(Lint, Jira 통합 액션 등)으로 사용자(dbt 이용가능한) 경험을 향상시켰어요.
 
 
 ### more
