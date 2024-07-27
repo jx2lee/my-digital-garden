@@ -20,7 +20,7 @@
 
 ![|400](https://i.imgur.com/EfyC7Gg.jpeg)
 
-### note
+### category
 | Category   | Link                                                       |
 | ---------- | ---------------------------------------------------------- |
 | airbyte    | [[data/airbyte/airbyte-overview\|airbyte-overview]]     |
@@ -36,7 +36,7 @@
 { .block-language-dataview}
 
 
-### recently works
+### recently
 | File                                                        | Modified                 |
 | ----------------------------------------------------------- | ------------------------ |
 | [[data/2024-07-23\|2024-07-23]]                          | 1:35 PM - July 27, 2024  |
