@@ -21,7 +21,7 @@
 ![|400](https://i.imgur.com/EfyC7Gg.jpeg)
 
 ### category
-| Category   | Link                                                       |
+| stack      | Link                                                       |
 | ---------- | ---------------------------------------------------------- |
 | airbyte    | [[data/airbyte/airbyte-overview\|airbyte-overview]]     |
 | airflow    | [[data/airflow/airflow-overview\|airflow-overview]]     |
