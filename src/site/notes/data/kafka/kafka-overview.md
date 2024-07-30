@@ -5,28 +5,20 @@
 
 
 ### project & work to share
-
-
-[[data/kafka/__/migration-to-kakfa-connect\|서버로그 파이프라인 마이마이그레이션]]
+- [[data/kafka/__/migration-to-kakfa-connect\|서버로그 파이프라인 마이마이그레이션]]
 
 
 ### job knowledge
-
-
-[[data/kafka/__/who-are-ack\|ack 의 정의를 다양한 곳에서 살펴본다]]
-[[data/kafka/__/debezium-mysql-connector\|debezium-mysql-connector]]
-[[data/kafka/__/delivery-semantics\|메세지 전달 시멘틱]]
+- [[data/kafka/__/who-are-ack\|ack 의 정의를 다양한 곳에서 살펴본다]]
+- [[data/kafka/__/debezium-mysql-connector\|debezium-mysql-connector]]
+- [[data/kafka/__/delivery-semantics\|메세지 전달 시멘틱]]
 
 
 ### research
-
-
-[[data/kafka/__/cdc-research\|Chnage Data Capture, CDC 가볍가볍게 훑어보기]]
+- [[data/kafka/__/cdc-research\|Chnage Data Capture, CDC 가볍가볍게 훑어보기]]
 
 
 ### reference
-
-
 - [kafka official documents](https://kafka.apache.org/documentation/)
 - KR
     - [카카오: 카카오 개발자들을 위한 공용 Message Streaming Platform – Kafka & RabbitMQ](https://tech.kakao.com/2021/12/23/kafka-rabbitmq/)
