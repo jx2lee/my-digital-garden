@@ -3,19 +3,12 @@
 ---
 
 
-| Project | In Progress | Completed |
-| ------- | ----------- | --------- |
-| \-      | 0           | 0         |
-
-{ .block-language-dataview}
-
-
 ### ⌛️⌛️⌛️
 
 
 airflow
 - [Add CloudRunServiceHook and operator (create)](https://github.com/apache/airflow/pull/40008)
-- [enable AIRFLOW__CELERY__BROKER_URL_CMD when passwordSecretName is true](https://github.com/apache/airflow/pull/40270)
+- [enable AIRFLOW\__CELERY\__BROKER_URL_CMD when passwordSecretName is true](https://github.com/apache/airflow/pull/40270)
 
 dbt
 - [Modified git tag option in `dbt deps`](https://github.com/dbt-labs/dbt-core/pull/10398)
