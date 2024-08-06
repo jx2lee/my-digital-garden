@@ -37,12 +37,12 @@
 
 
 ### recently
-| File                                                                                                  | Modified                 |
-| ----------------------------------------------------------------------------------------------------- | ------------------------ |
-| [[data/kafka/__/bigquery-sink-connector-with-storageapi\|bigquery-sink-connector-with-storageapi]] | 11:29 PM - July 30, 2024 |
-| [[notes/2024/2024-07/2024-07-18\|2024-07-18]]                                                      | 12:02 AM - July 24, 2024 |
-| [[notes/2024/2024-07/2024-07-19\|2024-07-19]]                                                      | 12:02 AM - July 24, 2024 |
-| [[notes/2024/2024-07/2024-07-22\|2024-07-22]]                                                      | 12:02 AM - July 24, 2024 |
-| [[projects/self-serve-data\|self-serve-data]]                                                      | 2:08 AM - July 28, 2024  |
+| File                                                                                                  | Modified                   |
+| ----------------------------------------------------------------------------------------------------- | -------------------------- |
+| [[data/kafka/__/bigquery-sink-connector-with-storageapi\|bigquery-sink-connector-with-storageapi]] | 11:31 PM - July 30, 2024   |
+| [[data/2024-07-30\|2024-07-30]]                                                                    | 9:58 PM - July 31, 2024    |
+| [[data/2024-07-31\|2024-07-31]]                                                                    | 11:25 PM - August 06, 2024 |
+| [[data/infcon-2024\|infcon-2024]]                                                                  | 11:25 PM - August 06, 2024 |
+| [[etc/__/language/java-wildcard-type\|java-wildcard-type]]                                         | 9:29 PM - August 01, 2024  |
 
 { .block-language-dataview}
