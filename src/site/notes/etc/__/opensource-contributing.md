@@ -7,8 +7,7 @@
 
 
 airflow
-- [Add CloudRunServiceHook and operator (create)](https://github.com/apache/airflow/pull/40008)
-- [enable AIRFLOW\__CELERY\__BROKER_URL_CMD when passwordSecretName is true](https://github.com/apache/airflow/pull/40270)
+- [EksPodOperator error with deferrable=True](https://github.com/apache/airflow/issues/39685)
 
 dbt
 - [Modified git tag option in `dbt deps`](https://github.com/dbt-labs/dbt-core/pull/10398)
@@ -18,6 +17,8 @@ dbt
 ### ✅✅✅
 
 airflow
+- [Add CloudRunServiceHook and operator (create)](https://github.com/apache/airflow/pull/40008)
+- [enable AIRFLOW\__CELERY\__BROKER_URL_CMD when passwordSecretName is true](https://github.com/apache/airflow/pull/40270)
 
 dbt
 - [Fix configuration of turning test warnings into failures](https://github.com/dbt-labs/dbt-core/pull/9347)

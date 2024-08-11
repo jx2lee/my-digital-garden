@@ -37,12 +37,17 @@
 
 
 ### recently
-| File                                                                                                  | Modified                   |
-| ----------------------------------------------------------------------------------------------------- | -------------------------- |
-| [[data/kafka/__/bigquery-sink-connector-with-storageapi\|bigquery-sink-connector-with-storageapi]] | 11:31 PM - July 30, 2024   |
-| [[data/2024-07-30\|2024-07-30]]                                                                    | 9:58 PM - July 31, 2024    |
-| [[data/2024-07-31\|2024-07-31]]                                                                    | 11:25 PM - August 06, 2024 |
-| [[data/infcon-2024\|infcon-2024]]                                                                  | 11:25 PM - August 06, 2024 |
-| [[etc/__/language/java-wildcard-type\|java-wildcard-type]]                                         | 9:29 PM - August 01, 2024  |
+| File                                                                                                                  | Modified                   |
+| --------------------------------------------------------------------------------------------------------------------- | -------------------------- |
+| [[data/dbt/__/dbt-metricstore-sad-toplevel-module-uses-view-v2\|dbt-metricstore-sad-toplevel-module-uses-view-v2]] | 3:33 PM - August 11, 2024  |
+| [[data/infcon-2024\|infcon-2024]]                                                                                  | 11:25 PM - August 06, 2024 |
+| [[data/destination-table\|destination-table]]                                                                      | 3:33 PM - August 11, 2024  |
+| [[data/monitoring-debezium\|monitoring-debezium]]                                                                  | 3:33 PM - August 11, 2024  |
+| [[notes/2024/2024-07/2024-07-31\|2024-07-31]]                                                                      | 11:58 PM - August 11, 2024 |
+| [[notes/2024/2024-08/2024-08-09\|2024-08-09]]                                                                      | 3:33 PM - August 11, 2024  |
+| [[notes/2024/2024-08/2024-08-05\|2024-08-05]]                                                                      | 3:33 PM - August 11, 2024  |
+| [[notes/2024/2024-08/2024-08-07\|2024-08-07]]                                                                      | 3:33 PM - August 11, 2024  |
+| [[notes/2024/2024-second-half\|2024-second-half]]                                                                  | 12:01 AM - August 12, 2024 |
+| [[do-not-use-fstring-in-logging\|do-not-use-fstring-in-logging]]                                                   | 11:06 AM - August 11, 2024 |
 
 { .block-language-dataview}

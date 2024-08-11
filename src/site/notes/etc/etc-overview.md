@@ -15,6 +15,7 @@
 ### Python
 - 파이썬 코딩의 기술
 	- [[etc/__/effective-python/python-better-way-14\|14. None 반환보다는 예외를 일으키자]]
+-[[do-not-use-fstring-in-logging\|do-not-use-fstring-in-logging]]
 
 ### [refactoring](https://refactoring.com/catalog/)
 - simplify-conditional-logic
