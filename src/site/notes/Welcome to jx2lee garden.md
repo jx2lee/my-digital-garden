@@ -10,7 +10,7 @@
 - 기초를 소홀히 하지 않으며,
 - 고여있지 않으려 노력하며,
 - 어제보다 나은 내일을 위해 발전하고 싶은 엔지니어에요.
-- 여가시간에 `크로스핏` 과 [[etc/__/opensource-contributing\|오픈소스 기여]]를 한답니다.
+- 여가시간에 `크로스핏` 과 [[etc/__/opensource-contributions\|오픈소스 기여]]를 한답니다.
 
 
 [Github](https://github.com/jx2lee) 과 [이력서](https://github.com/jx2lee/resume/blob/main/resume-kr.pdf)는 링크를 통해 확인할 수 있어요([링크드인](https://www.linkedin.com/in/jx2lee/)). 엔지니어 업무를 진행하면서 만났던 문제, 분기별 진행했던 프로젝트를 공유하고 흔적^[since 2023.01.21]을 남기고 있습니다. [[projects/project-overview\|프로젝트]] 에는 데이터 엔지니어로 수행한 프로젝트들을 확인할 수 있습니다.
