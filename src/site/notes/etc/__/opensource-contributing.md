@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/etc/__/opensource-contributing/","tags":["\bopensource"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgEnableSearch":true,"dgLinkPreview":true,"noteIcon":"","created":"2024-06-23T15:41:23.000+09:00"}
+{"dg-publish":true,"permalink":"/etc/__/opensource-contributing/","tags":["\bopensource"],"dgEnableSearch":true,"noteIcon":"","created":"2024-06-23T15:41:23.000+09:00"}
 ---
 
 
@@ -7,7 +7,7 @@
 
 
 airflow
-- [EksPodOperator error with deferrable=True](https://github.com/apache/airflow/issues/39685)
+- [Enable EksPodOperator deferrable](https://github.com/apache/airflow/pull/41380)
 
 dbt
 - [Modified git tag option in `dbt deps`](https://github.com/dbt-labs/dbt-core/pull/10398)
