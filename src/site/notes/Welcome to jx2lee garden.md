@@ -40,14 +40,20 @@
 | File                                                                                                                  | Modified                   |
 | --------------------------------------------------------------------------------------------------------------------- | -------------------------- |
 | [[data/dbt/__/dbt-metricstore-sad-toplevel-module-uses-view-v2\|dbt-metricstore-sad-toplevel-module-uses-view-v2]] | 3:33 PM - August 11, 2024  |
-| [[data/infcon-2024\|infcon-2024]]                                                                                  | 11:25 PM - August 06, 2024 |
+| [[data/dbt-cdi-attributes\|dbt-cdi-attributes]]                                                                    | 10:41 PM - August 13, 2024 |
 | [[data/destination-table\|destination-table]]                                                                      | 3:33 PM - August 11, 2024  |
 | [[data/monitoring-debezium\|monitoring-debezium]]                                                                  | 3:33 PM - August 11, 2024  |
-| [[notes/2024/2024-07/2024-07-31\|2024-07-31]]                                                                      | 11:58 PM - August 11, 2024 |
-| [[notes/2024/2024-08/2024-08-09\|2024-08-09]]                                                                      | 3:33 PM - August 11, 2024  |
+| [[data/2024-08-14\|2024-08-14]]                                                                                    | 10:23 PM - August 16, 2024 |
+| [[data/incremental-merge-full-scanning\|incremental-merge-full-scanning]]                                          | 10:23 PM - August 16, 2024 |
+| [[etc/__/do-not-use-fstring-in-logging\|do-not-use-fstring-in-logging]]                                            | 11:06 AM - August 11, 2024 |
+| [[etc/__/inflean/inflearn-wide-shallow-computer-science\|inflearn-wide-shallow-computer-science]]                  | 1:01 AM - August 15, 2024  |
+| [[etc/__/macos-filesystem\|macos-filesystem]]                                                                      | 10:43 PM - August 13, 2024 |
+| [[projects/ongoing-operations/managed-batch-pipelines\|managed-batch-pipelines]]                                   | 1:10 AM - August 15, 2024  |
+| [[projects/ongoing-operations/managed-services\|managed-services]]                                                 | 1:13 AM - August 15, 2024  |
+| [[projects/ongoing-operations/managed-streaming-pipelines\|managed-streaming-pipelines]]                           | 1:12 AM - August 15, 2024  |
 | [[notes/2024/2024-08/2024-08-05\|2024-08-05]]                                                                      | 3:33 PM - August 11, 2024  |
 | [[notes/2024/2024-08/2024-08-07\|2024-08-07]]                                                                      | 3:33 PM - August 11, 2024  |
+| [[notes/2024/2024-08/2024-08-09\|2024-08-09]]                                                                      | 3:33 PM - August 11, 2024  |
 | [[notes/2024/2024-second-half\|2024-second-half]]                                                                  | 12:01 AM - August 12, 2024 |
-| [[do-not-use-fstring-in-logging\|do-not-use-fstring-in-logging]]                                                   | 11:06 AM - August 11, 2024 |
 
 { .block-language-dataview}
