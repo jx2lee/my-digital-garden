@@ -8,7 +8,7 @@
 - terms
 	- [[etc/__/language/java-plain-old-java-object\|java-plain-old-java-object]]
 	- [[etc/__/language/java-auto-unboxing\|java-auto-unboxing]]
-	- [[etc/__/language/common-statement-and-expression\|common-statement-and-expression]]
+	- [[etc/__/language/common-statement-expression\|common-statement-expression]]
 	- [[etc/__/language/common-early-return-example\|common-early-return-example]] 
 	- [[etc/__/language/java-meta-annotation\|meta annotation]]
 
