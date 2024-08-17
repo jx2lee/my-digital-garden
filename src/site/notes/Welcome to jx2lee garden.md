@@ -6,9 +6,9 @@
 
 ### 안녕하세요. 가상자산 거래소 [@Coinone](https://coinone.co.kr/)의 데이터 엔지니어, 이재준 입니다.
 
-- 새로운 기술에 관심이 많고,
-- 기초를 소홀히 하지 않으며,
-- 고여있지 않으려 노력하며,
+- 새로운 기술에 관심이 많고
+- 기초를 소홀히 하지 않으며
+- 고여있지 않으려 노력하며
 - 어제보다 나은 내일을 위해 발전하고 싶은 엔지니어에요.
 - 여가시간에 `크로스핏` 과 [[etc/__/opensource-contributions\|오픈소스 기여]]를 한답니다.
 
@@ -50,7 +50,7 @@
 | [[notes/2024/2024-08/2024-08-07\|2024-08-07]]                                                                      | 3:33 PM - August 11, 2024  |
 | [[notes/2024/2024-second-half\|2024-second-half]]                                                                  | 12:01 AM - August 12, 2024 |
 | [[etc/__/do-not-use-fstring-in-logging\|do-not-use-fstring-in-logging]]                                            | 11:06 AM - August 11, 2024 |
-| [[etc/__/inflean/inflearn-wide-shallow-computer-science\|inflearn-wide-shallow-computer-science]]                  | 1:01 AM - August 15, 2024  |
+| [[etc/__/inflean/inflearn-wide-shallow-computer-science\|inflearn-wide-shallow-computer-science]]                  | 1:09 AM - August 18, 2024  |
 | [[etc/__/macos-filesystem\|macos-filesystem]]                                                                      | 10:43 PM - August 13, 2024 |
 
 { .block-language-dataview}
