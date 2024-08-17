@@ -1,5 +1,5 @@
 ---
-{"author":"jx2lee","aliases":"오픈소스 기여","created":"2024-06-23T15:41:23.000+09:00","last-updated":"2024-06-23 22:17","tags":["\bopensource"],"dg-publish":true,"dg-home-link":false,"dg-show-local-graph":false,"dg-show-backlinks":false,"dg-show-toc":false,"dg-show-inline-title":false,"dg-show-file-tree":false,"dg-enable-search":true,"dg-link-preview":false,"dg-show-tags":false,"dg-pass-frontmatter":true,"permalink":"/etc/__/opensource-contributions/","dgPassFrontmatter":true,"dgEnableSearch":true,"noteIcon":""}
+{"author":"jx2lee","aliases":"오픈소스 기여","created":"2024-06-23T15:41:23.000+09:00","last-updated":"2024-06-23 22:17","tags":["opensource"],"dg-publish":true,"dg-home-link":false,"dg-show-local-graph":false,"dg-show-backlinks":false,"dg-show-toc":false,"dg-show-inline-title":false,"dg-show-file-tree":false,"dg-enable-search":true,"dg-link-preview":false,"dg-show-tags":false,"dg-pass-frontmatter":true,"permalink":"/etc/__/opensource-contributions/","dgPassFrontmatter":true,"dgEnableSearch":true,"noteIcon":""}
 ---
 
 
