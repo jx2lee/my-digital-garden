@@ -38,14 +38,5 @@ BigQuery 실시간 파이프라인의 가능한 CDC 도구를 살펴보고 비�
 - 메시징 시스템을 이용하여 데이터 변경 사항을 관련 대상 시스템이 구독(subscribe)하는 대기열에 publish 할 수 있음
 
 
-
-### AWS DMS (Data Migration Service)
-#### pros
-#### cons
-
-### kafka connect
-#### pros
-#### cons
-
 ### reference
 - [confluent document](https://www.confluent.io/learn/change-data-capture/)
