@@ -11,7 +11,7 @@
         - dbt-bigquery: [add test case when raise ServiceUnavailable in is_retryable](https://github.com/dbt-labs/dbt-bigquery/pull/1224)
 - ✅
     - airflow
-        - [Add CloudRunServiceHook and operator (create)](https://github.com/apache/airflow/pull/40008)
+        - [Add CloudRunServiceHook and operator](https://github.com/apache/airflow/pull/40008)
         - [enable AIRFLOW\__CELERY\__BROKER_URL_CMD when passwordSecretName is true](https://github.com/apache/airflow/pull/40270)
     - dbt
         - [Fix configuration of turning test warnings into failures](https://github.com/dbt-labs/dbt-core/pull/9347)
