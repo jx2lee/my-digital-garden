@@ -37,13 +37,12 @@
 
 
 ### recently
-| File                                                                                                 | Modified                   |
-| ---------------------------------------------------------------------------------------------------- | -------------------------- |
-| [[data/2024-08-14\|2024-08-14]]                                                                   | 10:23 PM - August 16, 2024 |
-| [[data/incremental-merge-full-scanning\|incremental-merge-full-scanning]]                         | 10:23 PM - August 16, 2024 |
-| [[data/dbt-cdi-attributes\|dbt-cdi-attributes]]                                                   | 10:41 PM - August 13, 2024 |
-| [[data/kafka/__/cdc-pipeline-with-debezium\|cdc-pipeline-with-debezium]]                          | 11:44 PM - August 18, 2024 |
-| [[etc/__/inflean/inflearn-wide-shallow-computer-science\|inflearn-wide-shallow-computer-science]] | 1:09 AM - August 18, 2024  |
-| [[etc/__/macos-filesystem\|macos-filesystem]]                                                     | 10:43 PM - August 13, 2024 |
+| File                               | Modified                     |
+| ---------------------------------- | ---------------------------- |
+| [[data/2024-08-30\|2024-08-30]] | 7:18 PM - August 31, 2024    |
+| [[data/2024-08-27\|2024-08-27]] | 7:18 PM - August 31, 2024    |
+| [[data/data-1709\|data-1709]]   | 7:18 PM - August 31, 2024    |
+| [[data/data-1738\|data-1738]]   | 7:18 PM - August 31, 2024    |
+| [[projects\|projects]]          | 1:43 AM - September 01, 2024 |
 
 { .block-language-dataview}
