@@ -21,10 +21,8 @@ flowchart TB
     subgraph aws["AWS"]
         subgraph eks["AWS EKS"]
             subgraph source_connect["Kafka Connect Cluster"]
-                source("Debezium SourceConnector")
-            end
-            subgraph sink_connect["Kafka Connect Cluster"]
                 sink("BigQuery SinkConnector")
+                source("Debezium SourceConnector")
             end
 
         end
