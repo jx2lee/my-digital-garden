@@ -1,14 +1,13 @@
 ---
-{"author":"jx2lee","aliases":["오픈소스 기여"],"created":"2024-06-23T15:41:23.000+09:00","last-updated":"2024-06-23 22:17","tags":["opensource"],"dg-publish":true,"dg-home-link":false,"dg-show-local-graph":false,"dg-show-backlinks":false,"dg-show-toc":false,"dg-show-inline-title":false,"dg-show-file-tree":false,"dg-enable-search":false,"dg-link-preview":false,"dg-show-tags":false,"dg-pass-frontmatter":true,"permalink":"/opensource-contributions/","dgPassFrontmatter":true,"noteIcon":""}
+{"author":"jx2lee","aliases":["오픈소스 기여"],"created":"2024-09-09T21:20:14.620+09:00","last-updated":"2024-06-23 22:17","tags":["opensource"],"dg-publish":true,"dg-home-link":false,"dg-show-local-graph":false,"dg-show-backlinks":false,"dg-show-toc":false,"dg-show-inline-title":false,"dg-show-file-tree":false,"dg-enable-search":false,"dg-link-preview":false,"dg-show-tags":false,"dg-pass-frontmatter":true,"permalink":"/opensource-contributions/","dgPassFrontmatter":true,"noteIcon":""}
 ---
 
 
 - ⌛️
-    - airflow
-        - [Enable EksPodOperator deferrable](https://github.com/apache/airflow/pull/41380)
-    - dbt
-        - [Modified git tag option in `dbt deps`](https://github.com/dbt-labs/dbt-core/pull/10398)
-        - dbt-bigquery: [add test case when raise ServiceUnavailable in is_retryable](https://github.com/dbt-labs/dbt-bigquery/pull/1224)
+    - [Airflow: Enable EksPodOperator when deferrable is true](https://github.com/apache/airflow/pull/41380)
+    - [Airflow: Add parent_model param in UploadModelOperator](https://github.com/apache/airflow/pull/42091)
+    - [dbt: Modified git tag option in `dbt deps`](https://github.com/dbt-labs/dbt-core/pull/10398)
+    - [dbt-bigquery: add test case when raise ServiceUnavailable in is_retryable](https://github.com/dbt-labs/dbt-bigquery/pull/1224)
 - ✅
     - airflow
         - [Add CloudRunServiceHook and operator](https://github.com/apache/airflow/pull/40008)
