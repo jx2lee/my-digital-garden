@@ -37,12 +37,11 @@
 
 
 ### recently
-| File                               | Modified                     |
-| ---------------------------------- | ---------------------------- |
-| [[data/2024-08-30\|2024-08-30]] | 7:18 PM - August 31, 2024    |
-| [[data/2024-08-27\|2024-08-27]] | 7:18 PM - August 31, 2024    |
-| [[data/data-1709\|data-1709]]   | 7:18 PM - August 31, 2024    |
-| [[data/data-1738\|data-1738]]   | 7:18 PM - August 31, 2024    |
-| [[projects\|projects]]          | 1:43 AM - September 01, 2024 |
+| File                                                      | Modified                     |
+| --------------------------------------------------------- | ---------------------------- |
+| [[opensource-contributions\|opensource-contributions]] | 9:22 PM - September 09, 2024 |
+| [[DATA-1703\|DATA-1703]]                               | 9:20 PM - September 09, 2024 |
+| [[slash-24\|slash-24]]                                 | 9:17 PM - September 13, 2024 |
+| [[typer\|typer]]                                       | 9:34 PM - September 13, 2024 |
 
 { .block-language-dataview}
