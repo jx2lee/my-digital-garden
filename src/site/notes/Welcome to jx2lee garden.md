@@ -23,15 +23,15 @@
 ### category
 | stack      | Link                                                       |
 | ---------- | ---------------------------------------------------------- |
-| airbyte    | [[data/airbyte/airbyte-overview\|airbyte-overview]]     |
 | airflow    | [[data/airflow/airflow-overview\|airflow-overview]]     |
+| dbt        | [[data/dbt/dbt-overview\|dbt-overview]]                 |
+| kafka      | [[data/kafka/kafka-overview\|kafka-overview]]           |
+| airbyte    | [[data/airbyte/airbyte-overview\|airbyte-overview]]     |
 | bigquery   | [[data/bigquery/bigquery_overview\|bigquery_overview]]  |
 | datahub    | [[data/datahub/datahub-overview\|datahub-overview]]     |
-| dbt        | [[data/dbt/dbt-overview\|dbt-overview]]                 |
-| etc        | [[etc/etc-overview\|etc-overview]]                      |
-| kafka      | [[data/kafka/kafka-overview\|kafka-overview]]           |
 | kubernetes | [[kubernetes/kubernetes-overview\|kubernetes-overview]] |
 | rdb        | [[data/rdb/rdb-overview\|rdb-overview]]                 |
+| etc        | [[etc/etc-overview\|etc-overview]]                      |
 
 { .block-language-dataview}
 

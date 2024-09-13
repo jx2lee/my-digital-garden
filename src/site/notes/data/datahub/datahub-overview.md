@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/data/datahub/datahub-overview/","tags":["overview","datahub"],"dgHomeLink":true,"dgShowBacklinks":true,"dgShowLocalGraph":true,"dgEnableSearch":true,"dgLinkPreview":true,"dgShowTags":true,"noteIcon":"","created":"2024-06-30T00:39:32.595+09:00"}
+{"dg-publish":true,"permalink":"/data/datahub/datahub-overview/","tags":["datahub","overview"],"dgHomeLink":true,"dgShowBacklinks":true,"dgShowLocalGraph":true,"dgEnableSearch":true,"dgLinkPreview":"ture","noteIcon":"","created":"2024-06-30T00:39:32.595+09:00"}
 ---
 
 

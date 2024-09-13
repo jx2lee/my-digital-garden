@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/data/dbt/dbt-overview/","tags":["dbt","overview"],"dgShowBacklinks":true,"dgLinkPreview":true,"noteIcon":"","created":"2024-06-30T00:39:32.601+09:00"}
+{"dg-publish":true,"permalink":"/data/dbt/dbt-overview/","tags":["dbt","overview"],"dgHomeLink":true,"dgShowBacklinks":true,"dgShowLocalGraph":true,"dgEnableSearch":true,"dgLinkPreview":"ture","noteIcon":"","created":"2024-06-30T00:39:32.601+09:00"}
 ---
 
 
@@ -19,7 +19,7 @@
 - [[data/dbt/__/dbt-custom-schemas\|dbt_projects.yml 에 설정한 schema 이름 변경하기]]
 - [[data/dbt/__/dbt-snapshot-query\|dbt snapshot 모델 과정 뜯어보기]]
 - [[data/dbt/__/declare_dbt_max_partition marco\|dbt 사용량 줄여보기 - override declare_dbt_max_partition 매크로]]
-- [[dbt-incremental-full-scan\|dbt 증분모델에서 merge 시 풀스캔 현상(with datetime partition column)]]
+- [[data/dbt/__/dbt-incremental-full-scan\|dbt 증분모델에서 merge 시 풀스캔 현상(with datetime partition column)]]
 
 
 ### project

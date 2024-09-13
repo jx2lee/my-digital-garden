@@ -45,6 +45,7 @@ flowchart TB
     rds --> |read| source --> |produce| msk --> |consume| sink --> |write| gcp
     source --> |collect metrics| amp --> |dashboard & alert| amg --> |watch| users
 ```
+
 - 소스는 서비스에 사용하는 AWS RDS, 타겟은 DW 로 사용중인 BigQuery 입니다.
 - 카프카 커넥트 클러스터는는 AWS EKS 에서 helm chart 형태로 ArgoCD 로 배포하였습니다. Debezium 소스커넥터와 BigQuery 싱크커넥터가 존재하며 Debezium 커넥터가 CDC 데이터를 수집할 테이블의 변경을 감지, MSK 로 메세지를 발행해요. 수집할 테이블 별 토픽이 생성되고 토픽 to BigQuery 테이블로 적재하는 과정은 BigQuery 싱크 커넥터가 담당해요. 실시간/배치 파이프라인에 의해 적재되는 데이터를 분리하고자 debezium 데이터셋 하위 테이블로 적재하도록 구성했어요.
 - Debezium 커넥터는 jmx 메트릭을 제공합니다. 제대로 수집하고 있는지, 소스 빈로그를 잘 따라가고 있는지, 스냅샷은 잘 실행되었는지 확인하기 위해 모니터링 환경을 구성했어요. 커넥트 차트 promethus 템플릿을 활용하여 수집할 수 있는 메트릭들을 정의하고 이는 자동으로 AMP 로 수집하도록 구성했어요. 수집된 지표는 사내 사용중인 AMG 로 대시보드를 구성하였고 alert 을 설정했어요.
