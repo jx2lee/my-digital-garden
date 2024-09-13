@@ -20,6 +20,7 @@
 - [[data/dbt/__/dbt-snapshot-query\|dbt snapshot 모델 과정 뜯어보기]]
 - [[data/dbt/__/declare_dbt_max_partition marco\|dbt 사용량 줄여보기 - override declare_dbt_max_partition 매크로]]
 - [[data/dbt/__/dbt-incremental-full-scan\|dbt 증분모델에서 merge 시 풀스캔 현상(with datetime partition column)]]
+- [[data/dbt/__/dbt-braze-cdi-integration\|dbt 와 cdi custom attribute 통합하기]]
 
 
 ### project
