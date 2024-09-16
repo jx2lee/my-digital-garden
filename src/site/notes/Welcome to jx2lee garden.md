@@ -39,9 +39,8 @@
 ### recently
 | File                                                      | Modified                     |
 | --------------------------------------------------------- | ---------------------------- |
+| [[etc/__/typer\|typer]]                                | 9:34 PM - September 13, 2024 |
+| [[notes/__/meetup/20240912-slash24\|20240912-slash24]] | 9:17 PM - September 13, 2024 |
 | [[opensource-contributions\|opensource-contributions]] | 9:22 PM - September 09, 2024 |
-| [[DATA-1703\|DATA-1703]]                               | 9:20 PM - September 09, 2024 |
-| [[slash-24\|slash-24]]                                 | 9:17 PM - September 13, 2024 |
-| [[typer\|typer]]                                       | 9:34 PM - September 13, 2024 |
 
 { .block-language-dataview}
