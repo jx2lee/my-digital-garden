@@ -8,7 +8,6 @@
 - [[data/airflow/__/airflow-landing-time\|Landing Times]]
 
 ### etc
-- [[data/airflow/__/airflow-local-with-docker\|airflow-local-with-docker]]
 - [[data/airflow/__/airflow-testcode\|airflow-testcode]]
 - awesome
 	- [[data/airflow/__/dag-factory-in-action\|dag-factory 맛보기 🤤]]
