@@ -11,7 +11,6 @@
 
 ### job knowledge
 - [[data/kafka/__/who-are-ack\|ack 의 정의를 다양한 곳에서 살펴본다]]
-- [[data/kafka/__/__PROTECTED__debezium-mysql-connector\|__PROTECTED__debezium-mysql-connector]]
 - [[data/kafka/__/delivery-semantics\|메세지 전달 시멘틱]]
 
 
