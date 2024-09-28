@@ -3,14 +3,9 @@
 ---
 
 
-### basic
-- [[data/airflow/__/airflow-task\|Task]]
-- [[data/airflow/__/airflow-landing-time\|Landing Times]]
-
-### etc
-- [[data/airflow/__/airflow-testcode\|airflow-testcode]]
-- awesome
-	- [[data/airflow/__/dag-factory-in-action\|dag-factory 맛보기 🤤]]
+[[data/airflow/__/dag-factory-in-action\|dag-factory 맛보기]]
 
 ### reference
+- [What is Airflow®?](https://airflow.apache.org/docs/apache-airflow/stable/index.html)
+    - [Core Components](https://airflow.apache.org/docs/apache-airflow/stable/core-concepts/index.html)
 - [Apache Airflow Tutorials for Beginner](https://heumsi.github.io/apache-airflow-tutorials-for-beginner/)

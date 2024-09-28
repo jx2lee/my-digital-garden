@@ -12,14 +12,19 @@
 ### job knowledge
 - [[data/kafka/__/who-are-ack\|ack 의 정의를 다양한 곳에서 살펴본다]]
 - [[data/kafka/__/delivery-semantics\|메세지 전달 시멘틱]]
+- 
 
 
 ### research
 - [[data/kafka/__/cdc-research\|Chnage Data Capture, CDC 가볍가볍게 훑어보기]]
+- [[data/kafka/__/ksql\|ksql]]
 
 
 ### reference
 - [kafka official documents](https://kafka.apache.org/documentation/)
+- Confluent
+    - [Kafka Listeners](https://www.confluent.io/blog/kafka-listeners-explained)
+    - [Kafka Connect Deep Dive – Converters and Serialization Explained](https://www.confluent.io/blog/kafka-connect-deep-dive-converters-serialization-explained)
 - KR
     - [카카오: 카카오 개발자들을 위한 공용 Message Streaming Platform – Kafka & RabbitMQ](https://tech.kakao.com/2021/12/23/kafka-rabbitmq/)
     - [카카오: 제네시스 – 광고추천팀의 카프카 기반 스트리밍 데이터 플랫폼](https://tech.kakao.com/2022/04/13/kafka-connect-streaming-data-platform/)
