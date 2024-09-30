@@ -27,7 +27,7 @@
 | dbt        | [[data/dbt/dbt-overview\|dbt-overview]]                 |
 | kafka      | [[data/kafka/kafka-overview\|kafka-overview]]           |
 | airbyte    | [[data/airbyte/airbyte-overview\|airbyte-overview]]     |
-| bigquery   | [[data/bigquery/bigquery_overview\|bigquery_overview]]  |
+| bigquery   | [[data/bigquery/bigquery-overview\|bigquery-overview]]  |
 | datahub    | [[data/datahub/datahub-overview\|datahub-overview]]     |
 | kubernetes | [[kubernetes/kubernetes-overview\|kubernetes-overview]] |
 | rdb        | [[data/rdb/rdb-overview\|rdb-overview]]                 |
@@ -37,11 +37,17 @@
 
 
 ### recently
-| File                                                   | Modified                      |
-| ------------------------------------------------------ | ----------------------------- |
-| [[2024-09-19\|2024-09-19]]                          | 11:15 PM - September 22, 2024 |
-| [[2024-09-23\|2024-09-23]]                          | 9:37 PM - September 24, 2024  |
-| [[DATA-1703\|DATA-1703]]                            | 9:37 PM - September 24, 2024  |
-| [[data/datahub/datahub-overview\|datahub-overview]] | 9:37 PM - September 24, 2024  |
+| File                                                                | Modified         |
+| ------------------------------------------------------------------- | ---------------- |
+| [[Welcome to jx2lee garden\|Welcome to jx2lee garden]]           | 2024-09-30 17:07 |
+| [[opensource-contributions\|opensource-contributions]]           | 2024-09-29 10:36 |
+| [[projects\|projects]]                                           | 2024-09-28 17:19 |
+| [[data/etc/self-serve-data\|self-serve-data]]                    | 2024-09-28 17:04 |
+| [[data/airflow/airflow-overview\|airflow-overview]]              | 2024-09-28 16:26 |
+| [[data/airflow/__/dag-factory-in-action\|dag-factory-in-action]] | 2024-09-28 16:24 |
+| [[data/airflow/__/airflow-testcode\|airflow-testcode]]           | 2024-09-28 16:23 |
+| [[data/airflow/__/airflow-landing-time\|airflow-landing-time]]   | 2024-09-28 16:22 |
+| [[data/airflow/__/airflow-task\|airflow-task]]                   | 2024-09-28 16:21 |
+| [[2024-09-23\|2024-09-23]]                                       | 2024-09-24 21:37 |
 
 { .block-language-dataview}
