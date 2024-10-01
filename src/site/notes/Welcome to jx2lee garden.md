@@ -20,34 +20,32 @@
 
 ![|400](https://i.imgur.com/EfyC7Gg.jpeg)
 
-### category
-| stack      | Link                                                       |
-| ---------- | ---------------------------------------------------------- |
-| airflow    | [[data/airflow/airflow-overview\|airflow-overview]]     |
-| dbt        | [[data/dbt/dbt-overview\|dbt-overview]]                 |
-| kafka      | [[data/kafka/kafka-overview\|kafka-overview]]           |
-| airbyte    | [[data/airbyte/airbyte-overview\|airbyte-overview]]     |
-| bigquery   | [[data/bigquery/bigquery-overview\|bigquery-overview]]  |
-| datahub    | [[data/datahub/datahub-overview\|datahub-overview]]     |
-| kubernetes | [[kubernetes/kubernetes-overview\|kubernetes-overview]] |
-| rdb        | [[data/rdb/rdb-overview\|rdb-overview]]                 |
-| etc        | [[etc/etc-overview\|etc-overview]]                      |
+| Components                                        |
+| ------------------------------------------------- |
+| [[data/airflow/airflow-overview\|airflow]]     |
+| [[data/dbt/dbt-overview\|dbt]]                 |
+| [[data/kafka/kafka-overview\|kafka]]           |
+| [[data/airbyte/airbyte-overview\|airbyte]]     |
+| [[data/bigquery/bigquery-overview\|bigquery]]  |
+| [[data/datahub/datahub-overview\|datahub]]     |
+| [[kubernetes/kubernetes-overview\|kubernetes]] |
+| [[data/rdb/rdb-overview\|rdb]]                 |
+| [[etc/etc-overview\|etc]]                      |
 
 { .block-language-dataview}
 
 
-### recently
 | File                                                                        | Modified         |
 | --------------------------------------------------------------------------- | ---------------- |
+| [[Welcome to jx2lee garden\|Welcome to jx2lee garden]]                   | 2024-10-01 17:38 |
+| [[templates/tpl-project\|tpl-project]]                                   | 2024-10-01 14:56 |
+| [[templates/tpl-overview\|tpl-overview]]                                 | 2024-10-01 14:55 |
+| [[notes/career\|career]]                                                 | 2024-10-01 14:54 |
 | [[data/dbt/__/dbt-cicd-pipeline\|dbt-cicd-pipeline]]                     | 2024-10-01 14:35 |
 | [[data/etc/self-serve-data\|self-serve-data]]                            | 2024-10-01 14:35 |
 | [[data/kafka/__/cdc-pipeline-with-debezium\|cdc-pipeline-with-debezium]] | 2024-10-01 14:35 |
 | [[data/kafka/__/migration-to-kakfa-connect\|migration-to-kakfa-connect]] | 2024-10-01 14:35 |
-| [[notes/career\|career]]                                                 | 2024-10-01 14:28 |
 | [[projects\|projects]]                                                   | 2024-10-01 14:14 |
-| [[Welcome to jx2lee garden\|Welcome to jx2lee garden]]                   | 2024-09-30 17:07 |
 | [[opensource-contributions\|opensource-contributions]]                   | 2024-09-29 10:36 |
-| [[data/airflow/airflow-overview\|airflow-overview]]                      | 2024-09-28 16:26 |
-| [[data/airflow/__/dag-factory-in-action\|dag-factory-in-action]]         | 2024-09-28 16:24 |
 
 { .block-language-dataview}
