@@ -35,17 +35,17 @@
 { .block-language-dataview}
 
 
-| File                                                                        | Modified         |
-| --------------------------------------------------------------------------- | ---------------- |
-| [[Welcome to jx2lee garden\|Welcome to jx2lee garden]]                   | 2024-10-01 17:38 |
-| [[templates/tpl-project\|tpl-project]]                                   | 2024-10-01 14:56 |
-| [[templates/tpl-overview\|tpl-overview]]                                 | 2024-10-01 14:55 |
-| [[notes/career\|career]]                                                 | 2024-10-01 14:54 |
-| [[data/dbt/__/dbt-cicd-pipeline\|dbt-cicd-pipeline]]                     | 2024-10-01 14:35 |
-| [[data/etc/self-serve-data\|self-serve-data]]                            | 2024-10-01 14:35 |
-| [[data/kafka/__/cdc-pipeline-with-debezium\|cdc-pipeline-with-debezium]] | 2024-10-01 14:35 |
-| [[data/kafka/__/migration-to-kakfa-connect\|migration-to-kakfa-connect]] | 2024-10-01 14:35 |
-| [[projects\|projects]]                                                   | 2024-10-01 14:14 |
-| [[opensource-contributions\|opensource-contributions]]                   | 2024-09-29 10:36 |
+| Notes                                                                        | Modified         |
+| ---------------------------------------------------------------------------- | ---------------- |
+| [[Welcome to jx2lee garden\|Welcome to jx2lee garden]]                    | 2024-10-01 21:15 |
+| [[data/dbt/__/dbt-cicd-pipeline\|Github Action 을 활용한 dbt CI/CD 파이프라인 구축]] | 2024-10-01 14:35 |
+| [[data/etc/self-serve-data\|self-serve-data]]                             | 2024-10-01 14:35 |
+| [[data/kafka/__/cdc-pipeline-with-debezium\|Debezium 을 이용한 CDC 파이프라인 구축]] | 2024-10-01 14:35 |
+| [[data/kafka/__/migration-to-kakfa-connect\|서버로그 파이프라인 마이그레이션]]           | 2024-10-01 14:35 |
+| [[projects\|프로젝트]]                                                        | 2024-10-01 14:14 |
+| [[opensource-contributions\|오픈소스 기여]]                                     | 2024-09-29 10:36 |
+| [[data/airflow/airflow-overview\|airflow]]                                | 2024-09-28 16:26 |
+| [[data/airflow/__/dag-factory-in-action\|dag-factory 맛보기]]                | 2024-09-28 16:24 |
+| [[data/datahub/datahub-overview\|datahub]]                                | 2024-09-24 21:37 |
 
 { .block-language-dataview}
