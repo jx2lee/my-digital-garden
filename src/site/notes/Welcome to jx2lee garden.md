@@ -39,7 +39,7 @@
 ### recently
 | File                                                                | Modified         |
 | ------------------------------------------------------------------- | ---------------- |
-| [[projects\|projects]]                                           | 2024-09-30 17:20 |
+| [[projects\|projects]]                                           | 2024-10-01 14:14 |
 | [[Welcome to jx2lee garden\|Welcome to jx2lee garden]]           | 2024-09-30 17:07 |
 | [[opensource-contributions\|opensource-contributions]]           | 2024-09-29 10:36 |
 | [[data/etc/self-serve-data\|self-serve-data]]                    | 2024-09-28 17:04 |

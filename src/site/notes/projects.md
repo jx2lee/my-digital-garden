@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/projects/","tags":["project","list"],"dgShowLocalGraph":true,"dgEnableSearch":true,"dgLinkPreview":true,"noteIcon":"","created":"2024-08-31T19:26:08.273+09:00"}
+{"dg-publish":true,"permalink":"/projects/","tags":["project","list"],"dgLinkPreview":true,"noteIcon":"","created":"2024-08-31T19:26:08.273+09:00"}
 ---
 
 
