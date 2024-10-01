@@ -37,17 +37,17 @@
 
 
 ### recently
-| File                                                                | Modified         |
-| ------------------------------------------------------------------- | ---------------- |
-| [[projects\|projects]]                                           | 2024-10-01 14:14 |
-| [[Welcome to jx2lee garden\|Welcome to jx2lee garden]]           | 2024-09-30 17:07 |
-| [[opensource-contributions\|opensource-contributions]]           | 2024-09-29 10:36 |
-| [[data/etc/self-serve-data\|self-serve-data]]                    | 2024-09-28 17:04 |
-| [[data/airflow/airflow-overview\|airflow-overview]]              | 2024-09-28 16:26 |
-| [[data/airflow/__/dag-factory-in-action\|dag-factory-in-action]] | 2024-09-28 16:24 |
-| [[data/airflow/__/airflow-testcode\|airflow-testcode]]           | 2024-09-28 16:23 |
-| [[data/airflow/__/airflow-landing-time\|airflow-landing-time]]   | 2024-09-28 16:22 |
-| [[data/airflow/__/airflow-task\|airflow-task]]                   | 2024-09-28 16:21 |
-| [[2024-09-23\|2024-09-23]]                                       | 2024-09-24 21:37 |
+| File                                                                        | Modified         |
+| --------------------------------------------------------------------------- | ---------------- |
+| [[data/dbt/__/dbt-cicd-pipeline\|dbt-cicd-pipeline]]                     | 2024-10-01 14:35 |
+| [[data/etc/self-serve-data\|self-serve-data]]                            | 2024-10-01 14:35 |
+| [[data/kafka/__/cdc-pipeline-with-debezium\|cdc-pipeline-with-debezium]] | 2024-10-01 14:35 |
+| [[data/kafka/__/migration-to-kakfa-connect\|migration-to-kakfa-connect]] | 2024-10-01 14:35 |
+| [[notes/career\|career]]                                                 | 2024-10-01 14:28 |
+| [[projects\|projects]]                                                   | 2024-10-01 14:14 |
+| [[Welcome to jx2lee garden\|Welcome to jx2lee garden]]                   | 2024-09-30 17:07 |
+| [[opensource-contributions\|opensource-contributions]]                   | 2024-09-29 10:36 |
+| [[data/airflow/airflow-overview\|airflow-overview]]                      | 2024-09-28 16:26 |
+| [[data/airflow/__/dag-factory-in-action\|dag-factory-in-action]]         | 2024-09-28 16:24 |
 
 { .block-language-dataview}
