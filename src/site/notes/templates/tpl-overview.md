@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/templates/tpl-overview/","tags":[null],"dgHomeLink":true,"dgShowBacklinks":true,"dgShowLocalGraph":true,"dgEnableSearch":true,"dgLinkPreview":"ture","noteIcon":"","created":"2023-12-20T00:33:04.000+09:00"}
+{"dg-publish":true,"permalink":"/templates/tpl-overview/","dgHomeLink":true,"dgShowLocalGraph":true,"dgEnableSearch":true,"dgLinkPreview":"ture","noteIcon":"","created":"2023-12-20T00:33:04.000+09:00"}
 ---
 
 
