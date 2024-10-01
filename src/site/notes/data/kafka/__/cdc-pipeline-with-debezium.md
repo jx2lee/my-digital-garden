@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/data/kafka/__/cdc-pipeline-with-debezium/","tags":["debezium","kafka","mysql","connect","source"],"dgShowBacklinks":true,"dgShowLocalGraph":true,"dgEnableSearch":true,"dgLinkPreview":true,"dgShowTags":true,"noteIcon":"","created":"2024-08-18T23:38:04.683+09:00"}
+{"dg-publish":true,"permalink":"/data/kafka/__/cdc-pipeline-with-debezium/","tags":["debezium","kafka","mysql","connect","source"],"dgShowBacklinks":true,"dgLinkPreview":true,"noteIcon":"","created":"2024-08-18T23:38:04.683+09:00"}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/data/etc/self-serve-data/","tags":["airbyte","datahub","opensource"],"dgShowBacklinks":true,"dgShowLocalGraph":true,"dgEnableSearch":true,"dgLinkPreview":true,"noteIcon":"","created":"2024-07-28T02:04:17.031+09:00"}
+{"dg-publish":true,"permalink":"/data/etc/self-serve-data/","tags":["airbyte","datahub","opensource"],"dgShowBacklinks":true,"dgLinkPreview":true,"noteIcon":"","created":"2024-07-28T02:04:17.031+09:00"}
 ---
 
 
