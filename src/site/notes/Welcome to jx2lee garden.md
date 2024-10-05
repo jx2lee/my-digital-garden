@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Welcome to jx2lee garden/","tags":["gardenEntry"],"dgEnableSearch":true,"noteIcon":"","created":"2023-12-20T00:33:04.000+09:00"}
+{"dg-publish":true,"permalink":"/Welcome to jx2lee garden/","tags":["gardenEntry"],"dgEnableSearch":true,"noteIcon":"","created":"2024-10-02T18:51:46.475+09:00"}
 ---
 
 
@@ -35,17 +35,17 @@
 { .block-language-dataview}
 
 
-| Notes                                                                        | Modified         |
-| ---------------------------------------------------------------------------- | ---------------- |
-| [[Welcome to jx2lee garden\|Welcome to jx2lee garden]]                    | 2024-10-01 21:15 |
-| [[data/dbt/__/dbt-cicd-pipeline\|Github Action 을 활용한 dbt CI/CD 파이프라인 구축]] | 2024-10-01 14:35 |
-| [[data/etc/self-serve-data\|self-serve-data]]                             | 2024-10-01 14:35 |
-| [[data/kafka/__/cdc-pipeline-with-debezium\|Debezium 을 이용한 CDC 파이프라인 구축]] | 2024-10-01 14:35 |
-| [[data/kafka/__/migration-to-kakfa-connect\|서버로그 파이프라인 마이그레이션]]           | 2024-10-01 14:35 |
-| [[projects\|프로젝트]]                                                        | 2024-10-01 14:14 |
-| [[opensource-contributions\|오픈소스 기여]]                                     | 2024-09-29 10:36 |
-| [[data/airflow/airflow-overview\|airflow]]                                | 2024-09-28 16:26 |
-| [[data/airflow/__/dag-factory-in-action\|dag-factory 맛보기]]                | 2024-09-28 16:24 |
-| [[data/datahub/datahub-overview\|datahub]]                                | 2024-09-24 21:37 |
+| Notes                                                                                      | Modified         |
+| ------------------------------------------------------------------------------------------ | ---------------- |
+| [[opensource-contributions\|오픈소스 기여]]                                                   | 2024-10-05 16:31 |
+| [[data/debezium/__/manage-binlog-in-mysql-connector\|manage-binlog-in-mysql-connector]] | 2024-10-05 10:50 |
+| [[data/airflow/__/dag-factory-in-action\|dag-factory 맛보기]]                              | 2024-10-02 18:51 |
+| [[data/airflow/airflow-overview\|airflow]]                                              | 2024-10-02 18:51 |
+| [[data/bigquery/bigquery-overview\|bigquery]]                                           | 2024-10-02 18:51 |
+| [[data/dbt/__/dbt-cicd-pipeline\|Github Action 을 활용한 dbt CI/CD 파이프라인 구축]]               | 2024-10-02 18:51 |
+| [[data/etc/self-serve-data\|self-serve-data]]                                           | 2024-10-02 18:51 |
+| [[data/kafka/__/cdc-pipeline-with-debezium\|Debezium 을 이용한 CDC 파이프라인 구축]]               | 2024-10-02 18:51 |
+| [[data/kafka/__/migration-to-kakfa-connect\|서버로그 파이프라인 마이그레이션]]                         | 2024-10-02 18:51 |
+| [[projects\|프로젝트]]                                                                      | 2024-10-02 18:51 |
 
 { .block-language-dataview}

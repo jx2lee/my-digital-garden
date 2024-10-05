@@ -1,10 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/opensource-contributions/","tags":["opensource"],"dgEnableSearch":true,"dgLinkPreview":true,"noteIcon":"","created":"2024-09-09T21:20:14.620+09:00"}
+{"dg-publish":true,"permalink":"/opensource-contributions/","tags":["opensource"],"dgEnableSearch":true,"dgLinkPreview":true,"noteIcon":"","created":"2024-10-02T18:51:46.478+09:00"}
 ---
 
 
 ⌛️
 - [Airflow: Enable EksPodOperator when deferrable is true](https://github.com/apache/airflow/pull/41380)
+- [Airflow: Show "Task Tries" items after rerun](https://github.com/apache/airflow/pull/42620)
 - [dbt: Modified git tag option in `dbt deps`](https://github.com/dbt-labs/dbt-core/pull/10398)
 - [dbt-bigquery: add test case when raise ServiceUnavailable in is_retryable](https://github.com/dbt-labs/dbt-bigquery/pull/1224)
 - [kafka-connect-transform-tosjonstring: Enable to pass empty ArrayList in schemaless](https://github.com/an0r0c/kafka-connect-transform-tojsonstring/pull/20)
