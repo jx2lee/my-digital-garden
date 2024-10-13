@@ -31,3 +31,6 @@
     - [docs(aws): edit markdown link](https://github.com/datahub-project/datahub/pull/6706)
     - [docs(quickstart): enable slack community link](https://github.com/datahub-project/datahub/pull/6209)
 - great-expectations: [[DOCS] edit term(data_conext, checkpoints)-link in with airflow](https://github.com/great-expectations/great_expectations/pull/6646)
+- mageai
+    - [Add postgres client package](https://github.com/mage-ai/mage-ai/pull/5486)
+    - [Why bq client create dataset in data loader?](https://github.com/mage-ai/mage-ai/issues/5197) support

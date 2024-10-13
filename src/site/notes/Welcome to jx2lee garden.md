@@ -37,8 +37,8 @@
 
 | Notes                                                                                      | Modified         |
 | ------------------------------------------------------------------------------------------ | ---------------- |
+| [[opensource-contributions\|오픈소스 기여]]                                                   | 2024-10-12 18:05 |
 | [[data/bigquery/bigquery-overview\|bigquery]]                                           | 2024-10-09 23:14 |
-| [[opensource-contributions\|오픈소스 기여]]                                                   | 2024-10-05 16:39 |
 | [[data/debezium/__/manage-binlog-in-mysql-connector\|manage-binlog-in-mysql-connector]] | 2024-10-05 10:50 |
 | [[Welcome to jx2lee garden\|Welcome to jx2lee garden]]                                  | 2024-10-02 18:51 |
 | [[data/airflow/__/dag-factory-in-action\|dag-factory 맛보기]]                              | 2024-10-02 18:51 |
