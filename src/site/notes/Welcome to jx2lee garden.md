@@ -41,11 +41,11 @@
 | [[data/bigquery/bigquery-overview\|bigquery]]                                           | 2024-10-09 23:14 |
 | [[data/debezium/__/manage-binlog-in-mysql-connector\|manage-binlog-in-mysql-connector]] | 2024-10-05 10:50 |
 | [[Welcome to jx2lee garden\|Welcome to jx2lee garden]]                                  | 2024-10-02 18:51 |
-| [[data/airflow/__/dag-factory-in-action\|dag-factory 맛보기]]                              | 2024-10-02 18:51 |
-| [[data/airflow/airflow-overview\|airflow]]                                              | 2024-10-02 18:51 |
 | [[data/dbt/__/dbt-cicd-pipeline\|Github Action 을 활용한 dbt CI/CD 파이프라인 구축]]               | 2024-10-02 18:51 |
-| [[data/etc/self-serve-data\|self-serve-data]]                                           | 2024-10-02 18:51 |
 | [[data/kafka/__/cdc-pipeline-with-debezium\|Debezium 을 이용한 CDC 파이프라인 구축]]               | 2024-10-02 18:51 |
 | [[data/kafka/__/migration-to-kakfa-connect\|서버로그 파이프라인 마이그레이션]]                         | 2024-10-02 18:51 |
+| [[data/airflow/__/dag-factory-in-action\|dag-factory 맛보기]]                              | 2024-10-02 18:51 |
+| [[data/airflow/airflow-overview\|airflow]]                                              | 2024-10-02 18:51 |
+| [[data/etc/self-serve-data\|self-serve-data]]                                           | 2024-10-02 18:51 |
 
 { .block-language-dataview}
