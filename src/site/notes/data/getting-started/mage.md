@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/data/getting-started/mage/","noteIcon":"","created":"2024-06-30T00:39:32.589+09:00"}
+{"dg-publish":true,"permalink":"/data/getting-started/mage/","tags":["mageai"],"dgHomeLink":true,"dgShowBacklinks":true,"dgShowLocalGraph":true,"dgEnableSearch":true,"dgLinkPreview":true,"noteIcon":"","created":"2024-06-30T00:39:32.589+09:00"}
 ---
+
 
 
 airflow 를 대체할 수 있다고 자부(🧙 A modern replacement for Airflow) 하는 [mage](https://docs.mage.ai/introduction/overview) 를 살펴본다.
