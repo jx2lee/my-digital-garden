@@ -36,6 +36,7 @@
 
 | Notes                                                                                      | Modified         |
 | ------------------------------------------------------------------------------------------ | ---------------- |
+| [[opensource-contributions\|오픈소스 기여]]                                                   | 2024-10-26 15:51 |
 | [[data/debezium/__/manage-binlog-in-mysql-connector\|manage-binlog-in-mysql-connector]] | 2024-10-18 22:41 |
 | [[data/rdb/rdb-overview\|rdb]]                                                          | 2024-10-18 22:24 |
 | [[data/debezium/__/monitoring\|CDC 파이프라인의 모니터링 환경 구성하기]]                                | 2024-10-18 22:22 |
@@ -43,8 +44,7 @@
 | [[data/getting-started/arrow\|Apache Arrow]]                                            | 2024-10-18 22:21 |
 | [[data/bigquery/__/partitioning-clustering\|파티션과 클러스터링]]                                | 2024-10-18 22:15 |
 | [[data/bigquery/bigquery-overview\|bigquery]]                                           | 2024-10-18 22:14 |
-| [[opensource-contributions\|오픈소스 기여]]                                                   | 2024-10-12 18:05 |
 | [[Welcome to jx2lee garden\|Welcome to jx2lee garden]]                                  | 2024-10-02 18:51 |
-| [[data/dbt/__/dbt-cicd-pipeline\|Github Action 을 활용한 dbt CI/CD 파이프라인 구축]]               | 2024-10-02 18:51 |
+| [[data/airflow/__/dag-factory-in-action\|dag-factory 맛보기]]                              | 2024-10-02 18:51 |
 
 { .block-language-dataview}
