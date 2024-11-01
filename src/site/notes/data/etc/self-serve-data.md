@@ -55,13 +55,14 @@ flowchart TB
         - oss 버전에는 OAuth 기능을 [제공하지 않습니다](https://github.com/airbytehq/airbyte/issues/13021).
         - 클라우드에서만 제공하기에 oauth-proxy 를 이용해 google 계정으로 로그인 가능한 환경을 구성했어요. 보다 자세한 내용은 아래 more 에 첨부된 문서를 확인해주세요!
 - MageAI
-    - TBD
+    - 외부 기관 요청대응하는 팀(데이터추출셀)을 위해 MageAI 라는 서비스를 제공하였습니다. 3세대 워크플로우 관리도구라 소개하는 메이지는, 블럭 단위로 태스크를 관리하며 airflow 보다 조금 더 직관적인 사용자 경험을 제공해요. 공식 헬름 차트를 이용해 쿠버네티스 환경에 배포하였고, 노드 공유 스토리지로 구성된 차트를 자체적으로 수정했어요.
+    - 또한, 메이지 공식 컨테이너 이미지에 postgres 클라이언트 설치가 되어 있지 않아 관련 [PR](https://github.com/mage-ai/mage-ai/commit/bd98aa61b0537d5322b9e64978c8965bc82c3f3e) 을 제출하고 반영되었습니다. 이 덕에 [spotlight](https://www.linkedin.com/posts/magetech_community-spotlight-jaejun-lee-wed-like-activity-7255611108399501312-FSP3?utm_source=share&utm_medium=member_desktop) 도 받게 되었어요.
 
 ### result
 - 사내 임직원을 위한 셀프 서브 환경을 제공했습니다.
     - DataHub: 사례로 보안 조직에서 개인정보 현황 파악을 위해 Datahub 를 이용했습니다. Tag 기능을 이용해 보안등급을 테이블 혹은 컬럼 단위로 부여하고, 보고자료(현황파악)에 활용했어요. Datahub 덕분에 DBA 조직에 따로 문의하지 않고 내부 데이터의 개인정보를 분류할 수 있었어요.
     - Airbyte: 사례로 국내 거래소 시간봉 api 를 이용해 보다 자세한 점유율을 사내에 제공했습니다. 물론 돈을 지불하고 쉽게 살펴볼 수 있는 서비스가 많았지만, 일 거래 금액을 보다 정확하게 측정하고 거래소 api 로 캔들 정보를 수집했어요. 이때 커스텀 커넥터를 개발하고 활용한 덕에 사내 크루들에게 신뢰할 수 있는 거래소 데이터를 제공했어요.
-    - MageAI: TBD
+    - MageAI: 사례로 외부 기간 보고를 위한 정제 작업을 메이지에서 사용하였고, 일/주간 보고를 위한 보고서를 메이지를 통해 생산했습니다.
 - 본인이 원하는 데이터를 수집할 수 있도록 환경을 제공하고(Airbyte), 어떤 데이터가 어디 있는지 데이터 조직에 물어보지 않고 찾을 수 있으며(Datahub), 데이터 조직 도움없이 다양한 데이터를 활용할 수 있는 환경(MageAI)을 만들었어요.
 
 
