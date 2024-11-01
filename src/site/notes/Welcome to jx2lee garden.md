@@ -36,6 +36,7 @@
 
 | Notes                                                                                      | Modified         |
 | ------------------------------------------------------------------------------------------ | ---------------- |
+| [[data/etc/self-serve-data\|self-serve-data]]                                           | 2024-11-01 15:40 |
 | [[etc/__/language/uber-jar\|uber jar]]                                                  | 2024-10-27 23:31 |
 | [[opensource-contributions\|오픈소스 기여]]                                                   | 2024-10-26 15:51 |
 | [[data/debezium/__/manage-binlog-in-mysql-connector\|manage-binlog-in-mysql-connector]] | 2024-10-18 22:41 |
@@ -45,6 +46,5 @@
 | [[data/getting-started/arrow\|Apache Arrow]]                                            | 2024-10-18 22:21 |
 | [[data/bigquery/__/partitioning-clustering\|파티션과 클러스터링]]                                | 2024-10-18 22:15 |
 | [[data/bigquery/bigquery-overview\|bigquery]]                                           | 2024-10-18 22:14 |
-| [[data/airflow/__/dag-factory-in-action\|dag-factory 맛보기]]                              | 2024-10-02 18:51 |
 
 { .block-language-dataview}
