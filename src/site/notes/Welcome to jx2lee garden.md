@@ -36,7 +36,7 @@
 
 | Notes                                                                                      | Modified         |
 | ------------------------------------------------------------------------------------------ | ---------------- |
-| [[opensource-contributions\|오픈소스 기여]]                                                   | 2024-11-02 22:13 |
+| [[opensource-contributions\|오픈소스 기여]]                                                   | 2024-11-08 00:57 |
 | [[data/etc/self-serve-data\|self-serve-data]]                                           | 2024-11-01 15:40 |
 | [[etc/__/language/uber-jar\|uber jar]]                                                  | 2024-10-27 23:31 |
 | [[data/debezium/__/manage-binlog-in-mysql-connector\|manage-binlog-in-mysql-connector]] | 2024-10-18 22:41 |
