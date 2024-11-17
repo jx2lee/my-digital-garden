@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/opensource-contributions/","tags":["opensource"],"dgEnableSearch":true,"dgLinkPreview":true,"noteIcon":"","created":"2024-10-22T20:53:02.911+09:00"}
+{"dg-publish":true,"permalink":"/opensource-contributions/","tags":["opensource"],"dgEnableSearch":true,"dgLinkPreview":true,"noteIcon":"","created":"2024-11-17T12:02:26.369+09:00"}
 ---
 
 

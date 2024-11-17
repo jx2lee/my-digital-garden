@@ -34,17 +34,17 @@
 { .block-language-dataview}
 
 
-| Notes                                                                                      | Modified         |
-| ------------------------------------------------------------------------------------------ | ---------------- |
-| [[opensource-contributions\|오픈소스 기여]]                                                   | 2024-11-08 00:57 |
-| [[data/etc/self-serve-data\|self-serve-data]]                                           | 2024-11-01 15:40 |
-| [[etc/__/language/uber-jar\|uber jar]]                                                  | 2024-10-27 23:31 |
-| [[data/debezium/__/manage-binlog-in-mysql-connector\|manage-binlog-in-mysql-connector]] | 2024-10-18 22:41 |
-| [[data/rdb/rdb-overview\|rdb]]                                                          | 2024-10-18 22:24 |
-| [[data/debezium/__/monitoring\|CDC 파이프라인의 모니터링 환경 구성하기]]                                | 2024-10-18 22:22 |
-| [[data/getting-started/mage\|MageAI]]                                                   | 2024-10-18 22:22 |
-| [[data/getting-started/arrow\|Apache Arrow]]                                            | 2024-10-18 22:21 |
-| [[data/bigquery/__/partitioning-clustering\|파티션과 클러스터링]]                                | 2024-10-18 22:15 |
-| [[data/bigquery/bigquery-overview\|bigquery]]                                           | 2024-10-18 22:14 |
+| Notes                                                                                                   | Modified         |
+| ------------------------------------------------------------------------------------------------------- | ---------------- |
+| [[opensource-contributions\|오픈소스 기여]]                                                                | 2024-11-17 12:03 |
+| [[data/dbt/__/dbt-incremental-full-scan\|dbt 증분모델에서 merge 시 풀스캔 현상(with datetime partition column)]] | 2024-11-17 12:02 |
+| [[data/etc/self-serve-data\|self-serve-data]]                                                        | 2024-11-01 15:40 |
+| [[etc/__/language/uber-jar\|uber jar]]                                                               | 2024-10-27 23:31 |
+| [[data/debezium/__/manage-binlog-in-mysql-connector\|manage-binlog-in-mysql-connector]]              | 2024-10-18 22:41 |
+| [[data/rdb/rdb-overview\|rdb]]                                                                       | 2024-10-18 22:24 |
+| [[data/debezium/__/monitoring\|CDC 파이프라인의 모니터링 환경 구성하기]]                                             | 2024-10-18 22:22 |
+| [[data/getting-started/mage\|MageAI]]                                                                | 2024-10-18 22:22 |
+| [[data/getting-started/arrow\|Apache Arrow]]                                                         | 2024-10-18 22:21 |
+| [[data/bigquery/__/partitioning-clustering\|파티션과 클러스터링]]                                             | 2024-10-18 22:15 |
 
 { .block-language-dataview}
