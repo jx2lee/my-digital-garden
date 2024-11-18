@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/opensource-contributions/","tags":["opensource"],"dgEnableSearch":true,"dgLinkPreview":true,"noteIcon":"","created":"2024-11-17T12:02:26.369+09:00"}
+{"dg-publish":true,"permalink":"/opensource-contributions/","tags":["opensource"],"dgEnableSearch":true,"dgLinkPreview":true,"noteIcon":"","created":"2024-11-18T23:27:22.872+09:00"}
 ---
 
 
@@ -11,6 +11,7 @@
 
 ✅
 - airflow
+    - [Bump to mypy-boto3-appflow and pass without # type: ignore[arg-type]](https://github.com/apache/airflow/pull/44115)
     - [Add parent_model param in UploadModelOperator](https://github.com/apache/airflow/pull/42091)
     - [Add CloudRunServiceHook and operator](https://github.com/apache/airflow/pull/40008)
     - [enable AIRFLOW\__CELERY\__BROKER_URL_CMD when passwordSecretName is true](https://github.com/apache/airflow/pull/40270)
