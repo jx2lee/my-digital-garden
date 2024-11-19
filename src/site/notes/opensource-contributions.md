@@ -14,7 +14,7 @@
     - [Bump to mypy-boto3-appflow and pass without # type: ignore[arg-type]](https://github.com/apache/airflow/pull/44115)
     - [Add parent_model param in UploadModelOperator](https://github.com/apache/airflow/pull/42091)
     - [Add CloudRunServiceHook and operator](https://github.com/apache/airflow/pull/40008)
-    - [enable AIRFLOW\__CELERY\__BROKER_URL_CMD when passwordSecretName is true](https://github.com/apache/airflow/pull/40270)
+    - [enable AIRFLOW__CELERY__BROKER_URL_CMD when passwordSecretName is true](https://github.com/apache/airflow/pull/40270)
 - dbt
     - [Fix configuration of turning test warnings into failures](https://github.com/dbt-labs/dbt-core/pull/9347)
     - [Fix package-lock file's bad indentation](https://github.com/dbt-labs/dbt-core/pull/9341)
