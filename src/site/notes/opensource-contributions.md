@@ -4,7 +4,7 @@
 
 
 ⌛️
-- [airflow: Support connection extra parameters in MsSqlHook](https://github.com/apache/airflow/pull/44190)
+- [airflow: Support connection extra parameters in MsSqlHook](https://github.com/apache/airflow/pull/44310)
 - [airflow: Support multiple executors in chart](https://github.com/apache/airflow/pull/43606)
 - [dbt-common: Add indent option in JsonLogger](https://github.com/dbt-labs/dbt-common/pull/210)
 - [dbt: Modified git tag option in `dbt deps`](https://github.com/dbt-labs/dbt-core/pull/10398)
