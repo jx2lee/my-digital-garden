@@ -4,7 +4,7 @@
 
 
 
-### 안녕하세요. 가상자산 거래소 [@Coinone](https://coinone.co.kr/)의 데이터 엔지니어, 이재준 입니다.
+### 가상자산 거래소 [@Coinone](https://coinone.co.kr/)의 데이터 엔지니어, 이재준 입니다.
 
 - 새로운 기술에 관심이 많지만, 근본이 되는 기술을 소홀히 하지 않습니다.
 - 고여있지 않으려 노력하며 어제보다 나은 내일을 위해 발전하고 싶습니다.
@@ -32,11 +32,11 @@
 
 | Notes                                                                                                   | Modified         |
 | ------------------------------------------------------------------------------------------------------- | ---------------- |
+| [[Welcome to jx2lee garden\|Welcome to jx2lee garden]]                                               | 2024-11-25 01:31 |
 | [[opensource-contributions\|오픈소스 기여]]                                                                | 2024-11-25 01:22 |
 | [[data/airflow/__/dag-factory-in-action\|dag-factory 찍먹]]                                            | 2024-11-25 00:48 |
 | [[etc/__/language/statement-vs-expression\|statement 와 expression]]                                  | 2024-11-25 00:37 |
 | [[etc/etc-overview\|etc]]                                                                            | 2024-11-25 00:36 |
-| [[Welcome to jx2lee garden\|Welcome to jx2lee garden]]                                               | 2024-11-25 00:33 |
 | [[data/etc/spark\|Apache Spark]]                                                                     | 2024-11-21 22:52 |
 | [[data/dbt/__/dbt-incremental-full-scan\|dbt 증분모델에서 merge 시 풀스캔 현상(with datetime partition column)]] | 2024-11-17 12:02 |
 | [[data/etc/self-serve-data\|self-serve-data]]                                                        | 2024-11-01 15:40 |
