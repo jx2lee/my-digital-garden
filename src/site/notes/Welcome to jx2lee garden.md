@@ -32,11 +32,11 @@
 
 | Notes                                                                                                   | Modified         |
 | ------------------------------------------------------------------------------------------------------- | ---------------- |
+| [[opensource-contributions\|오픈소스 기여]]                                                                | 2024-11-25 01:22 |
 | [[data/airflow/__/dag-factory-in-action\|dag-factory 찍먹]]                                            | 2024-11-25 00:48 |
 | [[etc/__/language/statement-vs-expression\|statement 와 expression]]                                  | 2024-11-25 00:37 |
 | [[etc/etc-overview\|etc]]                                                                            | 2024-11-25 00:36 |
 | [[Welcome to jx2lee garden\|Welcome to jx2lee garden]]                                               | 2024-11-25 00:33 |
-| [[opensource-contributions\|오픈소스 기여]]                                                                | 2024-11-24 00:11 |
 | [[data/etc/spark\|Apache Spark]]                                                                     | 2024-11-21 22:52 |
 | [[data/dbt/__/dbt-incremental-full-scan\|dbt 증분모델에서 merge 시 풀스캔 현상(with datetime partition column)]] | 2024-11-17 12:02 |
 | [[data/etc/self-serve-data\|self-serve-data]]                                                        | 2024-11-01 15:40 |
