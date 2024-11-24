@@ -32,6 +32,8 @@
 
 | Notes                                                                                                   | Modified         |
 | ------------------------------------------------------------------------------------------------------- | ---------------- |
+| [[etc/__/language/statement-vs-expression\|statement 와 expression]]                                  | 2024-11-25 00:37 |
+| [[etc/etc-overview\|etc]]                                                                            | 2024-11-25 00:36 |
 | [[Welcome to jx2lee garden\|Welcome to jx2lee garden]]                                               | 2024-11-25 00:33 |
 | [[opensource-contributions\|오픈소스 기여]]                                                                | 2024-11-24 00:11 |
 | [[data/etc/spark\|Apache Spark]]                                                                     | 2024-11-21 22:52 |
@@ -40,7 +42,5 @@
 | [[etc/__/language/uber-jar\|uber jar]]                                                               | 2024-10-27 23:31 |
 | [[data/debezium/__/manage-binlog-in-mysql-connector\|manage-binlog-in-mysql-connector]]              | 2024-10-18 22:41 |
 | [[data/rdb/rdb-overview\|rdb]]                                                                       | 2024-10-18 22:24 |
-| [[data/debezium/__/monitoring\|CDC 파이프라인의 모니터링 환경 구성하기]]                                             | 2024-10-18 22:22 |
-| [[data/getting-started/mage\|MageAI]]                                                                | 2024-10-18 22:22 |
 
 { .block-language-dataview}

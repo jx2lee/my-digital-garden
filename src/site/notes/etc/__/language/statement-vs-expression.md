@@ -11,7 +11,7 @@
 
 
 ### Expression
-![](https://i.imgur.com/jbyhnPm.png)
+![|400](https://i.imgur.com/jbyhnPm.png)
 
 - 의역: 변수, 연산자 및 메서드 호출로 구성된 구성체로, 언어구문에 따라 구성되며 단일 값으로 평가한다.
 - `프로그램의 한 문장으로 한 개 값으로 표현할 수`  있는 단위이다.
