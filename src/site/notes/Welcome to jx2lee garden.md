@@ -32,6 +32,7 @@
 
 | Notes                                                                                                   | Modified         |
 | ------------------------------------------------------------------------------------------------------- | ---------------- |
+| [[data/airflow/__/dag-factory-in-action\|dag-factory 찍먹]]                                            | 2024-11-25 00:48 |
 | [[etc/__/language/statement-vs-expression\|statement 와 expression]]                                  | 2024-11-25 00:37 |
 | [[etc/etc-overview\|etc]]                                                                            | 2024-11-25 00:36 |
 | [[Welcome to jx2lee garden\|Welcome to jx2lee garden]]                                               | 2024-11-25 00:33 |
@@ -41,6 +42,5 @@
 | [[data/etc/self-serve-data\|self-serve-data]]                                                        | 2024-11-01 15:40 |
 | [[etc/__/language/uber-jar\|uber jar]]                                                               | 2024-10-27 23:31 |
 | [[data/debezium/__/manage-binlog-in-mysql-connector\|manage-binlog-in-mysql-connector]]              | 2024-10-18 22:41 |
-| [[data/rdb/rdb-overview\|rdb]]                                                                       | 2024-10-18 22:24 |
 
 { .block-language-dataview}
