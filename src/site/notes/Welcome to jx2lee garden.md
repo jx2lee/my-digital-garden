@@ -32,7 +32,7 @@
 
 | Notes                                                                                                   | Modified         |
 | ------------------------------------------------------------------------------------------------------- | ---------------- |
-| [[data/airflow/__/airflow-scheduler-process\|Airflow 스케쥴러 실행 과정]]                                    | 2024-11-25 11:27 |
+| [[data/airflow/__/airflow-scheduler-process\|Airflow 스케쥴러 실행 과정]]                                    | 2024-11-25 20:23 |
 | [[Welcome to jx2lee garden\|Welcome to jx2lee garden]]                                               | 2024-11-25 01:31 |
 | [[opensource-contributions\|오픈소스 기여]]                                                                | 2024-11-25 01:22 |
 | [[data/airflow/__/dag-factory-in-action\|dag-factory 찍먹]]                                            | 2024-11-25 00:48 |
