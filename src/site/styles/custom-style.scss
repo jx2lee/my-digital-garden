@@ -1,15 +1,16 @@
 body {
   .content {
     font-family: Interop, sans-serif;
-
-    .cm-s-obsidian {
-      h3, .markdown-rendered h3 {
-        margin-top: 1.5em;
-        margin-bottom: 2em;
-      }
+  }
+  .cm-s-obsidian {
+    h3,
+    .markdown-rendered h3 {
+      margin-top: 1.5em;
+      margin-block-start: 1.5em;
+      margin-bottom: 2em;
+      margin-block-end: 2em;
     }
-    }
-
+  }
   /***
     ADD YOUR CUSTOM STYLING HERE. (INSIDE THE body {...} section.)
     IT WILL TAKE PRECEDENCE OVER THE STYLING IN THE STYLE.CSS FILE.
