@@ -8,7 +8,9 @@ body {
   }
 
   h3 {
-    margin-block-start: 1.5em;
+    .markdown-rendered h3 {
+      margin-top: 2em;
+    }
   }
   /***
     ADD YOUR CUSTOM STYLING HERE. (INSIDE THE body {...} section.)
