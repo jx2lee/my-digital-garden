@@ -32,6 +32,7 @@
 
 | Notes                                                                                                   | Modified         |
 | ------------------------------------------------------------------------------------------------------- | ---------------- |
+| [[data/airflow/__/airflow-scheduler-process\|Airflow 스케쥴러 실행 과정]]                                    | 2024-11-25 11:27 |
 | [[Welcome to jx2lee garden\|Welcome to jx2lee garden]]                                               | 2024-11-25 01:31 |
 | [[opensource-contributions\|오픈소스 기여]]                                                                | 2024-11-25 01:22 |
 | [[data/airflow/__/dag-factory-in-action\|dag-factory 찍먹]]                                            | 2024-11-25 00:48 |
@@ -41,6 +42,5 @@
 | [[data/dbt/__/dbt-incremental-full-scan\|dbt 증분모델에서 merge 시 풀스캔 현상(with datetime partition column)]] | 2024-11-17 12:02 |
 | [[data/etc/self-serve-data\|self-serve-data]]                                                        | 2024-11-01 15:40 |
 | [[etc/__/language/uber-jar\|uber jar]]                                                               | 2024-10-27 23:31 |
-| [[data/debezium/__/manage-binlog-in-mysql-connector\|manage-binlog-in-mysql-connector]]              | 2024-10-18 22:41 |
 
 { .block-language-dataview}
