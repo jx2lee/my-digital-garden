@@ -4,6 +4,8 @@
 
 
 ⌛️
+- [airflow: # Set container name to envSourceContainerName in KEDA ScaledObject](https://github.com/apache/airflow/pull/44963)
+- [airflow: # Forbid extra fields on execution api](https://github.com/apache/airflow/pull/44986)
 - [dbt-common: Add indent option in JsonLogger](https://github.com/dbt-labs/dbt-common/pull/210)
 - [dbt: Modified git tag option in `dbt deps`](https://github.com/dbt-labs/dbt-core/pull/10398)
 - [kafka-connect-transform-tosjonstring: Enable to pass empty ArrayList in schemaless](https://github.com/an0r0c/kafka-connect-transform-tojsonstring/pull/20)

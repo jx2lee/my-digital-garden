@@ -32,15 +32,15 @@
 
 | Notes                                                                                                   | Modified         |
 | ------------------------------------------------------------------------------------------------------- | ---------------- |
+| [[opensource-contributions\|오픈소스 기여]]                                                                | 2024-12-22 20:35 |
+| [[data/kafka/__/ksql-demo\|KSQL 프로토타입]]                                                              | 2024-12-21 15:02 |
+| [[data/kafka/__/ksql\|ksql]]                                                                         | 2024-12-21 14:50 |
 | [[Welcome to jx2lee garden\|Welcome to jx2lee garden]]                                               | 2024-12-08 10:02 |
-| [[opensource-contributions\|오픈소스 기여]]                                                                | 2024-11-30 00:25 |
 | [[data/airflow/__/airflow-scheduler-process\|Airflow 스케쥴러 실행 과정]]                                    | 2024-11-25 20:23 |
 | [[data/airflow/__/dag-factory-in-action\|dag-factory 찍먹]]                                            | 2024-11-25 00:48 |
 | [[etc/__/language/statement-vs-expression\|statement 와 expression]]                                  | 2024-11-25 00:37 |
 | [[etc/etc-overview\|etc]]                                                                            | 2024-11-25 00:36 |
 | [[data/etc/spark\|Apache Spark]]                                                                     | 2024-11-21 22:52 |
 | [[data/dbt/__/dbt-incremental-full-scan\|dbt 증분모델에서 merge 시 풀스캔 현상(with datetime partition column)]] | 2024-11-17 12:02 |
-| [[data/etc/self-serve-data\|self-serve-data]]                                                        | 2024-11-01 15:40 |
-| [[etc/__/language/uber-jar\|uber jar]]                                                               | 2024-10-27 23:31 |
 
 { .block-language-dataview}
