@@ -32,7 +32,7 @@
 
 | Notes                                                                                                   | Modified         |
 | ------------------------------------------------------------------------------------------------------- | ---------------- |
-| [[opensource-contributions\|오픈소스 기여]]                                                                | 2024-12-22 20:52 |
+| [[opensource-contributions\|오픈소스 기여]]                                                                | 2024-12-23 22:01 |
 | [[data/kafka/__/ksql-demo\|KSQL 프로토타입]]                                                              | 2024-12-21 15:02 |
 | [[data/kafka/__/ksql\|ksql]]                                                                         | 2024-12-21 14:50 |
 | [[Welcome to jx2lee garden\|Welcome to jx2lee garden]]                                               | 2024-12-08 10:02 |

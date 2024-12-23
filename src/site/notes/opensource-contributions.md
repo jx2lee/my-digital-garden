@@ -4,6 +4,7 @@
 
 
 ⌛️
+- [airflow: Fix ContinuousTimetable false triggering when last run ends in future](https://github.com/apache/airflow/pull/45175)
 - [airflow: Set container name to envSourceContainerName in KEDA ScaledObject](https://github.com/apache/airflow/pull/44963)
 - [airflow: Forbid extra fields on execution api](https://github.com/apache/airflow/pull/44986)
 - [dbt-common: Add indent option in JsonLogger](https://github.com/dbt-labs/dbt-common/pull/210)
