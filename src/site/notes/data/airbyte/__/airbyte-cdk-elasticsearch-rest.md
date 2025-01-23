@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/data/airbyte/__/airbyte-cdk-elasticsearch-rest/","tags":["airbyte","cdk","elasticsearch"],"dgHomeLink":"ture","dgShowBacklinks":true,"dgShowLocalGraph":true,"dgEnableSearch":true,"dgLinkPreview":"ture","dgShowTags":true,"noteIcon":"","created":"2024-06-30T00:39:32.589+09:00"}
+{"dg-publish":true,"permalink":"/data/airbyte/__/airbyte-cdk-elasticsearch-rest/","tags":["airbyte","cdk","elasticsearch"],"dgHomeLink":"ture","dgShowBacklinks":true,"dgShowLocalGraph":true,"dgEnableSearch":true,"dgLinkPreview":"ture","dgShowTags":true,"noteIcon":"","created":"2024-06-30T00:39:32.000+09:00"}
 ---
 
 

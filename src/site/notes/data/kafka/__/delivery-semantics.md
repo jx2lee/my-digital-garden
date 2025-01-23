@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/data/kafka/__/delivery-semantics/","tags":["stream","delivery","semantics"],"dgHomeLink":true,"dgShowInlineTitle":true,"dgEnableSearch":true,"dgLinkPreview":true,"dgShowTags":true,"noteIcon":"","created":"2024-07-21T15:30:23.591+09:00"}
+{"dg-publish":true,"permalink":"/data/kafka/__/delivery-semantics/","tags":["stream","delivery","semantics"],"dgHomeLink":true,"dgShowInlineTitle":true,"dgEnableSearch":true,"dgLinkPreview":true,"dgShowTags":true,"noteIcon":"","created":"2024-07-21T15:30:23.000+09:00"}
 ---
 
 

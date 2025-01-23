@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/etc/__/language/uber-jar/","tags":["java","jar","uber-jar"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgEnableSearch":true,"dgLinkPreview":true,"noteIcon":"","created":"2024-10-27T22:09:15.727+09:00"}
+{"dg-publish":true,"permalink":"/etc/__/language/uber-jar/","tags":["java","jar","uber-jar"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgEnableSearch":true,"dgLinkPreview":true,"noteIcon":"","created":"2024-10-27T22:09:15.000+09:00"}
 ---
 
 

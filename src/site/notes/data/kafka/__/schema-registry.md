@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/data/kafka/__/schema-registry/","tags":["kafka","schema registry"],"noteIcon":"","created":"2024-06-30T00:39:32.604+09:00"}
+{"dg-publish":true,"permalink":"/data/kafka/__/schema-registry/","tags":["kafka","schema registry"],"noteIcon":"","created":"2024-06-30T00:39:32.000+09:00"}
 ---
 
 

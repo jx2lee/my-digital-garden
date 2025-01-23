@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/data/getting-started/lakehouse-architecture/","noteIcon":"","created":"2024-06-30T00:39:32.588+09:00"}
+{"dg-publish":true,"permalink":"/data/getting-started/lakehouse-architecture/","noteIcon":"","created":"2024-06-30T00:39:32.000+09:00"}
 ---
 
 

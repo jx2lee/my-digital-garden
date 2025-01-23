@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/data/dbt/__/dbt-braze-cdi-integration/","tags":["dbt","cdi","custom_attribute"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgEnableSearch":true,"dgLinkPreview":true,"noteIcon":"","created":"2024-09-02T20:58:04.256+09:00"}
+{"dg-publish":true,"permalink":"/data/dbt/__/dbt-braze-cdi-integration/","tags":["dbt","cdi","custom_attribute"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgEnableSearch":true,"dgLinkPreview":true,"noteIcon":"","created":"2024-09-02T20:58:04.000+09:00"}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/data/airflow/__/dag-factory-in-action/","tags":["airflow","dag-factory","getting-started"],"dgHomeLink":true,"dgShowBacklinks":true,"dgShowLocalGraph":true,"dgEnableSearch":true,"dgLinkPreview":true,"noteIcon":"","created":"2024-10-02T18:51:46.476+09:00"}
+{"dg-publish":true,"permalink":"/data/airflow/__/dag-factory-in-action/","tags":["airflow","dag-factory","getting-started"],"dgHomeLink":true,"dgShowBacklinks":true,"dgShowLocalGraph":true,"dgEnableSearch":true,"dgLinkPreview":true,"noteIcon":"","created":"2024-10-02T18:51:46.000+09:00"}
 ---
 
 

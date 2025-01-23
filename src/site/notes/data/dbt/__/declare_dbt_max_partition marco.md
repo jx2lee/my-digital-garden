@@ -1,5 +1,5 @@
 ---
-{"author":"jx2lee","aliases":"dbt 사용량 줄여보기 - override declare_dbt_max_partition 매크로","created":"2024-06-30T00:39:32.600+09:00","last-updated":"2023-08-08 21:01","tags":["dbt","macro"],"dg-publish":true,"dg-home-link":false,"dg-show-local-graph":true,"dg-show-backlinks":true,"dg-show-toc":false,"dg-show-inline-title":false,"dg-show-file-tree":false,"dg-enable-search":true,"dg-link-preview":true,"dg-show-tags":true,"dg-pass-frontmatter":"ture","permalink":"/data/dbt/__/declare_dbt_max_partition marco/","dgPassFrontmatter":"ture","dgShowBacklinks":true,"dgShowLocalGraph":true,"dgEnableSearch":true,"dgLinkPreview":true,"dgShowTags":true,"noteIcon":""}
+{"author":"jx2lee","aliases":"dbt 사용량 줄여보기 - override declare_dbt_max_partition 매크로","created":"2024-06-30T00:39:32.000+09:00","last-updated":"2023-08-08 21:01","tags":["dbt","macro"],"dg-publish":true,"dg-home-link":false,"dg-show-local-graph":true,"dg-show-backlinks":true,"dg-show-toc":false,"dg-show-inline-title":false,"dg-show-file-tree":false,"dg-enable-search":true,"dg-link-preview":true,"dg-show-tags":true,"dg-pass-frontmatter":"ture","permalink":"/data/dbt/__/declare_dbt_max_partition marco/","dgPassFrontmatter":"ture","dgShowBacklinks":true,"dgShowLocalGraph":true,"dgEnableSearch":true,"dgLinkPreview":true,"dgShowTags":true,"noteIcon":""}
 ---
 
 

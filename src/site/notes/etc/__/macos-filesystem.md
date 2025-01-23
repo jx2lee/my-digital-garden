@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/etc/__/macos-filesystem/","dgHomeLink":true,"dgShowBacklinks":true,"dgEnableSearch":true,"dgLinkPreview":true,"noteIcon":"","created":"2024-08-13T22:42:28.987+09:00"}
+{"dg-publish":true,"permalink":"/etc/__/macos-filesystem/","dgHomeLink":true,"dgShowBacklinks":true,"dgEnableSearch":true,"dgLinkPreview":true,"noteIcon":"","created":"2024-08-13T22:42:28.000+09:00"}
 ---
 
 

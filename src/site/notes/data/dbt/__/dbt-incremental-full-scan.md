@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/data/dbt/__/dbt-incremental-full-scan/","tags":["dbt","incremental_model","finops"],"dgHomeLink":true,"dgShowBacklinks":true,"dgShowLocalGraph":true,"dgShowInlineTitle":true,"dgEnableSearch":true,"dgLinkPreview":true,"dgShowTags":true,"noteIcon":"","created":"2024-11-17T12:02:26.366+09:00"}
+{"dg-publish":true,"permalink":"/data/dbt/__/dbt-incremental-full-scan/","tags":["dbt","incremental_model","finops"],"dgHomeLink":true,"dgShowBacklinks":true,"dgShowLocalGraph":true,"dgShowInlineTitle":true,"dgEnableSearch":true,"dgLinkPreview":true,"dgShowTags":true,"noteIcon":"","created":"2024-11-17T12:02:26.000+09:00"}
 ---
 
 
