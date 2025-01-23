@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Welcome to jx2lee garden/","tags":["gardenEntry"],"dgEnableSearch":true,"noteIcon":"","created":"2024-10-02T18:51:46.475+09:00"}
+{"dg-publish":true,"permalink":"/Welcome to jx2lee garden/","tags":["gardenEntry"],"dgEnableSearch":true,"noteIcon":"","created":"2024-10-02T18:51:46.000+09:00"}
 ---
 
 
@@ -32,9 +32,9 @@
 
 | Notes                                                                  | Modified         |
 | ---------------------------------------------------------------------- | ---------------- |
-| [[notes/__/books/database-internals\|데이터베이스 인터널스]]                  | 2025-01-04 23:44 |
+| [[opensource-contributions\|오픈소스 기여]]                               | 2025-01-24 00:26 |
+| [[notes/__/books/database-internals\|데이터베이스 인터널스]]                  | 2025-01-13 00:06 |
 | [[data/kafka/__/ksql-demo\|KSQL 프로토타입]]                             | 2025-01-03 23:37 |
-| [[opensource-contributions\|오픈소스 기여]]                               | 2024-12-23 22:01 |
 | [[data/kafka/__/ksql\|ksql]]                                        | 2024-12-21 14:50 |
 | [[Welcome to jx2lee garden\|Welcome to jx2lee garden]]              | 2024-12-08 10:02 |
 | [[data/airflow/__/airflow-scheduler-process\|Airflow 스케쥴러 실행 과정]]   | 2024-11-25 20:23 |
