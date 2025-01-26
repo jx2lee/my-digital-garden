@@ -6,10 +6,13 @@
 > [!info] issues (idle, assignee)[ ](https://github.com/issues?q=is%3Aopen+is%3Aissue+assignee%3Ajx2lee+archived%3Afalse+-org%3Ajx2lee+)
 > - [airflow: AIP-81 Trasition of DAG Command](https://github.com/apache/airflow/issues/45665)
 > - [airflow: AIP-81 Trasition of Backfill Commands](https://github.com/apache/airflow/issues/45663)
+> - [Generate database ERD using chartdb](https://github.com/apache/airflow/issues/46057)
+> - [Support https repos in GitHook](https://github.com/apache/airflow/issues/45998)
 
 ---
 
 [⌛️](https://github.com/pulls?q=is%3Aopen+is%3Apr+author%3Ajx2lee+archived%3Afalse+-org%3Ajx2lee+)
+- [airflow: Fix to enable https in GitDagBundle](https://github.com/apache/airflow/pull/46073)
 - [airflow: Fix ContinuousTimetable false triggering when last run ends in future](https://github.com/apache/airflow/pull/45175)
 - [airflow: Set container name to envSourceContainerName in KEDA ScaledObject](https://github.com/apache/airflow/pull/44963)
 - [airflow: Forbid extra fields on execution api](https://github.com/apache/airflow/pull/44986)
