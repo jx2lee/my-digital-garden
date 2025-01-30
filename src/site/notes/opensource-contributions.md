@@ -6,15 +6,13 @@
 > [!info] issues (idle, assignee)[ ](https://github.com/issues?q=is%3Aopen+is%3Aissue+assignee%3Ajx2lee+archived%3Afalse+-org%3Ajx2lee+)
 > - [airflow: AIP-81 Trasition of DAG Command](https://github.com/apache/airflow/issues/45665)
 > - [airflow: AIP-81 Trasition of Backfill Commands](https://github.com/apache/airflow/issues/45663)
-> - [Generate database ERD using chartdb](https://github.com/apache/airflow/issues/46057)
-> - [Support https repos in GitHook](https://github.com/apache/airflow/issues/45998)
+> - [airfow: Generate database ERD using chartdb](https://github.com/apache/airflow/issues/46057)
+> - [airflow: Support inline ssh key in `GitHook`](https://github.com/apache/airflow/issues/45979)
 
 ---
 
 [⌛️](https://github.com/pulls?q=is%3Aopen+is%3Apr+author%3Ajx2lee+archived%3Afalse+-org%3Ajx2lee+)
-- [airflow: Fix to enable https in GitDagBundle](https://github.com/apache/airflow/pull/46073)
 - [airflow: Fix ContinuousTimetable false triggering when last run ends in future](https://github.com/apache/airflow/pull/45175)
-- [airflow: Set container name to envSourceContainerName in KEDA ScaledObject](https://github.com/apache/airflow/pull/44963)
 - [airflow: Forbid extra fields on execution api](https://github.com/apache/airflow/pull/44986)
 - [dbt-common: Add indent option in JsonLogger](https://github.com/dbt-labs/dbt-common/pull/210)
 - [dbt: Modified git tag option in `dbt deps`](https://github.com/dbt-labs/dbt-core/pull/10398)
@@ -22,6 +20,9 @@
 
 [✅](https://github.com/pulls?q=is%3Apr+author%3Ajx2lee+archived%3Afalse+-org%3Ajx2lee+is%3Amerged)
 - airflow
+    - [Fix GitDagBundle to support https (include 46073/46179)](https://github.com/apache/airflow/pull/46226)
+    - [Fix GitDagBundle to support https](https://github.com/apache/airflow/pull/46073)
+    - [Set container name to envSourceContainerName in KEDA ScaledObject](https://github.com/apache/airflow/pull/44963)
     - [Support connection extra parameters in MsSqlHook](https://github.com/apache/airflow/pull/44310)
     - [Support multiple executors in chart](https://github.com/apache/airflow/pull/43606)
     - [Bump to mypy-boto3-appflow and pass without # type: ignore[arg-type]](https://github.com/apache/airflow/pull/44115)
