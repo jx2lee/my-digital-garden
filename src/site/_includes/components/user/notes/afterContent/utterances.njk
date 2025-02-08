@@ -1,7 +1,9 @@
-{% if comments %}<script src="https://utteranc.es/client.js"
+{% if comments == true %}
+<script src="https://utteranc.es/client.js"
         repo="jx2lee/mdg"
         issue-term="pathname"
         theme="github-light"
         crossorigin="anonymous"
         async>
-</script>{% endif %}
+</script>
+{% endif %}
