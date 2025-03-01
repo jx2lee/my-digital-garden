@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Welcome to jx2lee garden/","tags":["gardenEntry"],"dgEnableSearch":true,"noteIcon":"","created":"2024-10-02T18:51:46.000+09:00"}
+{"dg-publish":true,"dg-home":true,"dg-home-link":false,"dg-show-local-graph":false,"dg-show-backlinks":false,"dg-show-toc":false,"dg-show-inline-title":false,"dg-show-file-tree":false,"dg-enable-search":true,"dg-link-preview":false,"dg-show-tags":false,"dg-pass-frontmatter":false,"permalink":"/Welcome to jx2lee garden/","tags":["gardenEntry"],"dgEnableSearch":true,"dgPassFrontmatter":true,"noteIcon":"","created":"2024-10-02T18:51:46.000+09:00"}
 ---
 
 
@@ -30,17 +30,17 @@
 { .block-language-dataview}
 
 
-| Notes                                                                  | Modified         |
-| ---------------------------------------------------------------------- | ---------------- |
-| [[opensource-contributions\|오픈소스 기여]]                               | 2025-02-01 00:33 |
-| [[Welcome to jx2lee garden\|Welcome to jx2lee garden]]              | 2025-01-24 20:50 |
-| [[notes/__/books/database-internals\|데이터베이스 인터널스]]                  | 2025-01-13 00:06 |
-| [[data/kafka/__/ksql-demo\|KSQL 프로토타입]]                             | 2025-01-03 23:37 |
-| [[data/kafka/__/ksql\|ksql]]                                        | 2024-12-21 14:50 |
-| [[data/airflow/__/airflow-scheduler-process\|Airflow 스케쥴러 실행 과정]]   | 2024-11-25 20:23 |
-| [[data/airflow/__/dag-factory-in-action\|dag-factory 찍먹]]           | 2024-11-25 00:48 |
-| [[etc/__/language/statement-vs-expression\|statement 와 expression]] | 2024-11-25 00:37 |
-| [[etc/etc-overview\|etc]]                                           | 2024-11-25 00:36 |
-| [[data/etc/spark\|Apache Spark]]                                    | 2024-11-21 22:52 |
+| Notes                                                                        | Modified         |
+| ---------------------------------------------------------------------------- | ---------------- |
+| [[opensource-contributions\|오픈소스 기여]]                                     | 2025-03-02 00:08 |
+| [[data/airflow/__/airflow-with-dbt\|[진행중] Airflow w/ dbt]]                | 2025-02-23 15:11 |
+| [[data/kafka/__/cdc-pipeline-with-debezium\|Debezium 을 이용한 CDC 파이프라인 구축]] | 2025-02-23 15:10 |
+| [[projects\|프로젝트]]                                                        | 2025-02-23 15:08 |
+| [[Welcome to jx2lee garden\|Welcome to jx2lee garden]]                    | 2025-01-24 20:50 |
+| [[notes/__/books/database-internals\|데이터베이스 인터널스]]                        | 2025-01-13 00:06 |
+| [[data/kafka/__/ksql-demo\|KSQL 프로토타입]]                                   | 2025-01-03 23:37 |
+| [[data/kafka/__/ksql\|ksql]]                                              | 2024-12-21 14:50 |
+| [[data/airflow/__/airflow-scheduler-process\|Airflow 스케쥴러 실행 과정]]         | 2024-11-25 20:23 |
+| [[data/airflow/__/dag-factory-in-action\|dag-factory 찍먹]]                 | 2024-11-25 00:48 |
 
 { .block-language-dataview}

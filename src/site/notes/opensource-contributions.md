@@ -15,6 +15,7 @@
 
 [✅](https://github.com/pulls?q=is%3Apr+author%3Ajx2lee+archived%3Afalse+-org%3Ajx2lee+is%3Amerged)
 - airflow
+    - [Add a note `airflow users` command is available when FAB auth-manager is enabled](https://github.com/apache/airflow/pull/46862)
     - [Enable to add inline ssh key in GitHook](https://github.com/apache/airflow/pull/46181)
     - [Forbid extra fields on execution api](https://github.com/apache/airflow/pull/44986)
     - [Fix GitDagBundle to support https (include 46073/46179)](https://github.com/apache/airflow/pull/46226)
@@ -47,3 +48,4 @@
     - [Add postgres client package](https://github.com/mage-ai/mage-ai/pull/5486)
     - [Why bq client create dataset in data loader?](https://github.com/mage-ai/mage-ai/issues/5197) support
 - PyAirbyte: [Chore: Remove import only used in TYPE_CHECKING](https://github.com/airbytehq/PyAirbyte/pull/421)
+- astronomer-cosmos: [Improve MWAA getting-started docs by removing unused imports](https://github.com/astronomer/astronomer-cosmos/pull/1562)
