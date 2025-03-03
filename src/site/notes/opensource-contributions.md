@@ -9,8 +9,6 @@
 
 [⌛️](https://github.com/pulls?q=is%3Aopen+is%3Apr+author%3Ajx2lee+archived%3Afalse+-org%3Ajx2lee+)
 - [airflow: Fix ContinuousTimetable false triggering when last run ends in future](https://github.com/apache/airflow/pull/45175)
-- [dbt-common: Add indent option in JsonLogger](https://github.com/dbt-labs/dbt-common/pull/210)
-- [dbt: Modified git tag option in `dbt deps`](https://github.com/dbt-labs/dbt-core/pull/10398)
 - [kafka-connect-transform-tosjonstring: Enable to pass empty ArrayList in schemaless](https://github.com/an0r0c/kafka-connect-transform-tojsonstring/pull/20)
 
 [✅](https://github.com/pulls?q=is%3Apr+author%3Ajx2lee+archived%3Afalse+-org%3Ajx2lee+is%3Amerged)

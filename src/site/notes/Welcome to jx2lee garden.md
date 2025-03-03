@@ -32,7 +32,7 @@
 
 | Notes                                                                        | Modified         |
 | ---------------------------------------------------------------------------- | ---------------- |
-| [[opensource-contributions\|오픈소스 기여]]                                     | 2025-03-02 00:08 |
+| [[opensource-contributions\|오픈소스 기여]]                                     | 2025-03-03 19:36 |
 | [[data/airflow/__/airflow-with-dbt\|[진행중] Airflow w/ dbt]]                | 2025-02-23 15:11 |
 | [[data/kafka/__/cdc-pipeline-with-debezium\|Debezium 을 이용한 CDC 파이프라인 구축]] | 2025-02-23 15:10 |
 | [[projects\|프로젝트]]                                                        | 2025-02-23 15:08 |
