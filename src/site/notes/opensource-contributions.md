@@ -13,6 +13,7 @@
 
 [✅](https://github.com/pulls?q=is%3Apr+author%3Ajx2lee+archived%3Afalse+-org%3Ajx2lee+is%3Amerged)
 - airflow
+    - [Fix image url in IDE onboarding doc (about task sdk)](https://github.com/apache/airflow/pull/48549)
     - [Add a note `airflow users` command is available when FAB auth-manager is enabled](https://github.com/apache/airflow/pull/46862)
     - [Enable to add inline ssh key in GitHook](https://github.com/apache/airflow/pull/46181)
     - [Forbid extra fields on execution api](https://github.com/apache/airflow/pull/44986)
