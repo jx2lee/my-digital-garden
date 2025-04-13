@@ -15,7 +15,7 @@
 
 
 ![|400](https://i.imgur.com/IOPpMZJ.jpeg)
-*Drawing by minwoo*
+*Drawing by [minwoo](https://github.com/tommybebe)*
 
 
 | Components                                        |
@@ -26,8 +26,8 @@
 | [[data/airbyte/airbyte-overview\|airbyte]]     |
 | [[data/bigquery/bigquery-overview\|bigquery]]  |
 | [[kubernetes/kubernetes-overview\|kubernetes]] |
-| [[data/iceberg/iceberg-overview\|iceberg]]     |
 | [[data/rdb/rdb-overview\|rdb]]                 |
+| [[data/iceberg/iceberg-overview\|iceberg]]     |
 | [[etc/etc-overview\|etc]]                      |
 
 { .block-language-dataview}
@@ -35,8 +35,8 @@
 
 | Notes                                                                        | Modified         |
 | ---------------------------------------------------------------------------- | ---------------- |
+| [[Welcome to jx2lee garden\|Welcome to jx2lee garden]]                    | 2025-04-13 23:00 |
 | [[data/kafka/__/ksql-demo\|KSQL 로 분 단위 집계 구현해보기]]                         | 2025-04-13 22:58 |
-| [[Welcome to jx2lee garden\|Welcome to jx2lee garden]]                    | 2025-04-13 22:55 |
 | [[opensource-contributions\|오픈소스 기여]]                                     | 2025-04-12 14:05 |
 | [[data/iceberg/iceberg-overview\|iceberg]]                                | 2025-03-30 15:04 |
 | [[etc/etc-overview\|etc]]                                                 | 2025-03-30 15:04 |
