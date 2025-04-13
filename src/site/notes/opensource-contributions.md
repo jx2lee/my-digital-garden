@@ -5,12 +5,7 @@
 
 > [!info] issues (idle, assignee)[ ](https://github.com/issues?q=is%3Aopen+is%3Aissue+assignee%3Ajx2lee+archived%3Afalse+-org%3Ajx2lee+)
 
----
-
 [⌛️](https://github.com/pulls?q=is%3Aopen+is%3Apr+author%3Ajx2lee+archived%3Afalse+-org%3Ajx2lee+)
-- [airflow: Fix ContinuousTimetable false triggering when last run ends in future](https://github.com/apache/airflow/pull/45175)
-- [kafka-connect-transform-tosjonstring: Enable to pass empty ArrayList in schemaless](https://github.com/an0r0c/kafka-connect-transform-tojsonstring/pull/20)
-
 [✅](https://github.com/pulls?q=is%3Apr+author%3Ajx2lee+archived%3Afalse+-org%3Ajx2lee+is%3Amerged)
 - airflow
     - [Fix image url in IDE onboarding doc (about task sdk)](https://github.com/apache/airflow/pull/48549)

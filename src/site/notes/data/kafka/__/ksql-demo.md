@@ -1,27 +1,22 @@
 ---
-{"dg-publish":true,"permalink":"/data/kafka/__/ksql-demo/","tags":["kafka","ksql"],"dgHomeLink":true,"dgShowBacklinks":true,"dgEnableSearch":true,"dgLinkPreview":true,"noteIcon":"","created":"2025-01-03T23:37:40.000+09:00"}
+{"author":"jx2lee","aliases":"KSQL 로 분 단위 집계 구현해보기","created":"2025-01-03T23:37:40.000+09:00","last-updated":"2024-12-21 15:02","tags":["kafka","ksql"],"dg-publish":true,"dg-home-link":true,"dg-show-local-graph":false,"dg-show-backlinks":true,"dg-show-toc":false,"dg-show-inline-title":false,"dg-show-file-tree":false,"dg-enable-search":true,"dg-link-preview":true,"dg-show-tags":false,"dg-pass-frontmatter":false,"permalink":"/data/kafka/__/ksql-demo/","dgHomeLink":true,"dgShowBacklinks":true,"dgEnableSearch":true,"dgLinkPreview":true,"dgPassFrontmatter":true,"noteIcon":""}
 ---
 
 
 
 ```mermaid
 flowchart TB
-subgraph msk["MSK"]
-    data[("Kafka Cluster A")]
-    event[("Kafka Cluster B")]
-    exchange[("Kafka Cluster C")]
-    etc[("...")]
-end
-
 subgraph eks["EKS"]
-    direction TB
     ksql["ksql-cluster"]
     ui["kafbat"]
     ui -.-> |used| ksql
 end
 
+data[("Kafka Cluster A")]
+
 client --> |create TABLE/STREAM w/ SQL| ui
-data --> |consume| ksql --> |publish| data
+data --> |consume| ksql
+ksql --> |publish| data
 ```
 
 ### 재료
