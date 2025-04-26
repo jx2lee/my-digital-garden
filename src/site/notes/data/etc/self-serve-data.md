@@ -49,7 +49,7 @@ flowchart TB
     - Helm 차트로 구성, ArgoCD 를 이용해 배포합니다.
 - AirByte
     - 내부 데이터 수집은 Airflow Custom Operator 로, 외부 데이터(외부 거래소 데이터)는 Airbyte 로 수집했습니다. 데이터 성격(내부vs외부)에 따라 수집도구를 분류하고 싶었어요.
-        - Airbyte 에서는 Python CDK 를 제공합니다. 특히, HTTP-API 기반 커넥터를 개발을 쉽게 할 수 있어요. 노코드 커넥터 빌더를 이용해 쉽게 구현할 수 있지만 비즈니스 로직이 더해진 커넥터가 필요할 때 적극 활용했어요.
+        - Airbyte 는 Python CDK 를 제공합니다. 특히, HTTP-API 기반 커넥터를 개발을 쉽게 할 수 있어요. 노코드 커넥터 빌더를 이용해 쉽게 구현할 수 있지만 비즈니스 로직이 더해진 커넥터가 필요할 때 적극 활용했어요.
         - custom connector 들을 담는 github repository 를 만들고 Action Workflow 를 이용해 컨테이너 이미지를 생성 & ECR 로 푸시하도록 구성했어요. 여러 커스텀 커넥터 이미지를 담고 있기 때문에 `metadata.yml` 의 시멘틱버저닝을 이용해 개발/운영 환경에 배포할 수 있도록 했어요.
     - Helm 차트로 구성, ArgoCD 를 이용해 배포했습니다. 
         - oss 버전에는 OAuth 기능을 [제공하지 않습니다](https://github.com/airbytehq/airbyte/issues/13021).
