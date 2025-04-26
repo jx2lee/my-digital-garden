@@ -35,15 +35,15 @@
 
 | Notes                                                                        | Modified         |
 | ---------------------------------------------------------------------------- | ---------------- |
+| [[data/etc/self-serve-data\|Self Serve Data]]                             | 2025-04-26 16:33 |
+| [[etc/etc-overview\|etc]]                                                 | 2025-04-26 15:57 |
 | [[Welcome to jx2lee garden\|Welcome to jx2lee garden]]                    | 2025-04-13 23:00 |
 | [[data/kafka/__/ksql-demo\|KSQL 로 분 단위 집계 구현해보기]]                         | 2025-04-13 22:58 |
 | [[opensource-contributions\|오픈소스 기여]]                                     | 2025-04-12 14:05 |
 | [[data/iceberg/iceberg-overview\|iceberg]]                                | 2025-03-30 15:04 |
-| [[etc/etc-overview\|etc]]                                                 | 2025-03-30 15:04 |
 | [[data/etc/spark\|Apache Spark]]                                          | 2025-03-27 22:22 |
 | [[data/airflow/__/airflow-with-dbt\|[진행중] Airflow w/ dbt]]                | 2025-02-23 15:11 |
 | [[data/kafka/__/cdc-pipeline-with-debezium\|Debezium 을 이용한 CDC 파이프라인 구축]] | 2025-02-23 15:10 |
 | [[projects\|프로젝트]]                                                        | 2025-02-23 15:08 |
-| [[notes/__/books/database-internals\|데이터베이스 인터널스]]                        | 2025-01-13 00:06 |
 
 { .block-language-dataview}
