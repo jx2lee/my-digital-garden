@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/data/etc/self-serve-data/","tags":["airbyte","datahub","opensource"],"dgLinkPreview":true,"noteIcon":"","created":"2024-10-02T18:51:46.000+09:00"}
+{"author":"jx2lee","aliases":"Self Serve Data","created":"2024-10-02T18:51:46.000+09:00","last-updated":"2024-07-28 02:04","tags":["airbyte","datahub","opensource"],"project":{"include":true,"status":"done","root":true,"company":"coinone","duration":"2022.09 - 2023.03"},"dg-publish":true,"dg-home-link":false,"dg-show-local-graph":false,"dg-show-backlinks":false,"dg-show-toc":false,"dg-show-inline-title":false,"dg-show-file-tree":false,"dg-enable-search":false,"dg-link-preview":true,"dg-show-tags":false,"dg-pass-frontmatter":false,"permalink":"/data/etc/self-serve-data/","dgLinkPreview":true,"dgPassFrontmatter":true,"noteIcon":""}
 ---
 
 
@@ -56,7 +56,14 @@ flowchart TB
         - 클라우드에서만 제공하기에 oauth-proxy 를 이용해 google 계정으로 로그인 가능한 환경을 구성했어요. 보다 자세한 내용은 아래 more 에 첨부된 문서를 확인해주세요!
 - MageAI
     - 외부 기관 요청대응하는 팀(데이터추출셀)을 위해 MageAI 라는 서비스를 제공하였습니다. 3세대 워크플로우 관리도구라 소개하는 메이지는, 블럭 단위로 태스크를 관리하며 airflow 보다 조금 더 직관적인 사용자 경험을 제공해요. 공식 헬름 차트를 이용해 쿠버네티스 환경에 배포하였고, 노드 공유 스토리지로 구성된 차트를 자체적으로 수정했어요.
-    - 또한, 메이지 공식 컨테이너 이미지에 postgres 클라이언트 설치가 되어 있지 않아 관련 [PR](https://github.com/mage-ai/mage-ai/commit/bd98aa61b0537d5322b9e64978c8965bc82c3f3e) 을 제출하고 반영되었습니다. 이 덕에 [spotlight](https://www.linkedin.com/posts/magetech_community-spotlight-jaejun-lee-wed-like-activity-7255611108399501312-FSP3?utm_source=share&utm_medium=member_desktop) 도 받게 되었어요.
+    - 또한, 메이지 공식 컨테이너 이미지에 postgres 클라이언트 설치가 되어 있지 않아 관련 [PR](https://github.com/mage-ai/mage-ai/commit/bd98aa61b0537d5322b9e64978c8965bc82c3f3e) 을 제출하고 반영되었습니다. 이 덕에 [spotlight](https://www.linkedin.com/posts/magetech_community-spotlight-jaejun-lee-wed-like-activity-7255611108399501312-FSP3?utm_source=share&utm_medium=member_desktop) 도 받았어요!
+
+> [!faq] Airbyte 도입 배경 (Airfow 와 비슷하지 않아요?)
+> - `배경`: Airflow / 자체 구현한 수집 엔진으로 ELT 파이프라인을 구성했습니다. 대상은 거래소 서비스에서 발생한 데이터 였어요. 그러다 전사에서 외부 데이터를 보고 싶은 니즈가 생겼습니다. 예를 들어, 국내 5대 거래소의 거래대금이나 혹은 CMC 로 각 가장자산별 볼륨 등이요.
+> - `Airbyte?`: Open-Source Data Integration Platform 이라고 설명합니다. 맞아요. 정작 사용해보면 엄청나게 많은 기능을 제공합니다(Source/Target 지정한 커넥션의 스케줄 지정 -> 실행하면 파이프라인 생성). 그 중에 Python Connector Development Kit, CDK 에 대한 인터페이스가 훌륭했어요. 그 중에서도 [HTTP-API-based Connector](https://docs.airbyte.com/platform/connector-development/cdk-python/http-streams) 가 눈에 띄었고, 확인해보니 잘 설계되었고 금방 외부데이터를 수집할 수 있을거라 기대했어요.
+> - `그럼 왜?`: 내부 거래소 데이터가 아닌 외부 데이터라 자체 엔진을 개발하면 **신뢰성 높은 파이프라인을 제공하기 어려웠습니다**. 우리 파이프라인은 문제 없지만 외부 데이터 프로바이더에서 문제라도 생기면? **완벽히 제공하는 건 불가능**하다 생각했어요. 빠른 시일내에 딜리버리해야 했습니다. 기간을 맞추기에는 수집기를 직접 개발한다면 **로직에 허점이 많을거라 판단**했어요. (그만큼 HTTP API based Connector 가 견고하게 디자인되었구요!)
+> - `결론`: 주어진 기한내에 견고한 외부 데이터 수집을 위해 HTTP API 기반 커넥터를 쉽게 구성할 수 있는 Airbyte 를 이용했습니다.
+
 
 ### result
 - 사내 임직원을 위한 셀프 서브 환경을 제공했습니다.
