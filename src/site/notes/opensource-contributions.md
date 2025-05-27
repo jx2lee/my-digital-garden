@@ -5,49 +5,10 @@
 
 > [!info] issues (idle, assignee)[ ](https://github.com/issues?q=is%3Aopen+is%3Aissue+assignee%3Ajx2lee+archived%3Afalse+-org%3Ajx2lee+)
 
-[⌛️](https://github.com/pulls?q=is%3Aopen+is%3Apr+author%3Ajx2lee+archived%3Afalse+-org%3Ajx2lee+)
-[✅](https://github.com/pulls?q=is%3Apr+author%3Ajx2lee+archived%3Afalse+-org%3Ajx2lee+is%3Amerged)
-- airflow
-    - [feat (airflowctl): add dag operations to conform all API endpoints](https://github.com/apache/airflow/pull/50424)
-    - [Fix image url in IDE onboarding doc (about task sdk)](https://github.com/apache/airflow/pull/48549)
-    - [Add a note `airflow users` command is available when FAB auth-manager is enabled](https://github.com/apache/airflow/pull/46862)
-    - [Enable to add inline ssh key in GitHook](https://github.com/apache/airflow/pull/46181)
-    - [Forbid extra fields on execution api](https://github.com/apache/airflow/pull/44986)
-    - [Fix GitDagBundle to support https (include 46073/46179)](https://github.com/apache/airflow/pull/46226)
-    - ~~[Fix GitDagBundle to support https](https://github.com/apache/airflow/pull/46073)~~ -> revert
-    - [Set container name to envSourceContainerName in KEDA ScaledObject](https://github.com/apache/airflow/pull/44963)
-    - [Support connection extra parameters in MsSqlHook](https://github.com/apache/airflow/pull/44310)
-    - [Support multiple executors in chart](https://github.com/apache/airflow/pull/43606)
-    - [Bump to mypy-boto3-appflow and pass without # type: ignore[arg-type]](https://github.com/apache/airflow/pull/44115)
-    - [Add parent_model param in UploadModelOperator](https://github.com/apache/airflow/pull/42091)
-    - [Add CloudRunServiceHook and operator](https://github.com/apache/airflow/pull/40008)
-    - [enable AIRFLOW\__CELERY__BROKER_URL_CMD when passwordSecretName is true](https://github.com/apache/airflow/pull/40270)
-- dbt
-    - [Fix configuration of turning test warnings into failures](https://github.com/dbt-labs/dbt-core/pull/9347)
-    - [Fix package-lock file's bad indentation](https://github.com/dbt-labs/dbt-core/pull/9341)
-    - [dbt-bigquery: add test case when raise ServiceUnavailable in is_retryable](https://github.com/dbt-labs/dbt-bigquery/pull/1224)
-- kafka-connect-bigquery: [Support n:1 to topic2TableMap (topic:table)](https://github.com/confluentinc/kafka-connect-bigquery/pull/361)
-- kafka-connect-transform-tojsonstring: [Support to transtorm record without schema (schemaless json format)](https://github.com/an0r0c/kafka-connect-transform-tojsonstring/pull/18)
-- meltano
-    - [docs: Fix YAML indent on getting started page and fix link to page source in GitHub](https://github.com/meltano/meltano/pull/7187)
-    - [fix(cli): working GCS state backend properly when any files were located in root bucket](https://github.com/meltano/meltano/pull/8648)
-- datahub
-    - [docs(dbt): fix indentation in dbt meta mapping docs](https://github.com/datahub-project/datahub/pull/7045)
-    - [docs: fix image in development](https://github.com/datahub-project/datahub/pull/7637)
-    - [docs(google-analytics): Correct grammatical error in README.md](https://github.com/datahub-project/datahub/pull/6870)
-    - [docs(architecture): edit documents in architecture section](https://github.com/datahub-project/datahub/pull/6798)
-    - [docs(aws): edit markdown link](https://github.com/datahub-project/datahub/pull/6706)
-    - [docs(quickstart): enable slack community link](https://github.com/datahub-project/datahub/pull/6209)
-- great-expectations: [[DOCS] edit term(data_conext, checkpoints)-link in with airflow](https://github.com/great-expectations/great_expectations/pull/6646)
-- mageai
-    - [Add postgres client package](https://github.com/mage-ai/mage-ai/pull/5486)
-    - [Why bq client create dataset in data loader?](https://github.com/mage-ai/mage-ai/issues/5197) support
-- PyAirbyte: [Chore: Remove import only used in TYPE_CHECKING](https://github.com/airbytehq/PyAirbyte/pull/421)
-- astronomer-cosmos: [Improve MWAA getting-started docs by removing unused imports](https://github.com/astronomer/astronomer-cosmos/pull/1562)
+[⌛️진행하고 있어요](https://github.com/pulls?q=is%3Aopen+is%3Apr+author%3Ajx2lee+archived%3Afalse+-org%3Ajx2lee+)
+[✅완성했어요](https://github.com/pulls?q=is%3Apr+author%3Ajx2lee+archived%3Afalse+-org%3Ajx2lee+is%3Amerged)
 
 
-
----
 내가 오픈소스 기여하는 이유
 **1. 내가 사용한 오픈소스에 기능을 제공하지 않거나 제대로 동작하지 않을 때**
 - example
@@ -66,4 +27,40 @@
 - 나도 누군가에게 도움을 줄 수 있다. 고마움을 받은 컨트리뷰터/커미터/PMC 에게 "편히 사용하게 만들어줘서 고마워요" 라는 말대신 코드로 보답하고 싶었다.
 
 
-
+> [!summary]- 기여 결과물 
+> - airflow
+>     - [feat (airflowctl): add dag operations to conform all API endpoints](https://github.com/apache/airflow/pull/50424)
+>     - [Fix image url in IDE onboarding doc (about task sdk)](https://github.com/apache/airflow/pull/48549)
+>     - [Add a note `airflow users` command is available when FAB auth-manager is enabled](https://github.com/apache/airflow/pull/46862)
+>     - [Enable to add inline ssh key in GitHook](https://github.com/apache/airflow/pull/46181)
+>     - [Forbid extra fields on execution api](https://github.com/apache/airflow/pull/44986)
+>     - [Fix GitDagBundle to support https (include 46073/46179)](https://github.com/apache/airflow/pull/46226)
+>     - [Set container name to envSourceContainerName in KEDA ScaledObject](https://github.com/apache/airflow/pull/44963)
+>     - [Support connection extra parameters in MsSqlHook](https://github.com/apache/airflow/pull/44310)
+>     - [Support multiple executors in chart](https://github.com/apache/airflow/pull/43606)
+>     - [Bump to mypy-boto3-appflow and pass without # type: ignore[arg-type]](https://github.com/apache/airflow/pull/44115)
+>     - [Add parent_model param in UploadModelOperator](https://github.com/apache/airflow/pull/42091)
+>     - [Add CloudRunServiceHook and operator](https://github.com/apache/airflow/pull/40008)
+>     - [enable AIRFLOW\__CELERY__BROKER_URL_CMD when passwordSecretName is true](https://github.com/apache/airflow/pull/40270)
+> - dbt
+>     - [Fix configuration of turning test warnings into failures](https://github.com/dbt-labs/dbt-core/pull/9347)
+>     - [Fix package-lock file's bad indentation](https://github.com/dbt-labs/dbt-core/pull/9341)
+>     - [dbt-bigquery: add test case when raise ServiceUnavailable in is_retryable](https://github.com/dbt-labs/dbt-bigquery/pull/1224)
+> - kafka-connect-bigquery: [Support n:1 to topic2TableMap (topic:table)](https://github.com/confluentinc/kafka-connect-bigquery/pull/361)
+> - kafka-connect-transform-tojsonstring: [Support to transtorm record without schema (schemaless json format)](https://github.com/an0r0c/kafka-connect-transform-tojsonstring/pull/18)
+> - meltano
+>     - [docs: Fix YAML indent on getting started page and fix link to page source in GitHub](https://github.com/meltano/meltano/pull/7187)
+>     - [fix(cli): working GCS state backend properly when any files were located in root bucket](https://github.com/meltano/meltano/pull/8648)
+> - datahub
+>     - [docs(dbt): fix indentation in dbt meta mapping docs](https://github.com/datahub-project/datahub/pull/7045)
+>     - [docs: fix image in development](https://github.com/datahub-project/datahub/pull/7637)
+>     - [docs(google-analytics): Correct grammatical error in README.md](https://github.com/datahub-project/datahub/pull/6870)
+>     - [docs(architecture): edit documents in architecture section](https://github.com/datahub-project/datahub/pull/6798)
+>     - [docs(aws): edit markdown link](https://github.com/datahub-project/datahub/pull/6706)
+>     - [docs(quickstart): enable slack community link](https://github.com/datahub-project/datahub/pull/6209)
+> - great-expectations: [[DOCS] edit term(data_conext, checkpoints)-link in with airflow](https://github.com/great-expectations/great_expectations/pull/6646)
+> - mageai
+>     - [Add postgres client package](https://github.com/mage-ai/mage-ai/pull/5486)
+>     - [Why bq client create dataset in data loader?](https://github.com/mage-ai/mage-ai/issues/5197) support
+> - PyAirbyte: [Chore: Remove import only used in TYPE_CHECKING](https://github.com/airbytehq/PyAirbyte/pull/421)
+> - astronomer-cosmos: [Improve MWAA getting-started docs by removing unused imports](https://github.com/astronomer/astronomer-cosmos/pull/1562)

@@ -35,7 +35,7 @@
 
 | Notes                                                                        | Modified         |
 | ---------------------------------------------------------------------------- | ---------------- |
-| [[opensource-contributions\|오픈소스 기여]]                                     | 2025-05-25 22:44 |
+| [[opensource-contributions\|오픈소스 기여]]                                     | 2025-05-27 21:28 |
 | [[data/etc/self-serve-data\|Self Serve Data]]                             | 2025-04-26 17:27 |
 | [[data/kafka/__/cdc-pipeline-with-debezium\|Debezium 을 이용한 CDC 파이프라인 구축]] | 2025-04-26 17:27 |
 | [[data/kafka/__/migration-to-kakfa-connect\|서버로그 파이프라인 마이그레이션]]           | 2025-04-26 17:27 |
