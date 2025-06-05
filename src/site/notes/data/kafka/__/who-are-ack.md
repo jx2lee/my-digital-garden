@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/data/kafka/__/who-are-ack/","dgShowToc":true,"noteIcon":"","created":"2024-06-30T00:39:32.000+09:00"}
+{"dg-publish":true,"dg-show-toc":true,"permalink":"/data/kafka/__/who-are-ack/","dgShowToc":true,"dgPassFrontmatter":true,"noteIcon":"","created":"2024-06-30T00:39:32.000+09:00"}
 ---
 
 

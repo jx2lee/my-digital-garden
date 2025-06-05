@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/data/dbt/__/metricflow/","noteIcon":"","created":"2024-06-30T00:39:32.000+09:00"}
+{"author":"jx2lee","aliases":null,"created":"2024-06-30T00:39:32.000+09:00","last-updated":"2023-11-08 16:21","tags":null,"dg-publish":true,"permalink":"/data/dbt/__/metricflow/","dgPassFrontmatter":true,"noteIcon":""}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/etc/__/refactoring/replace-control-flag-with-break/","noteIcon":"","created":"2023-12-20T00:33:04.000+09:00"}
+{"dg-publish":true,"permalink":"/etc/__/refactoring/replace-control-flag-with-break/","dgPassFrontmatter":true,"noteIcon":"","created":"2023-12-20T00:33:04.000+09:00"}
 ---
 
 

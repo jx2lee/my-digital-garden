@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/data/rdb/__/rdb-mysql-privilege/","tags":["rdb","MySQL","privilege"],"noteIcon":"","created":"2024-06-30T00:39:32.000+09:00"}
+{"alias":"MySQL Privilege select/replicate","dg-publish":true,"tags":["rdb","MySQL","privilege"],"permalink":"/data/rdb/__/rdb-mysql-privilege/","dgPassFrontmatter":true,"noteIcon":"","created":"2024-06-30T00:39:32.000+09:00"}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/__/meetup/20231116-dbt-meetup/","noteIcon":"","created":"2023-12-20T00:33:04.000+09:00"}
+{"author":"jx2lee","aliases":null,"created":"2023-12-20T00:33:04.000+09:00","last-updated":"2023-11-16 19:11","tags":null,"dg-publish":true,"permalink":"/notes/__/meetup/20231116-dbt-meetup/","dgPassFrontmatter":true,"noteIcon":""}
 ---
 
 

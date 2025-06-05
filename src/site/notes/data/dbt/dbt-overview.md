@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/data/dbt/dbt-overview/","tags":["dbt","overview"],"dgHomeLink":true,"dgShowBacklinks":true,"dgShowLocalGraph":true,"dgEnableSearch":true,"dgLinkPreview":"ture","noteIcon":"","created":"2024-06-30T00:39:32.000+09:00"}
+{"author":"jx2lee","alias":"dbt","created":"2024-06-30T00:39:32.000+09:00","last-updated":"2024-09-14 00:59","tags":["dbt","overview"],"dg-publish":true,"dg-home-link":true,"dg-show-local-graph":true,"dg-show-backlinks":true,"dg-show-toc":false,"dg-show-inline-title":false,"dg-show-file-tree":false,"dg-enable-search":true,"dg-link-preview":"ture","dg-show-tags":false,"dg-pass-frontmatter":false,"priority":2,"permalink":"/data/dbt/dbt-overview/","dgHomeLink":true,"dgShowBacklinks":true,"dgShowLocalGraph":true,"dgEnableSearch":true,"dgLinkPreview":"ture","dgPassFrontmatter":true,"noteIcon":""}
 ---
 
 

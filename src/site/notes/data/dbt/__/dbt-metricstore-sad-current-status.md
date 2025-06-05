@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/data/dbt/__/dbt-metricstore-sad-current-status/","noteIcon":"","created":"2024-06-30T00:39:32.000+09:00"}
+{"author":"jx2lee","aliases":"SAD - Current status","created":"2024-06-30T00:39:32.000+09:00","last-updated":"2023-11-03 13:56","tags":null,"dg-publish":true,"permalink":"/data/dbt/__/dbt-metricstore-sad-current-status/","dgPassFrontmatter":true,"noteIcon":""}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/data/kafka/__/cdc-pipeline-with-debezium/","tags":["debezium","kafka","mysql","connect","source"],"dgLinkPreview":true,"noteIcon":"","created":"2024-10-02T18:51:46.000+09:00"}
+{"author":"jx2lee","aliases":["Debezium 을 이용한 CDC 파이프라인 구축"],"created":"2024-10-02T18:51:46.000+09:00","last-updated":"2024-06-16 15:44","tags":["debezium","kafka","mysql","connect","source"],"project":{"status":"done","include":true,"root":true,"company":"Coinone","duration":"2024.05 - 2024.08"},"dg-publish":true,"dg-home-link":false,"dg-show-local-graph":false,"dg-show-backlinks":false,"dg-show-toc":false,"dg-show-inline-title":false,"dg-show-file-tree":false,"dg-enable-search":false,"dg-link-preview":true,"dg-show-tags":false,"dg-pass-frontmatter":false,"permalink":"/data/kafka/__/cdc-pipeline-with-debezium/","dgLinkPreview":true,"dgPassFrontmatter":true,"noteIcon":""}
 ---
 
 

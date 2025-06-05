@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/data/dbt/__/dbt-braze-cdi-integration/","tags":["dbt","cdi","custom_attribute"],"dgHomeLink":true,"dgShowLocalGraph":true,"dgEnableSearch":true,"dgLinkPreview":true,"noteIcon":"","created":"2024-09-02T20:58:04.000+09:00"}
+{"author":"jx2lee","aliases":"dbt 와 cdi custom attribute 통합하기","created":"2024-09-02T20:58:04.000+09:00","last-updated":"2024-09-14 01:40","tags":["dbt","cdi","custom_attribute"],"dg-publish":true,"dg-home-link":true,"dg-show-local-graph":true,"dg-show-backlinks":false,"dg-show-toc":false,"dg-show-inline-title":false,"dg-show-file-tree":false,"dg-enable-search":true,"dg-link-preview":true,"dg-show-tags":false,"dg-pass-frontmatter":false,"permalink":"/data/dbt/__/dbt-braze-cdi-integration/","dgHomeLink":true,"dgShowLocalGraph":true,"dgEnableSearch":true,"dgLinkPreview":true,"dgPassFrontmatter":true,"noteIcon":""}
 ---
 
 

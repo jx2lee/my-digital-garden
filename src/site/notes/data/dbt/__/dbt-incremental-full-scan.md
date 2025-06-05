@@ -1,13 +1,13 @@
 ---
-{"dg-publish":true,"permalink":"/data/dbt/__/dbt-incremental-full-scan/","tags":["dbt","incremental_model","finops"],"dgHomeLink":true,"dgShowBacklinks":true,"dgShowLocalGraph":true,"dgShowInlineTitle":true,"dgEnableSearch":true,"dgLinkPreview":true,"dgShowTags":true,"noteIcon":"","created":"2024-11-17T12:02:26.000+09:00"}
+{"author":"jx2lee","aliases":"dbt 증분모델에서 merge 시 풀스캔 현상(with datetime partition column)","created":"2024-11-17T12:02:26.000+09:00","last-updated":"2024-09-13 21:17","tags":["dbt","incremental_model","finops"],"dg-publish":true,"dg-home-link":true,"dg-show-local-graph":true,"dg-show-backlinks":true,"dg-show-toc":false,"dg-show-inline-title":true,"dg-show-file-tree":false,"dg-enable-search":true,"dg-link-preview":true,"dg-show-tags":true,"dg-pass-frontmatter":false,"permalink":"/data/dbt/__/dbt-incremental-full-scan/","dgHomeLink":true,"dgShowBacklinks":true,"dgShowLocalGraph":true,"dgShowInlineTitle":true,"dgEnableSearch":true,"dgLinkPreview":true,"dgShowTags":true,"dgPassFrontmatter":true,"noteIcon":""}
 ---
 
 
 > [!info] incremental model 에서 merge 쿼리 시 풀 스캔 발생 문제를 살펴보고 해결방안을 공유해요.
 
-- [[data/dbt/__/dbt-incremental-full-scan#Problem\|Problem]]
-- [[data/dbt/__/dbt-incremental-full-scan#Caused by\|Caused by]]
-- [[data/dbt/__/dbt-incremental-full-scan#Resolutions\|Resolutions]]
+- [[#Problem|Problem]]
+- [[#Caused by|Caused by]]
+- [[#Resolutions|Resolutions]]
 
 
 

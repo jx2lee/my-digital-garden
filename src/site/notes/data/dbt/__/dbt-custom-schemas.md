@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/data/dbt/__/dbt-custom-schemas/","tags":["dbt"],"noteIcon":"","created":"2024-06-30T00:39:32.000+09:00"}
+{"author":"jx2lee","aliases":["dbt_projects.yml 에 설정한 schema 이름 변경하기"],"created":"2024-06-30T00:39:32.000+09:00","last-updated":"2023-09-12 14:12","tags":["dbt"],"dg-publish":true,"permalink":"/data/dbt/__/dbt-custom-schemas/","dgPassFrontmatter":true,"noteIcon":""}
 ---
 
 ### background

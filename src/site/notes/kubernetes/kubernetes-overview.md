@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/kubernetes/kubernetes-overview/","tags":["kubernetes","overview"],"dgHomeLink":true,"dgShowBacklinks":true,"dgShowLocalGraph":true,"dgEnableSearch":true,"dgLinkPreview":"ture","noteIcon":"","created":"2023-12-20T00:33:04.000+09:00"}
+{"author":"jx2lee","alias":"kubernetes","created":"2023-12-20T00:33:04.000+09:00","last-updated":"2023-08-03 23:28","tags":["kubernetes","overview"],"dg-publish":true,"dg-home-link":true,"dg-show-local-graph":true,"dg-show-backlinks":true,"dg-show-toc":false,"dg-show-inline-title":false,"dg-show-file-tree":false,"dg-enable-search":true,"dg-link-preview":"ture","dg-show-tags":false,"dg-pass-frontmatter":false,"priority":7,"permalink":"/kubernetes/kubernetes-overview/","dgHomeLink":true,"dgShowBacklinks":true,"dgShowLocalGraph":true,"dgEnableSearch":true,"dgLinkPreview":"ture","dgPassFrontmatter":true,"noteIcon":""}
 ---
 
 

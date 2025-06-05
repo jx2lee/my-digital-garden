@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/etc/etc-overview/","tags":["overview","etc"],"dgHomeLink":true,"dgShowBacklinks":true,"dgShowLocalGraph":true,"dgEnableSearch":true,"dgLinkPreview":"ture","noteIcon":"","created":"2023-12-20T00:33:04.000+09:00"}
+{"author":"jx2lee","aliases":["etc"],"created":"2023-12-20T00:33:04.000+09:00","last-updated":"2024-09-14 01:08","tags":["overview","etc"],"dg-publish":true,"dg-home-link":true,"dg-show-local-graph":true,"dg-show-backlinks":true,"dg-show-toc":false,"dg-show-inline-title":false,"dg-show-file-tree":false,"dg-enable-search":true,"dg-link-preview":"ture","dg-show-tags":false,"dg-pass-frontmatter":false,"priority":99,"permalink":"/etc/etc-overview/","dgHomeLink":true,"dgShowBacklinks":true,"dgShowLocalGraph":true,"dgEnableSearch":true,"dgLinkPreview":"ture","dgPassFrontmatter":true,"noteIcon":""}
 ---
 
 
@@ -8,7 +8,7 @@
 - terms
 	- [[etc/__/language/java-plain-old-java-object\|java-plain-old-java-object]]
 	- [[etc/__/language/java-auto-unboxing\|java-auto-unboxing]]
-	- [[etc/__/language/statement-vs-expression\|statement-vs-expression]]
+	- [[etc/__/language/common-statement-expression\|common-statement-expression]]
 	- [[etc/__/language/common-early-return-example\|common-early-return-example]] 
 	- [[etc/__/language/java-meta-annotation\|meta annotation]]
 

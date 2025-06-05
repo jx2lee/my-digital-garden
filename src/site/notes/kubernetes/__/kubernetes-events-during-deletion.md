@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/kubernetes/__/kubernetes-events-during-deletion/","tags":["kubernetes","pod-deletion"],"noteIcon":"","created":"2023-12-20T00:33:04.000+09:00"}
+{"author":"jx2lee","aliases":"pod 가 삭제되는 과정을 살펴봐요","created":"2023-12-20T00:33:04.000+09:00","last-updated":"2023-08-03 23:31","tags":["kubernetes","pod-deletion"],"dg-publish":true,"permalink":"/kubernetes/__/kubernetes-events-during-deletion/","dgPassFrontmatter":true,"noteIcon":""}
 ---
 
 

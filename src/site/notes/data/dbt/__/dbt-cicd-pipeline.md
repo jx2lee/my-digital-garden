@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/data/dbt/__/dbt-cicd-pipeline/","tags":["dbt","cicd"],"dgLinkPreview":true,"noteIcon":"","created":"2024-10-02T18:51:46.000+09:00"}
+{"author":"jx2lee","aliases":["Github Action 을 활용한 dbt CI/CD 파이프라인 구축"],"created":"2024-10-02T18:51:46.000+09:00","last-updated":"2023-08-06 23:39","tags":["dbt","cicd"],"project":{"status":"done","include":true,"root":true,"company":"Coinone","duration":"2023.07 - 2023.09"},"dg-publish":true,"dg-home-link":false,"dg-show-local-graph":false,"dg-show-backlinks":false,"dg-show-toc":false,"dg-show-inline-title":false,"dg-show-file-tree":false,"dg-enable-search":false,"dg-link-preview":true,"dg-show-tags":false,"dg-pass-frontmatter":false,"permalink":"/data/dbt/__/dbt-cicd-pipeline/","dgLinkPreview":true,"dgPassFrontmatter":true,"noteIcon":""}
 ---
 
 

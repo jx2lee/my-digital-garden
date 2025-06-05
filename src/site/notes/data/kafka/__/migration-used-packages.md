@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/data/kafka/__/migration-used-packages/","tags":["kafka","connect"],"noteIcon":"","created":"2024-06-30T00:39:32.000+09:00"}
+{"author":"jx2lee","alias":"사용중인 커넥터 & 트랜스폼","created":"2024-06-30T00:39:32.000+09:00","last-updated":"2023-10-16 14:20","tags":["kafka","connect"],"dg-publish":true,"permalink":"/data/kafka/__/migration-used-packages/","dgPassFrontmatter":true,"noteIcon":""}
 ---
 
 

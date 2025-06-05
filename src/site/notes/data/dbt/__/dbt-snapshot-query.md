@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/data/dbt/__/dbt-snapshot-query/","noteIcon":"","created":"2024-06-30T00:39:32.000+09:00"}
+{"dg-publish":true,"alias":"dbt snapshot 모델 과정 뜯어보기","permalink":"/data/dbt/__/dbt-snapshot-query/","dgPassFrontmatter":true,"noteIcon":"","created":"2024-06-30T00:39:32.000+09:00"}
 ---
 
 

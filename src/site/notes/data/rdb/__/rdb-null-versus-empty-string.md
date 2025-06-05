@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/data/rdb/__/rdb-null-versus-empty-string/","noteIcon":"","created":"2024-06-30T00:39:32.000+09:00"}
+{"alias":"null vs empty string","dg-publish":true,"permalink":"/data/rdb/__/rdb-null-versus-empty-string/","dgPassFrontmatter":true,"noteIcon":"","created":"2024-06-30T00:39:32.000+09:00"}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/data/kafka/__/schema-registry/","tags":["kafka","schema registry"],"noteIcon":"","created":"2024-06-30T00:39:32.000+09:00"}
+{"author":"jx2lee","aliases":"스키마 레지스트리 오버뷰","created":"2024-06-30T00:39:32.000+09:00","last-updated":"2024-02-04 01:12","tags":["kafka","schema registry"],"dg-publish":true,"permalink":"/data/kafka/__/schema-registry/","dgPassFrontmatter":true,"noteIcon":""}
 ---
 
 

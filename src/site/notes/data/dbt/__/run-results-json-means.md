@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/data/dbt/__/run-results-json-means/","tags":["dbt"],"noteIcon":"","created":"2024-06-30T00:39:32.000+09:00"}
+{"author":"jx2lee","aliases":["run_results.json in dbt"],"created":"2024-06-30T00:39:32.000+09:00","last-updated":"2023-08-08 22:05","tags":["dbt"],"dg-publish":true,"dg-show-backlinks":false,"permalink":"/data/dbt/__/run-results-json-means/","dgPassFrontmatter":true,"noteIcon":""}
 ---
 
 

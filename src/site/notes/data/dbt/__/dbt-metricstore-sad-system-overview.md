@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/data/dbt/__/dbt-metricstore-sad-system-overview/","noteIcon":"","created":"2024-06-30T00:39:32.000+09:00"}
+{"author":"jx2lee","aliases":"SDA - System Overview","created":"2024-06-30T00:39:32.000+09:00","last-updated":"2023-11-15 10:09","tags":null,"dg-publish":true,"permalink":"/data/dbt/__/dbt-metricstore-sad-system-overview/","dgPassFrontmatter":true,"noteIcon":""}
 ---
 
 

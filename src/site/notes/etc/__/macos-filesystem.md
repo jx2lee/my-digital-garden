@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/etc/__/macos-filesystem/","dgHomeLink":true,"dgShowBacklinks":true,"dgEnableSearch":true,"dgLinkPreview":true,"noteIcon":"","created":"2024-08-13T22:42:28.000+09:00"}
+{"author":"jx2lee","aliases":["macos 의 filesystem - claude 답변"],"created":"2024-08-13T22:42:28.000+09:00","last-updated":"2024-08-13 22:42","tags":null,"dg-publish":true,"dg-home-link":true,"dg-show-local-graph":false,"dg-show-backlinks":true,"dg-show-toc":false,"dg-show-inline-title":false,"dg-show-file-tree":false,"dg-enable-search":true,"dg-link-preview":true,"dg-show-tags":false,"dg-pass-frontmatter":false,"permalink":"/etc/__/macos-filesystem/","dgHomeLink":true,"dgShowBacklinks":true,"dgEnableSearch":true,"dgLinkPreview":true,"dgPassFrontmatter":true,"noteIcon":""}
 ---
 
 

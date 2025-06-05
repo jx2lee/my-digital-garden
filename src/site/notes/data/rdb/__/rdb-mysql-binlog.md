@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/data/rdb/__/rdb-mysql-binlog/","tags":["rdb","binlog"],"noteIcon":"","created":"2024-06-30T00:39:32.000+09:00"}
+{"author":"jx2lee","aliases":["mysql binlog 알아보기"],"created":"2024-06-30T00:39:32.000+09:00","last-updated":"2023-09-05 15:07","tags":["rdb","binlog"],"dg-publish":true,"permalink":"/data/rdb/__/rdb-mysql-binlog/","dgPassFrontmatter":true,"noteIcon":""}
 ---
 
 

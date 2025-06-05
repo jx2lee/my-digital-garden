@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/data/kafka/__/delivery-semantics/","tags":["stream","delivery","semantics"],"dgHomeLink":true,"dgShowInlineTitle":true,"dgEnableSearch":true,"dgLinkPreview":true,"dgShowTags":true,"noteIcon":"","created":"2024-07-21T15:30:23.000+09:00"}
+{"author":"jx2lee","aliases":"메세지 전달 시멘틱","created":"2024-07-21T15:30:23.000+09:00","last-updated":"2024-07-21 15:30","tags":["stream","delivery","semantics"],"dg-publish":true,"dg-home-link":true,"dg-show-local-graph":false,"dg-show-backlinks":false,"dg-show-toc":false,"dg-show-inline-title":true,"dg-show-file-tree":false,"dg-enable-search":true,"dg-link-preview":true,"dg-show-tags":true,"dg-pass-frontmatter":false,"permalink":"/data/kafka/__/delivery-semantics/","dgHomeLink":true,"dgShowInlineTitle":true,"dgEnableSearch":true,"dgLinkPreview":true,"dgShowTags":true,"dgPassFrontmatter":true,"noteIcon":""}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/data/bigquery/__/partitioning-clustering/","tags":["biguqery","partitinon","clustering"],"dgHomeLink":"ture","dgShowBacklinks":true,"dgShowLocalGraph":true,"dgEnableSearch":true,"dgLinkPreview":true,"noteIcon":"","created":"2024-06-30T00:39:32.000+09:00"}
+{"author":"jx2lee","aliases":"파티션과 클러스터링","created":"2024-06-30T00:39:32.000+09:00","last-updated":"2024-10-18 22:14","tags":["biguqery","partitinon","clustering"],"dg-publish":true,"dg-home-link":"ture","dg-show-local-graph":true,"dg-show-backlinks":true,"dg-show-toc":false,"dg-show-inline-title":false,"dg-show-file-tree":false,"dg-enable-search":true,"dg-link-preview":true,"dg-show-tags":false,"dg-pass-frontmatter":false,"permalink":"/data/bigquery/__/partitioning-clustering/","dgHomeLink":"ture","dgShowBacklinks":true,"dgShowLocalGraph":true,"dgEnableSearch":true,"dgLinkPreview":true,"dgPassFrontmatter":true,"noteIcon":""}
 ---
 
 

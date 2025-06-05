@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/data/dbt/__/dbt-cicd-overview/","noteIcon":"","created":"2024-06-30T00:39:32.000+09:00"}
+{"dg-publish":true,"aliases":["Atlassian bamboo & Airflow 를 이용한 dbt CI/CD"],"permalink":"/data/dbt/__/dbt-cicd-overview/","dgPassFrontmatter":true,"noteIcon":"","created":"2024-06-30T00:39:32.000+09:00"}
 ---
 
 #dbt #airflow 

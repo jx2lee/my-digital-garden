@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/data/bigquery/__/shallow-dive/","noteIcon":"","created":"2024-06-30T00:39:32.000+09:00"}
+{"author":"jx2lee","created":"2024-06-30T00:39:32.000+09:00","last-updated":"2023-11-15 23:11","tags":null,"dg-publish":true,"permalink":"/data/bigquery/__/shallow-dive/","dgPassFrontmatter":true,"noteIcon":""}
 ---
 
 

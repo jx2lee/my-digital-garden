@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/data/dbt/__/dbt-thread/","tags":["dbt","thread"],"noteIcon":"","created":"2024-06-30T00:39:32.000+09:00"}
+{"author":"jx2lee","aliases":["thread in dbt"],"created":"2024-06-30T00:39:32.000+09:00","last-updated":"2023-08-08 21:02","tags":["dbt","thread"],"dg-publish":true,"permalink":"/data/dbt/__/dbt-thread/","dgPassFrontmatter":true,"noteIcon":""}
 ---
 
 ### definition

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/data/kafka/__/migration-to-kakfa-connect/","tags":["kafka","connect"],"dgLinkPreview":true,"noteIcon":"","created":"2024-10-02T18:51:46.000+09:00"}
+{"author":"jx2lee","aliases":["서버로그 파이프라인 마이그레이션"],"created":"2024-10-02T18:51:46.000+09:00","last-updated":"2023-10-13 17:00","project":{"status":"done","include":true,"root":true,"company":"Coinone","duration":"2023.10 - 2023.12"},"tags":["kafka","connect"],"dg-publish":true,"dg-home-link":false,"dg-show-local-graph":false,"dg-show-backlinks":false,"dg-show-toc":false,"dg-show-inline-title":false,"dg-show-file-tree":false,"dg-enable-search":false,"dg-link-preview":true,"dg-show-tags":false,"dg-pass-frontmatter":false,"permalink":"/data/kafka/__/migration-to-kakfa-connect/","dgLinkPreview":true,"dgPassFrontmatter":true,"noteIcon":""}
 ---
 
 

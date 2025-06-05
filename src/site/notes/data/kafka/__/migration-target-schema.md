@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/data/kafka/__/migration-target-schema/","tags":["kafka","connect","bigquery"],"noteIcon":"","created":"2024-06-30T00:39:32.000+09:00"}
+{"author":"jx2lee","aliases":"빅쿼리로 적재할 테이블 스키마","created":"2024-06-30T00:39:32.000+09:00","last-updated":"2023-10-24 17:30","tags":["kafka","connect","bigquery"],"dg-publish":true,"permalink":"/data/kafka/__/migration-target-schema/","dgPassFrontmatter":true,"noteIcon":""}
 ---
 
 

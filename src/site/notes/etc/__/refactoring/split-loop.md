@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/etc/__/refactoring/split-loop/","dgShowBacklinks":true,"dgShowLocalGraph":true,"noteIcon":"","created":"2023-12-20T00:33:04.000+09:00"}
+{"dg-publish":true,"author":"jx2lee","aliases":"Split loop","dg-home-link":false,"dg-show-local-graph":true,"dg-show-backlinks":true,"dg-show-toc":false,"dg-show-inline-title":false,"dg-show-file-tree":false,"dg-enable-search":false,"dg-link-preview":false,"dg-show-tags":false,"dg-pass-frontmatter":false,"permalink":"/etc/__/refactoring/split-loop/","dgShowBacklinks":true,"dgShowLocalGraph":true,"dgPassFrontmatter":true,"noteIcon":"","created":"2023-12-20T00:33:04.000+09:00"}
 ---
 
 

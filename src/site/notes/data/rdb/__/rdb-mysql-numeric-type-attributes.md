@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/data/rdb/__/rdb-mysql-numeric-type-attributes/","tags":["rdb","numeric type","unsigned"],"noteIcon":"","created":"2024-06-30T00:39:32.000+09:00"}
+{"author":"jx2lee","aliases":"Signed/Unsigned in Numeric Type Attributes","created":"2024-06-30T00:39:32.000+09:00","last-updated":"2024-01-30 23:39","tags":["rdb","numeric type","unsigned"],"dg-publish":true,"permalink":"/data/rdb/__/rdb-mysql-numeric-type-attributes/","dgPassFrontmatter":true,"noteIcon":""}
 ---
 
 

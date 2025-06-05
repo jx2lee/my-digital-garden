@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/etc/__/cpu-land/","tags":["etc","cpu_land","cs"],"dgHomeLink":true,"dgShowBacklinks":true,"dgShowLocalGraph":true,"dgShowInlineTitle":true,"dgEnableSearch":true,"dgLinkPreview":true,"dgShowTags":true,"noteIcon":"","created":"2024-03-15T23:12:30.000+09:00"}
+{"author":"jx2lee","aliases":["Putting the “You” in CPU"],"created":"2024-03-15T23:12:30.000+09:00","last-updated":"2024-03-15 23:12","tags":["etc","cpu_land","cs"],"dg-publish":true,"dg-home-link":true,"dg-show-local-graph":true,"dg-show-backlinks":true,"dg-show-toc":false,"dg-show-inline-title":true,"dg-show-file-tree":false,"dg-enable-search":true,"dg-link-preview":true,"dg-show-tags":true,"dg-pass-frontmatter":false,"permalink":"/etc/__/cpu-land/","dgHomeLink":true,"dgShowBacklinks":true,"dgShowLocalGraph":true,"dgShowInlineTitle":true,"dgEnableSearch":true,"dgLinkPreview":true,"dgShowTags":true,"dgPassFrontmatter":true,"noteIcon":""}
 ---
 
 

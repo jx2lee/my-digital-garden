@@ -1,5 +1,5 @@
 ---
-{"author":"jx2lee","aliases":"Self Serve Data","created":"2024-10-02T18:51:46.000+09:00","last-updated":"2024-07-28 02:04","tags":["airbyte","datahub","opensource"],"project":{"include":true,"status":"done","root":true,"company":"coinone","duration":"2022.09 - 2023.03"},"dg-publish":true,"dg-home-link":false,"dg-show-local-graph":false,"dg-show-backlinks":false,"dg-show-toc":false,"dg-show-inline-title":false,"dg-show-file-tree":false,"dg-enable-search":false,"dg-link-preview":true,"dg-show-tags":false,"dg-pass-frontmatter":false,"permalink":"/data/etc/self-serve-data/","dgLinkPreview":true,"dgPassFrontmatter":true,"noteIcon":""}
+{"author":"jx2lee","aliases":"Self Serve Data","created":"2024-10-02T18:51:46.000+09:00","last-updated":"2024-07-28 02:04","tags":["airbyte","datahub","opensource"],"project":{"include":true,"status":"done","root":true,"company":"Coinone","duration":"2022.09 - 2023.03"},"dg-publish":true,"dg-home-link":false,"dg-show-local-graph":false,"dg-show-backlinks":false,"dg-show-toc":false,"dg-show-inline-title":false,"dg-show-file-tree":false,"dg-enable-search":false,"dg-link-preview":true,"dg-show-tags":false,"dg-pass-frontmatter":false,"permalink":"/data/etc/self-serve-data/","dgLinkPreview":true,"dgPassFrontmatter":true,"noteIcon":""}
 ---
 
 

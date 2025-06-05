@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/data/kafka/__/migration-connector-cicd/","tags":["kafka","connect","github","cicd"],"noteIcon":"","created":"2024-06-30T00:39:32.000+09:00"}
+{"author":"jx2lee","aliases":"커넥터 CI/CD","created":"2024-06-30T00:39:32.000+09:00","last-updated":"2023-10-16 14:22","tags":["kafka","connect","github","cicd"],"dg-publish":true,"permalink":"/data/kafka/__/migration-connector-cicd/","dgPassFrontmatter":true,"noteIcon":""}
 ---
 
 
