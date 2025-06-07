@@ -15,6 +15,7 @@
     - [Support n:1 to topic2TableMap (topic:table)](https://github.com/confluentinc/kafka-connect-bigquery/pull/361)
     - [Support to transtorm record without schema (schemaless json format)](https://github.com/an0r0c/kafka-connect-transform-tojsonstring/pull/18)
     - [Add postgres client package](https://github.com/mage-ai/mage-ai/pull/5486)
+    - [feat: use python-oracledb instead of cx_Oracle](https://github.com/GoogleCloudPlatform/professional-services-data-validator/pull/1515)
 - 내가 속한 조직에 필요한 기능이 부족하거나 수정되어야할 경우가 많았다. 회사 VCS 에 올려 따로 관리해도 좋지만 불필요한 과정(예를 들어, 변경된 기능을 포함해 cicd 파이프라인을 새로 생성)을 없애고 싶었다.
 
 **2. 회사에서 많은 코드베이스를 갖는 프로젝트를 접할 기회가 적음**
@@ -64,3 +65,4 @@
 >     - [Why bq client create dataset in data loader?](https://github.com/mage-ai/mage-ai/issues/5197) support
 > - PyAirbyte: [Chore: Remove import only used in TYPE_CHECKING](https://github.com/airbytehq/PyAirbyte/pull/421)
 > - astronomer-cosmos: [Improve MWAA getting-started docs by removing unused imports](https://github.com/astronomer/astronomer-cosmos/pull/1562)
+> - professional-services-data-validator: [feat: use python-oracledb instead of cx_Oracle](https://github.com/GoogleCloudPlatform/professional-services-data-validator/pull/1515)
