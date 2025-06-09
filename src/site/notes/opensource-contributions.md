@@ -5,8 +5,8 @@
 
 > [!info] issues (idle, assignee)[ ](https://github.com/issues?q=is%3Aopen+is%3Aissue+assignee%3Ajx2lee+archived%3Afalse+-org%3Ajx2lee+)
 
-[⌛️진행하고 있어요](https://github.com/pulls?q=is%3Aopen+is%3Apr+author%3Ajx2lee+archived%3Afalse+-org%3Ajx2lee+)
-[✅완성했어요](https://github.com/pulls?q=is%3Apr+author%3Ajx2lee+archived%3Afalse+-org%3Ajx2lee+is%3Amerged)
+[⌛️In Progress](https://github.com/pulls?q=is%3Aopen+is%3Apr+author%3Ajx2lee+archived%3Afalse+-org%3Ajx2lee+)
+[✅Done](https://github.com/pulls?q=is%3Apr+author%3Ajx2lee+archived%3Afalse+-org%3Ajx2lee+is%3Amerged)
 
 
 내가 오픈소스 기여하는 이유
@@ -28,7 +28,7 @@
 - 나도 누군가에게 도움을 줄 수 있다. 고마움을 받은 컨트리뷰터/커미터/PMC 에게 "편히 사용하게 만들어줘서 고마워요" 라는 말대신 코드로 보답하고 싶었다.
 
 
-> [!summary]- 기여 결과물 
+> [!summary]- Results
 > - airflow
 >     - [feat (airflowctl): add dag operations to conform all API endpoints](https://github.com/apache/airflow/pull/50424)
 >     - [Fix image url in IDE onboarding doc (about task sdk)](https://github.com/apache/airflow/pull/48549)

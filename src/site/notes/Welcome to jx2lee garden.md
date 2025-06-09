@@ -35,7 +35,7 @@
 
 | Notes                                                                        | Modified         |
 | ---------------------------------------------------------------------------- | ---------------- |
-| [[opensource-contributions\|오픈소스 기여]]                                     | 2025-06-07 19:19 |
+| [[opensource-contributions\|오픈소스 기여]]                                     | 2025-06-10 00:33 |
 | [[data/dbt/__/__DEPRECATED__dbt-metric\|DEPRECATED: dbt metric]]          | 2025-06-05 17:40 |
 | [[data/airflow/__/airflow-with-dbt\|데이터레이크를 하나로]]                         | 2025-06-05 16:50 |
 | [[Welcome to jx2lee garden\|Welcome to jx2lee garden]]                    | 2025-06-05 16:01 |
