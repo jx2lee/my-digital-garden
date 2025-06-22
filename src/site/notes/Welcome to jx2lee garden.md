@@ -35,6 +35,7 @@
 
 | Notes                                                                        | Modified         |
 | ---------------------------------------------------------------------------- | ---------------- |
+| [[data/airflow/airflow-overview\|airflow]]                                | 2025-06-22 18:34 |
 | [[opensource-contributions\|오픈소스 기여]]                                     | 2025-06-10 00:33 |
 | [[data/dbt/__/__DEPRECATED__dbt-metric\|DEPRECATED: dbt metric]]          | 2025-06-05 17:40 |
 | [[data/airflow/__/airflow-with-dbt\|데이터레이크를 하나로]]                         | 2025-06-05 16:50 |
@@ -44,6 +45,5 @@
 | [[data/kafka/__/cdc-pipeline-with-debezium\|Debezium 을 이용한 CDC 파이프라인 구축]] | 2025-04-26 17:27 |
 | [[data/kafka/__/migration-to-kakfa-connect\|서버로그 파이프라인 마이그레이션]]           | 2025-04-26 17:27 |
 | [[projects\|프로젝트]]                                                        | 2025-04-26 17:26 |
-| [[etc/etc-overview\|etc]]                                                 | 2025-04-26 15:57 |
 
 { .block-language-dataview}

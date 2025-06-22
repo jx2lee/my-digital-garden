@@ -9,3 +9,4 @@
 - [What is Airflow®?](https://airflow.apache.org/docs/apache-airflow/stable/index.html)
     - [Core Components](https://airflow.apache.org/docs/apache-airflow/stable/core-concepts/index.html)
 - [Apache Airflow Tutorials for Beginner](https://heumsi.github.io/apache-airflow-tutorials-for-beginner/)
+- [DAG.user_defined_macros](https://airflow.apache.org/docs/apache-airflow/2.9.2/templates-ref.html#:~:text=through%20the%20DAG.-,user_defined_macros,-argument)
