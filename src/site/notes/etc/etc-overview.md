@@ -28,7 +28,7 @@
 
 ### Study & Books
 - [[etc/__/study/think-bayes/__overview\|스터디: 파이썬을 이용한 베이지안 통계]]
-- [[notes/__/books/the-secret-life-of-programs\|스터디: 한 권으로 읽는 컴퓨터 구조와 프로그래밍]]
+- [[notes/__/the-secret-life-of-programs\|스터디: 한 권으로 읽는 컴퓨터 구조와 프로그래밍]]
 - inflearn
 
 

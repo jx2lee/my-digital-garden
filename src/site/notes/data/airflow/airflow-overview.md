@@ -3,7 +3,7 @@
 ---
 
 
-[[data/airflow/__/dag-factory-in-action\|dag-factory 맛보기]]
+[[data/airflow/dag-factory-in-action\|dag-factory 맛보기]]
 
 ### reference
 - [What is Airflow®?](https://airflow.apache.org/docs/apache-airflow/stable/index.html)

@@ -35,15 +35,15 @@
 
 | Notes                                                                        | Modified         |
 | ---------------------------------------------------------------------------- | ---------------- |
+| [[data/getting-started/arrow\|Apache Arrow]]                              | 2025-07-13 20:47 |
+| [[data/airflow/airflow-test-environment\|Airfow dag repo CI 개선]]          | 2025-07-13 20:46 |
+| [[data/airflow/airflow-dag-linter\|Ruff 영감을 받아 DAG linter 제작기]]           | 2025-07-13 18:18 |
+| [[data/etc/airflow-with-dbt\|데이터레이크를 하나로]]                                | 2025-07-13 18:17 |
+| [[data/etc/api-enhancement\|DW API w/ Arrow Fligh SQL]]                   | 2025-07-13 18:16 |
 | [[data/airflow/airflow-overview\|airflow]]                                | 2025-06-22 18:34 |
 | [[opensource-contributions\|오픈소스 기여]]                                     | 2025-06-10 00:33 |
 | [[data/dbt/__/__DEPRECATED__dbt-metric\|DEPRECATED: dbt metric]]          | 2025-06-05 17:40 |
-| [[data/airflow/__/airflow-with-dbt\|데이터레이크를 하나로]]                         | 2025-06-05 16:50 |
 | [[Welcome to jx2lee garden\|Welcome to jx2lee garden]]                    | 2025-06-05 16:01 |
 | [[data/dbt/__/dbt-cicd-pipeline\|Github Action 을 활용한 dbt CI/CD 파이프라인 구축]] | 2025-04-26 17:27 |
-| [[data/etc/self-serve-data\|Self Serve Data]]                             | 2025-04-26 17:27 |
-| [[data/kafka/__/cdc-pipeline-with-debezium\|Debezium 을 이용한 CDC 파이프라인 구축]] | 2025-04-26 17:27 |
-| [[data/kafka/__/migration-to-kakfa-connect\|서버로그 파이프라인 마이그레이션]]           | 2025-04-26 17:27 |
-| [[projects\|프로젝트]]                                                        | 2025-04-26 17:26 |
 
 { .block-language-dataview}

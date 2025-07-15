@@ -28,10 +28,9 @@
 - 자바를 이용한 quickstart
 - [installation](https://arrow.apache.org/docs/java/install.html)
 
-> intellij 사용 시 주의사항
+> intellij 사용 시
 > - 아래와 같이 실행옵션에서 environment 를 설정해야 오류가 발생하지 않아요.
 > - `_JAVA_OPTIONS="--add-opens=java.base/java.nio=ALL-UNNAMED"`
-> 	![|500](https://i.imgur.com/UuSH1hp.png)
 
 
 #### Create a ValueVector
@@ -43,3 +42,5 @@ Arrow Flight SQL
 - https://www.slideshare.net/slideshow/apache-arrow-flight-overview/100340338
 - https://www.dremio.com/blog/an-introduction-to-apache-arrow-flight-sql
 - https://www.dremio.com/blog/arrow-flight-sql-a-universal-jdbc-driver
+- https://medium.com/@philipmoore_53699/powering-data-apis-with-arrow-flight-rpc-and-ibis-d8b25e06c942
+    - https://github.com/gizmodata/flight-ibis-demo
