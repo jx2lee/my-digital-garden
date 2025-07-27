@@ -4,7 +4,7 @@
 
 
 
-### 가상자산 거래소의 데이터 엔지니어, 이재준 입니다.
+### 👋🏽 가상자산 거래소의 데이터 엔지니어, 이재준 입니다
 
 
 ![|400](https://i.imgur.com/IOPpMZJ.jpeg)
@@ -36,7 +36,7 @@
 
 | Notes                                                                        | Modified         |
 | ---------------------------------------------------------------------------- | ---------------- |
-| [[Welcome to jx2lee garden\|Welcome to jx2lee garden]]                    | 2025-07-27 22:20 |
+| [[Welcome to jx2lee garden\|Welcome to jx2lee garden]]                    | 2025-07-27 22:26 |
 | [[opensource-contributions\|오픈소스 기여]]                                     | 2025-07-27 22:14 |
 | [[data/getting-started/arrow\|Apache Arrow]]                              | 2025-07-13 20:47 |
 | [[data/airflow/airflow-test-environment\|Airfow dag repo CI 개선]]          | 2025-07-13 20:46 |
