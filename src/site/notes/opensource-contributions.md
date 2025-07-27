@@ -28,7 +28,7 @@
 - 나도 누군가에게 도움을 줄 수 있다. 고마움을 받은 컨트리뷰터/커미터/PMC 에게 "편히 사용하게 만들어줘서 고마워요" 라는 말대신 코드로 보답하고 싶었다.
 
 
-> [!summary]- Results
+> [!summary]- Outputs
 > - airflow
 >     - [feat (airflowctl): add dag operations to conform all API endpoints](https://github.com/apache/airflow/pull/50424)
 >     - [Fix image url in IDE onboarding doc (about task sdk)](https://github.com/apache/airflow/pull/48549)
@@ -43,6 +43,9 @@
 >     - [Add parent_model param in UploadModelOperator](https://github.com/apache/airflow/pull/42091)
 >     - [Add CloudRunServiceHook and operator](https://github.com/apache/airflow/pull/40008)
 >     - [enable AIRFLOW\__CELERY__BROKER_URL_CMD when passwordSecretName is true](https://github.com/apache/airflow/pull/40270)
+> - professional-services-data-validator:
+>     - [feat: use python-oracledb instead of cx_Oracle](https://github.com/GoogleCloudPlatform/professional-services-data-validator/pull/1515)
+>     - [fix: deduplicate spanner client in SpannerBackend](https://github.com/GoogleCloudPlatform/professional-services-data-validator/pull/1554)
 > - dbt
 >     - [Fix configuration of turning test warnings into failures](https://github.com/dbt-labs/dbt-core/pull/9347)
 >     - [Fix package-lock file's bad indentation](https://github.com/dbt-labs/dbt-core/pull/9341)
@@ -65,4 +68,3 @@
 >     - [Why bq client create dataset in data loader?](https://github.com/mage-ai/mage-ai/issues/5197) support
 > - PyAirbyte: [Chore: Remove import only used in TYPE_CHECKING](https://github.com/airbytehq/PyAirbyte/pull/421)
 > - astronomer-cosmos: [Improve MWAA getting-started docs by removing unused imports](https://github.com/astronomer/astronomer-cosmos/pull/1562)
-> - professional-services-data-validator: [feat: use python-oracledb instead of cx_Oracle](https://github.com/GoogleCloudPlatform/professional-services-data-validator/pull/1515)
