@@ -9,23 +9,23 @@
 [✅Done](https://github.com/pulls?q=is%3Apr+author%3Ajx2lee+archived%3Afalse+-org%3Ajx2lee+is%3Amerged)
 
 
-내가 오픈소스 기여하는 이유
+내가 오픈소스 기여하는 이유는 다음과 같아요.
 **1. 내가 사용한 오픈소스에 기능을 제공하지 않거나 제대로 동작하지 않을 때**
 - example
     - [Support n:1 to topic2TableMap (topic:table)](https://github.com/confluentinc/kafka-connect-bigquery/pull/361)
     - [Support to transtorm record without schema (schemaless json format)](https://github.com/an0r0c/kafka-connect-transform-tojsonstring/pull/18)
     - [Add postgres client package](https://github.com/mage-ai/mage-ai/pull/5486)
     - [feat: use python-oracledb instead of cx_Oracle](https://github.com/GoogleCloudPlatform/professional-services-data-validator/pull/1515)
-- 내가 속한 조직에 필요한 기능이 부족하거나 수정되어야할 경우가 많았다. 회사 VCS 에 올려 따로 관리해도 좋지만 불필요한 과정(예를 들어, 변경된 기능을 포함해 cicd 파이프라인을 새로 생성)을 없애고 싶었다.
+- 내가 속한 조직에 필요한 기능이 부족하거나 수정되어야할 경우가 많았습니다. 회사 VCS 에 올려 따로 관리해도 좋지만 불필요한 과정(예를 들어, 변경된 기능을 포함해 cicd 파이프라인을 새로 생성)을 없애고 싶었어요.
 
 **2. 회사에서 많은 코드베이스를 갖는 프로젝트를 접할 기회가 적음**
-- Airflow 경우만 보더라도 코드 라인수가 굉장히 많다. 이들이 어떻게 동작하는지 코드베이스로 확인할 수 있는 회사 코드는 드물다. (물론 내가 거쳐온 조직이 관리한 코드가 적을 수 있다.)
-- 자연스럽게 많은 양의 코드를 살펴보면 넓은 시야를 가질 수 있다고 믿는다. 물론 이로인해 불필요한 설계를 할 수 있겠지만 나에게 있어선 많은 코드를 보고 이해하는 것이 내 성장과 굉장히 밀접해 있다.
+- Airflow 경우만 보더라도 코드 라인수가 굉장히 많습니다. 이들이 어떻게 동작하는지 코드베이스로 확인할 수 있는 회사 코드는 드물어요. (~~물론 내가 거쳐온 조직이 관리한 코드가 작을 수 있죠~~)
+- 자연스럽게 많은 양의 코드를 살펴보면 넓은 시야를 가질 수 있다고 믿는다. 물론 이로인해 불필요한 설계를 할 수 있겠지만 나에게 있어선 많은 코드를 보고 이해하는 것이 내 성장에 굉장히 큰 도움을 준다 생각해요.
 
 **3. 도움 받은 만큼 나도 도움을 주고 싶은 마음**
-- 가장 큰 이유. 근데 왜 마지막에 언급했을까? ~~가식적으로 보일 것 같았다.~~
-- 데이터 엔지니어라면 누구나 쓰는 Airflow, 이를 만든 사람들이 있었기에 내 일을 하는데 정말 많은 도움을 주었다. 도움만 받지 말고 나도 누군가에게 도움을 줄 수 있지 않을까? 라는 마음에서 시작했다.
-- 나도 누군가에게 도움을 줄 수 있다. 고마움을 받은 컨트리뷰터/커미터/PMC 에게 "편히 사용하게 만들어줘서 고마워요" 라는 말대신 코드로 보답하고 싶었다.
+- 가장 큰 이유. 근데 왜 마지막에 언급했을까요? ~~가식적으로 보일 것 같았다.~~
+- 데이터 엔지니어라면 누구나 쓰는 Airflow, 이를 만든 사람들이 있었기에 내 일을 하는데 정말 많은 도움을 주었다. 도움만 받지 말고 나도 누군가에게 도움을 줄 수 있지 않을까? 라는 마음에서 시작했어요.
+- 나도 누군가에게 도움을 줄 수 있다고 생각했어요. 프로젝트를 이끄는 컨트리뷰터/커미터/PMC 에게 "편히 사용하게 만들어줘서 고마워요" 라는 말대신 코드로 보답하고 싶었다.
 
 
 > [!summary]- Outputs

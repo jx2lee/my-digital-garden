@@ -36,9 +36,9 @@
 
 | Notes                                                               | Modified         |
 | ------------------------------------------------------------------- | ---------------- |
+| [[opensource-contributions\|오픈소스 기여]]                            | 2025-08-02 17:05 |
 | [[career/projects\|프로젝트]]                                        | 2025-08-02 16:58 |
 | [[Welcome to jx2lee garden\|Welcome to jx2lee garden]]           | 2025-07-28 22:53 |
-| [[opensource-contributions\|오픈소스 기여]]                            | 2025-07-27 22:14 |
 | [[data/getting-started/arrow\|Apache Arrow]]                     | 2025-07-13 20:47 |
 | [[data/airflow/airflow-test-environment\|Airfow dag repo CI 개선]] | 2025-07-13 20:46 |
 | [[data/airflow/airflow-dag-linter\|Ruff 영감을 받아 DAG linter 제작기]]  | 2025-07-13 18:18 |
