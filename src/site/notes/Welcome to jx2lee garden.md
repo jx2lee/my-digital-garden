@@ -36,6 +36,7 @@
 
 | Notes                                                                  | Modified         |
 | ---------------------------------------------------------------------- | ---------------- |
+| [[data/etc/datawarehouse-integration\|데이터웨어하우스 통합]]                 | 2025-08-03 23:40 |
 | [[Welcome to jx2lee garden\|Welcome to jx2lee garden]]              | 2025-08-03 17:43 |
 | [[career/overview-bithumb\|What did I do at Bithumb]]               | 2025-08-03 11:32 |
 | [[career/overview-coinone\|What did I do at Coinone]]               | 2025-08-03 11:32 |
@@ -45,6 +46,5 @@
 | [[career/projects\|프로젝트]]                                           | 2025-08-02 16:58 |
 | [[data/getting-started/arrow\|Apache Arrow]]                        | 2025-07-13 20:47 |
 | [[data/airflow/airflow-test-environment\|Airfow dag repo CI 개선]]    | 2025-07-13 20:46 |
-| [[data/airflow/airflow-dag-linter\|Ruff 영감을 받아 DAG linter 제작기]]     | 2025-07-13 18:18 |
 
 { .block-language-dataview}
