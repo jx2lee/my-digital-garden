@@ -23,9 +23,9 @@
 | ------------------------------------------------- |
 | [[data/airflow/overview\|airflow]]             |
 | [[data/dbt/dbt-overview\|dbt]]                 |
-| [[data/kafka/kafka-overview\|kafka]]           |
+| [[data/kafka/overview\|Kafka]]                 |
 | [[data/airbyte/overview\|Airbyte]]             |
-| [[data/bigquery/bigquery-overview\|bigquery]]  |
+| [[data/warehouse/bigquery/overview\|Bigquery]] |
 | [[kubernetes/kubernetes-overview\|kubernetes]] |
 | [[data/database/database-overview\|Database]]  |
 | [[data/iceberg/overview\|Iceberg]]             |
@@ -36,6 +36,8 @@
 
 | Notes                                                                         | Modified         |
 | ----------------------------------------------------------------------------- | ---------------- |
+| [[data/kafka/overview\|Kafka]]                                             | 2025-08-05 23:10 |
+| [[data/warehouse/bigquery/overview\|Bigquery]]                             | 2025-08-05 23:10 |
 | [[data/airbyte/overview\|Airbyte]]                                         | 2025-08-05 23:07 |
 | [[data/iceberg/overview\|Iceberg]]                                         | 2025-08-05 23:07 |
 | [[career/bithumb\|What did I do at Bithumb]]                               | 2025-08-05 23:03 |
@@ -44,7 +46,5 @@
 | [[career/projects/api-enhancement\|DW API w/ Arrow Flight SQL]]            | 2025-08-05 22:51 |
 | [[career/nhn-enterprise\|What did I do at NHN Enterprise]]                 | 2025-08-05 22:49 |
 | [[career/tmax\|What did I do at Tmax]]                                     | 2025-08-05 22:49 |
-| [[data/database/database-overview\|Database]]                              | 2025-08-05 22:28 |
-| [[data/database/__/mysql-partitioning-constraints\|MySQL 파티셔닝 제약조건]]       | 2025-08-05 22:26 |
 
 { .block-language-dataview}
