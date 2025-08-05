@@ -36,14 +36,14 @@
 
 | Notes                                                                   | Modified         |
 | ----------------------------------------------------------------------- | ---------------- |
+| [[career/coinone\|What did I do at Coinone]]                         | 2025-08-05 22:44 |
+| [[career/nhn-enterprise\|What did I do at NHN Enterprise]]           | 2025-08-05 22:44 |
+| [[career/tmax\|What did I do at Tmax]]                               | 2025-08-05 22:44 |
+| [[career/bithumb\|What did I do at Bithumb]]                         | 2025-08-05 22:43 |
 | [[data/database/database-overview\|Database]]                        | 2025-08-05 22:28 |
 | [[data/database/__/mysql-partitioning-constraints\|MySQL 파티셔닝 제약조건]] | 2025-08-05 22:26 |
 | [[data/etc/datawarehouse-integration\|데이터웨어하우스 통합]]                  | 2025-08-03 23:40 |
 | [[Welcome to jx2lee garden\|Welcome to jx2lee garden]]               | 2025-08-03 17:43 |
-| [[career/bithumb\|What did I do at Bithumb]]                         | 2025-08-03 11:32 |
-| [[career/coinone\|What did I do at Coinone]]                         | 2025-08-03 11:32 |
-| [[career/nhn-enterprise\|What did I do at NHN Enterprise]]           | 2025-08-03 11:32 |
-| [[career/tmax\|What did I do at Tmax]]                               | 2025-08-03 11:31 |
 | [[opensource-contributions\|오픈소스 기여]]                                | 2025-08-02 17:05 |
 | [[career/projects\|프로젝트]]                                            | 2025-08-02 16:58 |
 
