@@ -27,24 +27,24 @@
 | [[data/airbyte/airbyte-overview\|airbyte]]     |
 | [[data/bigquery/bigquery-overview\|bigquery]]  |
 | [[kubernetes/kubernetes-overview\|kubernetes]] |
-| [[data/rdb/rdb-overview\|rdb]]                 |
 | [[data/iceberg/iceberg-overview\|iceberg]]     |
+| [[data/database/database-overview\|Database]]  |
 | [[etc/etc-overview\|etc]]                      |
 
 { .block-language-dataview}
 
 
-| Notes                                                                  | Modified         |
-| ---------------------------------------------------------------------- | ---------------- |
-| [[data/etc/datawarehouse-integration\|데이터웨어하우스 통합]]                 | 2025-08-03 23:40 |
-| [[Welcome to jx2lee garden\|Welcome to jx2lee garden]]              | 2025-08-03 17:43 |
-| [[career/overview-bithumb\|What did I do at Bithumb]]               | 2025-08-03 11:32 |
-| [[career/overview-coinone\|What did I do at Coinone]]               | 2025-08-03 11:32 |
-| [[career/overview-nhn-enterprise\|What did I do at NHN Enterprise]] | 2025-08-03 11:32 |
-| [[career/overview-tmax\|What did I do at Tmax]]                     | 2025-08-03 11:31 |
-| [[opensource-contributions\|오픈소스 기여]]                               | 2025-08-02 17:05 |
-| [[career/projects\|프로젝트]]                                           | 2025-08-02 16:58 |
-| [[data/getting-started/arrow\|Apache Arrow]]                        | 2025-07-13 20:47 |
-| [[data/airflow/airflow-test-environment\|Airfow dag repo CI 개선]]    | 2025-07-13 20:46 |
+| Notes                                                                   | Modified         |
+| ----------------------------------------------------------------------- | ---------------- |
+| [[data/database/database-overview\|Database]]                        | 2025-08-05 22:28 |
+| [[data/database/__/mysql-partitioning-constraints\|MySQL 파티셔닝 제약조건]] | 2025-08-05 22:26 |
+| [[data/etc/datawarehouse-integration\|데이터웨어하우스 통합]]                  | 2025-08-03 23:40 |
+| [[Welcome to jx2lee garden\|Welcome to jx2lee garden]]               | 2025-08-03 17:43 |
+| [[career/bithumb\|What did I do at Bithumb]]                         | 2025-08-03 11:32 |
+| [[career/coinone\|What did I do at Coinone]]                         | 2025-08-03 11:32 |
+| [[career/nhn-enterprise\|What did I do at NHN Enterprise]]           | 2025-08-03 11:32 |
+| [[career/tmax\|What did I do at Tmax]]                               | 2025-08-03 11:31 |
+| [[opensource-contributions\|오픈소스 기여]]                                | 2025-08-02 17:05 |
+| [[career/projects\|프로젝트]]                                            | 2025-08-02 16:58 |
 
 { .block-language-dataview}
