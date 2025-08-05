@@ -21,7 +21,7 @@
 
 | Components                                        |
 | ------------------------------------------------- |
-| [[data/airflow/overview\|airflow]]             |
+| [[data/airflow/overview\|Airflow]]             |
 | [[data/dbt/dbt-overview\|dbt]]                 |
 | [[data/kafka/overview\|Kafka]]                 |
 | [[data/airbyte/overview\|Airbyte]]             |
@@ -36,6 +36,7 @@
 
 | Notes                                                                         | Modified         |
 | ----------------------------------------------------------------------------- | ---------------- |
+| [[data/airflow/overview\|Airflow]]                                         | 2025-08-05 23:18 |
 | [[etc/overview\|etc]]                                                      | 2025-08-05 23:13 |
 | [[kubernetes/overview\|Kubernetes]]                                        | 2025-08-05 23:12 |
 | [[data/kafka/overview\|Kafka]]                                             | 2025-08-05 23:10 |
@@ -45,6 +46,5 @@
 | [[career/bithumb\|What did I do at Bithumb]]                               | 2025-08-05 23:03 |
 | [[career/coinone\|What did I do at Coinone]]                               | 2025-08-05 22:59 |
 | [[data/airflow/__/test-environment\|신뢰성 있는 Airfow dag Repository 를 위한 여정]] | 2025-08-05 22:57 |
-| [[career/projects/api-enhancement\|DW API w/ Arrow Flight SQL]]            | 2025-08-05 22:51 |
 
 { .block-language-dataview}

@@ -1,5 +1,5 @@
 ---
-{"author":"jx2lee","alias":"airflow","created":"2024-10-02T18:51:46.000+09:00","last-updated":"2024-09-14 00:59","tags":["airflow","overview"],"dg-publish":true,"dg-home-link":true,"dg-show-local-graph":true,"dg-show-backlinks":true,"dg-show-toc":false,"dg-show-inline-title":false,"dg-show-file-tree":false,"dg-enable-search":true,"dg-link-preview":"ture","dg-show-tags":false,"dg-pass-frontmatter":false,"priority":1,"permalink":"/data/airflow/overview/","dgHomeLink":true,"dgShowBacklinks":true,"dgShowLocalGraph":true,"dgEnableSearch":true,"dgLinkPreview":"ture","dgPassFrontmatter":true,"noteIcon":""}
+{"author":"jx2lee","alias":"Airflow","created":"2024-10-02T18:51:46.000+09:00","last-updated":"2024-09-14 00:59","tags":["airflow","overview"],"dg-publish":true,"dg-home-link":true,"dg-show-local-graph":true,"dg-show-backlinks":true,"dg-show-toc":false,"dg-show-inline-title":false,"dg-show-file-tree":false,"dg-enable-search":true,"dg-link-preview":"ture","dg-show-tags":false,"dg-pass-frontmatter":false,"priority":1,"permalink":"/data/airflow/overview/","dgHomeLink":true,"dgShowBacklinks":true,"dgShowLocalGraph":true,"dgEnableSearch":true,"dgLinkPreview":"ture","dgPassFrontmatter":true,"noteIcon":""}
 ---
 
 
