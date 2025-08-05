@@ -26,16 +26,18 @@
 | [[data/kafka/overview\|Kafka]]                 |
 | [[data/airbyte/overview\|Airbyte]]             |
 | [[data/warehouse/bigquery/overview\|Bigquery]] |
-| [[kubernetes/kubernetes-overview\|kubernetes]] |
+| [[kubernetes/overview\|Kubernetes]]            |
 | [[data/database/database-overview\|Database]]  |
 | [[data/iceberg/overview\|Iceberg]]             |
-| [[etc/etc-overview\|etc]]                      |
+| [[etc/overview\|etc]]                          |
 
 { .block-language-dataview}
 
 
 | Notes                                                                         | Modified         |
 | ----------------------------------------------------------------------------- | ---------------- |
+| [[etc/overview\|etc]]                                                      | 2025-08-05 23:13 |
+| [[kubernetes/overview\|Kubernetes]]                                        | 2025-08-05 23:12 |
 | [[data/kafka/overview\|Kafka]]                                             | 2025-08-05 23:10 |
 | [[data/warehouse/bigquery/overview\|Bigquery]]                             | 2025-08-05 23:10 |
 | [[data/airbyte/overview\|Airbyte]]                                         | 2025-08-05 23:07 |
@@ -44,7 +46,5 @@
 | [[career/coinone\|What did I do at Coinone]]                               | 2025-08-05 22:59 |
 | [[data/airflow/__/test-environment\|신뢰성 있는 Airfow dag Repository 를 위한 여정]] | 2025-08-05 22:57 |
 | [[career/projects/api-enhancement\|DW API w/ Arrow Flight SQL]]            | 2025-08-05 22:51 |
-| [[career/nhn-enterprise\|What did I do at NHN Enterprise]]                 | 2025-08-05 22:49 |
-| [[career/tmax\|What did I do at Tmax]]                                     | 2025-08-05 22:49 |
 
 { .block-language-dataview}
