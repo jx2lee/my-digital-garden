@@ -9,7 +9,7 @@
 
 | Project                                                                      | Duration          | Where   |
 | ---------------------------------------------------------------------------- | ----------------- | ------- |
-| [[data/etc/api-enhancement\|DW API w/ Arrow Fligh SQL]]                   | 2025.08 -         | Bithumb |
+| [[data/etc/api-enhancement\|DW API w/ Arrow Flight SQL]]                  | 2025.08 -         | Bithumb |
 | [[data/airflow/airflow-dag-linter\|Ruff 영감을 받아 DAG linter 제작기]]           | 2025.07 -         | Bithumb |
 | [[data/airflow/airflow-test-environment\|Airfow dag repo CI 개선]]          | 2025.07 -         | Bithumb |
 | [[data/etc/datawarehouse-integration\|데이터웨어하우스 통합]]                       | 2025.03 -         | Bithumb |

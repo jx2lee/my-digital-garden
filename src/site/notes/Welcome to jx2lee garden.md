@@ -36,6 +36,7 @@
 
 | Notes                                                                   | Modified         |
 | ----------------------------------------------------------------------- | ---------------- |
+| [[data/etc/api-enhancement\|DW API w/ Arrow Flight SQL]]             | 2025-08-05 22:51 |
 | [[career/nhn-enterprise\|What did I do at NHN Enterprise]]           | 2025-08-05 22:49 |
 | [[career/tmax\|What did I do at Tmax]]                               | 2025-08-05 22:49 |
 | [[career/bithumb\|What did I do at Bithumb]]                         | 2025-08-05 22:46 |
@@ -45,6 +46,5 @@
 | [[data/etc/datawarehouse-integration\|데이터웨어하우스 통합]]                  | 2025-08-03 23:40 |
 | [[Welcome to jx2lee garden\|Welcome to jx2lee garden]]               | 2025-08-03 17:43 |
 | [[opensource-contributions\|오픈소스 기여]]                                | 2025-08-02 17:05 |
-| [[career/projects\|프로젝트]]                                            | 2025-08-02 16:58 |
 
 { .block-language-dataview}
