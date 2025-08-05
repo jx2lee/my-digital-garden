@@ -8,3 +8,11 @@
 ### 본인의 역할은 무엇인가요(무엇이었나요)
 ### 잘하고(잘했던) 있던 것 & 아쉬운(아쉬웠던) 것은 무엇인가요
 ### 진행중인, 완료한, 크고 작은 프로젝트(들)은 무엇인가요
+**완료**
+- [[career/projects/cdc-pipeline-with-debezium\|Debezium 을 이용한 CDC 파이프라인 구축]]
+- [[data/kafka/__/migration-to-kakfa-connect\|서버로그 파이프라인 마이그레이션]]
+- [[career/projects/self-serve-data\|Self Serve Data]]
+- [[data/dbt/__/dbt-cicd-pipeline\|Github Action 을 활용한 dbt CI/CD 파이프라인 구축]]
+
+**작고 소중한**
+- 

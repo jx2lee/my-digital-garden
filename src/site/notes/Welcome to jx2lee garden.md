@@ -34,17 +34,17 @@
 { .block-language-dataview}
 
 
-| Notes                                                                   | Modified         |
-| ----------------------------------------------------------------------- | ---------------- |
-| [[data/etc/api-enhancement\|DW API w/ Arrow Flight SQL]]             | 2025-08-05 22:51 |
-| [[career/nhn-enterprise\|What did I do at NHN Enterprise]]           | 2025-08-05 22:49 |
-| [[career/tmax\|What did I do at Tmax]]                               | 2025-08-05 22:49 |
-| [[career/bithumb\|What did I do at Bithumb]]                         | 2025-08-05 22:46 |
-| [[career/coinone\|What did I do at Coinone]]                         | 2025-08-05 22:45 |
-| [[data/database/database-overview\|Database]]                        | 2025-08-05 22:28 |
-| [[data/database/__/mysql-partitioning-constraints\|MySQL 파티셔닝 제약조건]] | 2025-08-05 22:26 |
-| [[data/etc/datawarehouse-integration\|데이터웨어하우스 통합]]                  | 2025-08-03 23:40 |
-| [[Welcome to jx2lee garden\|Welcome to jx2lee garden]]               | 2025-08-03 17:43 |
-| [[opensource-contributions\|오픈소스 기여]]                                | 2025-08-02 17:05 |
+| Notes                                                                      | Modified         |
+| -------------------------------------------------------------------------- | ---------------- |
+| [[career/bithumb\|What did I do at Bithumb]]                            | 2025-08-05 23:03 |
+| [[career/coinone\|What did I do at Coinone]]                            | 2025-08-05 22:59 |
+| [[data/airflow/test-environment\|신뢰성 있는 Airfow dag Repository 를 위한 여정]] | 2025-08-05 22:57 |
+| [[career/projects/api-enhancement\|DW API w/ Arrow Flight SQL]]         | 2025-08-05 22:51 |
+| [[career/nhn-enterprise\|What did I do at NHN Enterprise]]              | 2025-08-05 22:49 |
+| [[career/tmax\|What did I do at Tmax]]                                  | 2025-08-05 22:49 |
+| [[data/database/database-overview\|Database]]                           | 2025-08-05 22:28 |
+| [[data/database/__/mysql-partitioning-constraints\|MySQL 파티셔닝 제약조건]]    | 2025-08-05 22:26 |
+| [[career/projects/warehouse-integration\|데이터웨어하우스 통합]]                  | 2025-08-03 23:40 |
+| [[Welcome to jx2lee garden\|Welcome to jx2lee garden]]                  | 2025-08-03 17:43 |
 
 { .block-language-dataview}

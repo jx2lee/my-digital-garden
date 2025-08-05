@@ -7,15 +7,15 @@
 > [!info] 프로젝트 리스트
 
 
-| Project                                                                      | Duration          | Where   |
-| ---------------------------------------------------------------------------- | ----------------- | ------- |
-| [[data/etc/api-enhancement\|DW API w/ Arrow Flight SQL]]                  | 2025.08 -         | Bithumb |
-| [[data/airflow/airflow-dag-linter\|Ruff 영감을 받아 DAG linter 제작기]]           | 2025.07 -         | Bithumb |
-| [[data/airflow/airflow-test-environment\|Airfow dag repo CI 개선]]          | 2025.07 -         | Bithumb |
-| [[data/etc/datawarehouse-integration\|데이터웨어하우스 통합]]                       | 2025.03 -         | Bithumb |
-| [[data/kafka/__/cdc-pipeline-with-debezium\|Debezium 을 이용한 CDC 파이프라인 구축]] | 2024.05 - 2024.08 | Coinone |
-| [[data/kafka/__/migration-to-kakfa-connect\|서버로그 파이프라인 마이그레이션]]           | 2023.10 - 2023.12 | Coinone |
-| [[data/dbt/__/dbt-cicd-pipeline\|Github Action 을 활용한 dbt CI/CD 파이프라인 구축]] | 2023.07 - 2023.09 | Coinone |
-| [[data/etc/self-serve-data\|Self Serve Data]]                             | 2022.09 - 2023.03 | Coinone |
+| Project                                                                        | Duration          | Where   |
+| ------------------------------------------------------------------------------ | ----------------- | ------- |
+| [[career/projects/api-enhancement\|DW API w/ Arrow Flight SQL]]             | 2025.08 -         | Bithumb |
+| [[data/airflow/dag-linter\|Ruff 영감을 받아 DAG linter 제작기]]                     | 2025.07 -         | Bithumb |
+| [[data/airflow/test-environment\|신뢰성 있는 Airfow dag Repository 를 위한 여정]]     | 2025.07 -         | Bithumb |
+| [[career/projects/warehouse-integration\|데이터웨어하우스 통합]]                      | 2025.03 -         | Bithumb |
+| [[career/projects/cdc-pipeline-with-debezium\|Debezium 을 이용한 CDC 파이프라인 구축]] | 2024.05 - 2024.08 | Coinone |
+| [[data/kafka/__/migration-to-kakfa-connect\|서버로그 파이프라인 마이그레이션]]             | 2023.10 - 2023.12 | Coinone |
+| [[data/dbt/__/dbt-cicd-pipeline\|Github Action 을 활용한 dbt CI/CD 파이프라인 구축]]   | 2023.07 - 2023.09 | Coinone |
+| [[career/projects/self-serve-data\|Self Serve Data]]                        | 2022.09 - 2023.03 | Coinone |
 
 { .block-language-dataview}

@@ -7,3 +7,13 @@
 ### 본인의 역할은 무엇인가요(무엇이었나요)
 ### 잘하고(잘했던) 있던 것 & 아쉬운(아쉬웠던) 것은 무엇인가요
 ### 진행중인, 완료한, 크고 작은 프로젝트(들)은 무엇인가요
+**완료**
+- TBU
+
+**진행중**
+- [[career/projects/warehouse-integration\|데이터웨어하우스 통합]]
+
+**작고 소중한**
+- [[data/airflow/test-environment\|신뢰성 있는 Airfow dag Repository 를 위한 여정]]
+- [[data/airflow/dag-linter\|Ruff 영감을 받아 DAG linter 제작기]]
+- [[career/projects/api-enhancement\|DW API w/ Arrow Flight SQL]]
