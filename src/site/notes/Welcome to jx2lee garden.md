@@ -36,7 +36,8 @@
 
 | Notes                                                               | Modified         |
 | ------------------------------------------------------------------- | ---------------- |
-| [[career/tmax\|What did I do at Tmax]]                           | 2025-08-12 22:56 |
+| [[career/coinone\|What did I do at Coinone]]                     | 2025-08-17 22:30 |
+| [[career/tmax\|What did I do at Tmax]]                           | 2025-08-17 22:04 |
 | [[career/bithumb\|What did I do at Bithumb]]                     | 2025-08-12 11:49 |
 | [[etc/__/language/python-vscode-pyright\|python-vscode-pyright]] | 2025-08-07 23:20 |
 | [[etc/overview\|etc]]                                            | 2025-08-07 23:18 |
@@ -45,6 +46,5 @@
 | [[data/kafka/overview\|Kafka]]                                   | 2025-08-05 23:10 |
 | [[data/warehouse/bigquery/overview\|Bigquery]]                   | 2025-08-05 23:10 |
 | [[data/airbyte/overview\|Airbyte]]                               | 2025-08-05 23:07 |
-| [[data/iceberg/overview\|Iceberg]]                               | 2025-08-05 23:07 |
 
 { .block-language-dataview}
