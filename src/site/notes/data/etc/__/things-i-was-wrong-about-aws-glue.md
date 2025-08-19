@@ -23,7 +23,7 @@ Spark DataFrame과의 관계
 ### 무얼 잘못알고 있었나
 DynamicFrame 은 동적으로 태스크 메모리를 동적으로 늘릴 수 있다.
 - 결론: **아니요. 착시현상입니다.**
-- 런타임에 자동으로 늘릴 수 없다. 자바 어플리케이션 실행 시 min|max heap memory크기를 설정할텐데(이는 executor 프로세스), 컴퓨터 공학지식이 없는 상태로 접근했다. 
+- 런타임에 자동으로 늘릴 수 없다. Task(Partition)/Executor 힙 메모리는 런타임에 자동으로 커지지 않고 Executor 실행 시점의 설정값으로 고정한다. 자바 어플리케이션 실행 시 min|max heap memory 크기를 설정할텐데(이는 executor 프로세스), 낮은 컴퓨터 공학지식으로 접근했다. 
 - DynamicFrame 가 아닌 AWS Glue 서비스의 특징 중 하나로, **executor 워커 오토스케일링(AutoScaling)** 과 **AEQ(Adaptive Query Execution) 파티션 전략**의 체감효과로 이해하는 것이 좋다.
     - [AEQ(Adaptive Query Execution)](https://spark.apache.org/docs/3.5.2/sql-performance-tuning.html#adaptive-query-execution): Spark SQL 의 최적화 기술(optimization technique) 로 런타임 통계값을 이용해 효율적인 쿼리 플랜(query execution plan) 을 선택할 수 있는 기술이라 정의한다. 3.2.0 이후부터 기본으로 활성화되고 옵션(`spark.sql.adaptive.enabled`) 으로 끄고 킬 수 있다. 주요 기능으로는 셔플 후 파티션 통합(coalescing post-shuffle partitions), 정렬 병합 조인을 브로드캐스트 조인으로 변환(sort-merge join to broadcast join), 스큐 조인(skew join) 최적화 등 세 가지 주요 기능이 있다. 자세한 내용은 공식문서를 참고하자.
 

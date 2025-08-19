@@ -36,7 +36,7 @@
 
 | Notes                                                                               | Modified         |
 | ----------------------------------------------------------------------------------- | ---------------- |
-| [[data/etc/__/things-i-was-wrong-about-aws-glue\|내가 착각하고 있었던 Glue DynamicFrame]] | 2025-08-19 23:43 |
+| [[data/etc/__/things-i-was-wrong-about-aws-glue\|내가 착각하고 있었던 Glue DynamicFrame]] | 2025-08-19 23:45 |
 | [[career/bithumb\|What did I do at Bithumb]]                                     | 2025-08-19 23:34 |
 | [[data/etc/spark\|Apache Spark]]                                                 | 2025-08-19 22:33 |
 | [[career/nhn-enterprise\|What did I do at NHN Enterprise]]                       | 2025-08-17 22:36 |
