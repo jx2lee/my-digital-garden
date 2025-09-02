@@ -36,12 +36,12 @@
 
 | Notes                                                                               | Modified         |
 | ----------------------------------------------------------------------------------- | ---------------- |
+| [[career/projects/api-serving\|DW 데이터 서빙을 위한 API 개발]]                            | 2025-09-02 23:29 |
 | [[career/projects/warehouse-integration\|데이터웨어하우스 통합]]                           | 2025-09-02 23:26 |
 | [[career/projects/api-enhancement\|DW API w/ Arrow Flight SQL]]                  | 2025-09-02 23:26 |
 | [[data/airflow/__/test-environment\|신뢰성 있는 Airfow dag Repository 를 위한 여정]]       | 2025-09-02 23:26 |
 | [[career/projects\|프로젝트]]                                                        | 2025-09-02 23:25 |
 | [[data/airflow/__/dag-linter\|Ruff 영감을 받아 DAG linter 제작기]]                       | 2025-09-02 23:25 |
-| [[career/projects/api-serving\|DW 데이터 서빙을 위한 API 개발]]                            | 2025-09-02 23:23 |
 | [[career/bithumb\|What did I do at Bithumb]]                                     | 2025-09-02 22:31 |
 | [[data/etc/__/things-i-was-wrong-about-aws-glue\|내가 착각하고 있었던 Glue DynamicFrame]] | 2025-08-21 22:49 |
 | [[data/etc/spark\|Apache Spark]]                                                 | 2025-08-19 22:33 |

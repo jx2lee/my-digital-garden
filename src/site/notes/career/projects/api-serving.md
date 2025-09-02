@@ -31,7 +31,7 @@ api_server(api server)
 
 svc_db -->|1.1 extract| airflow -->|1.2 load/transform| redshift
 redshift --> |2.1 reverse ETL| airflow --> |2.2 copy/load| mysql
-mysql <-.-> api_server
+mysql <--> api_server
 ```
 - 집계 데이터 생산은 `airflow` 에 위임했습니다.
     - 컴퓨팅 파워가 강한 DW 에 집계데이터를 생산하기 위해 Airflow 를 이용했습니다.
