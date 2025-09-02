@@ -36,7 +36,8 @@
 
 | Notes                                                                               | Modified         |
 | ----------------------------------------------------------------------------------- | ---------------- |
-| [[career/bithumb\|What did I do at Bithumb]]                                     | 2025-08-30 19:03 |
+| [[career/projects/api-serving\|api-serving]]                                     | 2025-09-02 23:19 |
+| [[career/bithumb\|What did I do at Bithumb]]                                     | 2025-09-02 22:31 |
 | [[data/etc/__/things-i-was-wrong-about-aws-glue\|내가 착각하고 있었던 Glue DynamicFrame]] | 2025-08-21 22:49 |
 | [[data/etc/spark\|Apache Spark]]                                                 | 2025-08-19 22:33 |
 | [[career/nhn-enterprise\|What did I do at NHN Enterprise]]                       | 2025-08-17 22:36 |
@@ -45,6 +46,5 @@
 | [[etc/__/language/python-vscode-pyright\|python-vscode-pyright]]                 | 2025-08-07 23:20 |
 | [[etc/overview\|etc]]                                                            | 2025-08-07 23:18 |
 | [[data/airflow/overview\|Airflow]]                                               | 2025-08-05 23:18 |
-| [[kubernetes/overview\|Kubernetes]]                                              | 2025-08-05 23:12 |
 
 { .block-language-dataview}
