@@ -36,7 +36,7 @@
 
 | Notes                                                                               | Modified         |
 | ----------------------------------------------------------------------------------- | ---------------- |
-| [[career/bithumb\|What did I do at Bithumb]]                                     | 2025-09-02 23:59 |
+| [[career/bithumb\|What did I do at Bithumb]]                                     | 2025-09-03 20:27 |
 | [[career/projects/api-serving\|DW 데이터 서빙을 위한 API 개발]]                            | 2025-09-02 23:45 |
 | [[career/projects/warehouse-integration\|데이터웨어하우스 통합]]                           | 2025-09-02 23:26 |
 | [[career/projects/api-enhancement\|DW API w/ Arrow Flight SQL]]                  | 2025-09-02 23:26 |
