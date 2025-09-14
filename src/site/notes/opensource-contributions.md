@@ -10,7 +10,7 @@
 
 
 내가 오픈소스 기여하는 이유는 다음과 같아요.
-**1. 내가 사용한 오픈소스에 기능을 제공하지 않거나 제대로 동작하지 않을 때**
+**1. 내가 사용한 오픈소스에 기능을 제공하지 않거나 정상적으로 동작하지 않을 때**
 - example
     - [Support n:1 to topic2TableMap (topic:table)](https://github.com/confluentinc/kafka-connect-bigquery/pull/361)
     - [Support to transtorm record without schema (schemaless json format)](https://github.com/an0r0c/kafka-connect-transform-tojsonstring/pull/18)
@@ -44,6 +44,8 @@
 >     - [Add CloudRunServiceHook and operator](https://github.com/apache/airflow/pull/40008)
 >     - [enable AIRFLOW\__CELERY__BROKER_URL_CMD when passwordSecretName is true](https://github.com/apache/airflow/pull/40270)
 > - professional-services-data-validator:
+>     - [feat: Enable --grouped-columns for validate custom-query column](https://github.com/GoogleCloudPlatform/professional-services-data-validator/pull/1587)
+>     - [feat: add support for Oracle BOOLEAN](https://github.com/GoogleCloudPlatform/professional-services-data-validator/pull/1558)
 >     - [feat: use python-oracledb instead of cx_Oracle](https://github.com/GoogleCloudPlatform/professional-services-data-validator/pull/1515)
 >     - [fix: deduplicate spanner client in SpannerBackend](https://github.com/GoogleCloudPlatform/professional-services-data-validator/pull/1554)
 > - dbt
