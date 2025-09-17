@@ -34,9 +34,9 @@ flowchart TB
         style _external stroke:blue;
     end
     
-    metric_server -. "<< use >>" .-> bolt
-    view -. "<< use >>" .-> service
-    service -. "<< use >>" .-> metricflow
+    metric_server --- |<< use >>|bolt
+    view --- |<< use >>|service
+    service --- |<< use >>|metricflow
 
 
     style internal stroke:red
