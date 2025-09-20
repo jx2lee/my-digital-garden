@@ -33,4 +33,6 @@
 - [[data/dbt/__/dbt-cicd-pipeline\|Github Action 을 활용한 dbt CI/CD 파이프라인 구축]]
 
 **작고 소중한**
-- 새로운 물건들을 경험해보고 남긴 문서: [[data/etc/getting-started/mage\|MageAI]], [[data/airflow/__/dag-factory-in-action\|dag-factory 찍먹]]
+- 새로운 물건들을 경험해보고 남긴 문서:
+    - [[data/etc/getting-started/mage\|MageAI]]
+    - [[data/airflow/__/dag-factory-in-action\|dag-factory 찍먹]]

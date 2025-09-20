@@ -6,6 +6,8 @@
 ### background
 
 ### objective
+- 서비스 DB 에서 부담스러운 컴퓨팅 작업을 데이터웨어하우스에 위임합니다.
+- 신뢰할 수 있는 집계 데이터를 제공합니다.
 
 ### howto
 ```mermaid
@@ -38,8 +40,13 @@ mysql --- api_server
 
 
 ### result
+- 
+
 
 ### keytakeaway
+- 회사 메인 도메인 중 하나인 거래소 서비스에 데이터를 제공했습니다.
+- DW 테이블만 제공했던 이전과 달리, Reverse ETL 파이프라인과 API 개발로 하나의 큰 라이프 사이크를 경험했습니다.
+
 
 ### more
 - [[career/projects/api-serving__01\|회원별 누적거래금액 API]]

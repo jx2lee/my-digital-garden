@@ -34,17 +34,17 @@
 { .block-language-dataview}
 
 
-| Notes                                                                                     | Modified         |
-| ----------------------------------------------------------------------------------------- | ---------------- |
-| [[opensource-contributions\|오픈소스 기여]]                                                  | 2025-09-14 22:49 |
-| [[etc/__/vim\|vim]]                                                                    | 2025-09-07 22:10 |
-| [[etc/__/language/sync-async-blocking-non-blocking\|sync-async-blocking-non-blocking]] | 2025-09-07 21:50 |
-| [[career/bithumb\|What did I do at Bithumb]]                                           | 2025-09-07 14:30 |
-| [[career/nhn-enterprise\|What did I do at NHN Enterprise]]                             | 2025-09-07 14:30 |
-| [[career/coinone\|What did I do at Coinone]]                                           | 2025-09-07 14:30 |
-| [[career/tmax\|What did I do at Tmax]]                                                 | 2025-09-07 14:30 |
-| [[career/projects/api-serving__01\|회원별 누적거래금액 API]]                                    | 2025-09-07 14:25 |
-| [[career/projects/warehouse-integration\|데이터웨어하우스 통합(데이터플랫폼 구축)]]                      | 2025-09-06 20:01 |
-| [[career/projects/api-serving\|Data API]]                                              | 2025-09-06 20:00 |
+| Notes                                                                                         | Modified         |
+| --------------------------------------------------------------------------------------------- | ---------------- |
+| [[career/projects/api-serving\|Data API]]                                                  | 2025-09-20 15:56 |
+| [[career/bithumb\|What did I do at Bithumb]]                                               | 2025-09-20 15:47 |
+| [[career/coinone\|What did I do at Coinone]]                                               | 2025-09-20 15:31 |
+| [[etc/__/language/rust\|rust]]                                                             | 2025-09-17 22:55 |
+| [[data/dbt/__/dbt-metricstore-sad-toplevel-module-uses-view\|SAD - Top Level Module View]] | 2025-09-17 14:38 |
+| [[data/dbt/__/dbt-metricstore-sad-cnc-view\|SAD - CnC View]]                               | 2025-09-17 14:28 |
+| [[opensource-contributions\|오픈소스 기여]]                                                      | 2025-09-14 22:49 |
+| [[etc/__/vim\|vim]]                                                                        | 2025-09-07 22:10 |
+| [[etc/__/language/sync-async-blocking-non-blocking\|sync-async-blocking-non-blocking]]     | 2025-09-07 21:50 |
+| [[career/nhn-enterprise\|What did I do at NHN Enterprise]]                                 | 2025-09-07 14:30 |
 
 { .block-language-dataview}
