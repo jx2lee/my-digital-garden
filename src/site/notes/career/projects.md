@@ -9,6 +9,7 @@
 
 | Project                                                                        | Duration          | Where   |
 | ------------------------------------------------------------------------------ | ----------------- | ------- |
+| [[career/projects/warehouse-integration\|데이터웨어하우스 통합]]                      | 2025.06 - now     | Bithumb |
 | [[career/projects/data-api\|Data API]]                                      | 2025.06 - 2025.07 | Bithumb |
 | [[career/projects/cdc-pipeline-with-debezium\|Debezium 을 이용한 CDC 파이프라인 구축]] | 2024.05 - 2024.08 | Coinone |
 | [[data/kafka/__/migration-to-kakfa-connect\|서버로그 파이프라인 마이그레이션]]             | 2023.10 - 2023.12 | Coinone |
