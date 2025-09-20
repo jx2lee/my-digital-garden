@@ -15,7 +15,7 @@
 
 ### 진행중인, 완료한, 크고 작은 프로젝트(들)은 무엇인가요
 **완료**
-- [[career/projects/api-serving\|DW 데이터 서빙을 위한 API 개발]] 
+- [[career/projects/data-api\|DW 데이터 서빙을 위한 API 개발]] 
 
 **진행중**
 - [[career/projects/warehouse-integration\|데이터웨어하우스 통합]]

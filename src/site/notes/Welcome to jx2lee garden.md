@@ -36,15 +36,15 @@
 
 | Notes                                                                                         | Modified         |
 | --------------------------------------------------------------------------------------------- | ---------------- |
-| [[career/projects/api-serving\|Data API]]                                                  | 2025-09-20 15:56 |
-| [[career/bithumb\|What did I do at Bithumb]]                                               | 2025-09-20 15:47 |
+| [[career/projects\|프로젝트]]                                                                  | 2025-09-20 16:15 |
+| [[data/dbt/__/dbt-cicd-pipeline\|Github Action 을 활용한 dbt 파이프라인 구축]]                        | 2025-09-20 16:15 |
+| [[career/projects/data-api\|Data API]]                                                     | 2025-09-20 16:11 |
+| [[career/bithumb\|What did I do at Bithumb]]                                               | 2025-09-20 16:11 |
 | [[career/coinone\|What did I do at Coinone]]                                               | 2025-09-20 15:31 |
 | [[etc/__/language/rust\|rust]]                                                             | 2025-09-17 22:55 |
 | [[data/dbt/__/dbt-metricstore-sad-toplevel-module-uses-view\|SAD - Top Level Module View]] | 2025-09-17 14:38 |
 | [[data/dbt/__/dbt-metricstore-sad-cnc-view\|SAD - CnC View]]                               | 2025-09-17 14:28 |
 | [[opensource-contributions\|오픈소스 기여]]                                                      | 2025-09-14 22:49 |
 | [[etc/__/vim\|vim]]                                                                        | 2025-09-07 22:10 |
-| [[etc/__/language/sync-async-blocking-non-blocking\|sync-async-blocking-non-blocking]]     | 2025-09-07 21:50 |
-| [[career/nhn-enterprise\|What did I do at NHN Enterprise]]                                 | 2025-09-07 14:30 |
 
 { .block-language-dataview}
