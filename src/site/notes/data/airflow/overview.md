@@ -3,7 +3,8 @@
 ---
 
 
-[[data/airflow/__/dag-factory-in-action\|dag-factory 맛보기]]
+- [[data/airflow/__/dag-factory-in-action\|dag-factory 맛보기]]
+- [[data/airflow/__/airflow-taskflow-api-vs-task-sdk\|airflow-taskflow-api-vs-task-sdk]]
 
 ### reference
 - [What is Airflow®?](https://airflow.apache.org/docs/apache-airflow/stable/index.html)

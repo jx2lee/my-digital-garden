@@ -35,7 +35,7 @@ SREL -->|blocks| SREL
 ASL -->|blocks only| AEL
 ```
 
-어으 뭔가 AWS 레드시프트 락이 정확히 무엇이 있는지 공식문서에 나와있지가 않다. (~~내일 서포트에 문의할 예정~~) 우선 검색된 내용을 바탕으로 작성했고 mermaid 다이어그램으로 그려봤다. relational database 에 비교해 생각해보면 AccessShareLock 은 읽기 잠금(shared lock)이고 AccessExclusiveLock 은 쓰기 잠금(exclusive lock), ShareRowExclusiveLock 은 조금 애매하지만 행 기반 쓰기 잠금(row exclusive lock)으로 볼 수 있다.
+AWS 레드시프트 락이 정확히 무엇이 있는지 공식문서에 나와있지가 않다. (~~내일 서포트에 문의할 예정~~) 우선 검색된 내용을 바탕으로 작성했고 mermaid 다이어그램으로 그려봤다. relational database 에 비교해 생각해보면 AccessShareLock 은 읽기 잠금(shared lock)이고 AccessExclusiveLock 은 쓰기 잠금(exclusive lock), ShareRowExclusiveLock 은 조금 애매하지만 행 기반 쓰기 잠금(row exclusive lock)으로 볼 수 있다.
 
 그럼 각각 락이 정말 그렇게 동작하는지 IDE 로 다중 세션을 생성, 테스트해보면 다음과 같은 결과를 확인할 수 있다.
 
@@ -49,6 +49,7 @@ ASL -->|blocks only| AEL
 - Q. 그럼 이 문제를 해결할 방법은 없는가?
   A. 사용자 쿼리 대상과 ETL 영역의 레이어를 분리하면 문제없다. 사용자는 ETL 로 쌓인 테이블을 그대로 보는게 아닌, 원본 <> {다른 스키마에 다른 테이블 혹은 뷰 테이블} 일대일 매핑되는 무언가를 바라보게 분리하면 된다. 아직 이 작업이 진행되지 않았기에 이러한 문제가 발생했다.
 
+**결론**: 장기 조회 쿼리로 인해 ETL 파이프라인이 멈췄고, 이는 계층 분리(ETL 로 쌓이는 영역과 조회하는 영역 분리) 로 해결
 
 ### References
 - https://en.wikipedia.org/wiki/Lock_(computer_science)#Database_locks
