@@ -21,7 +21,6 @@
 - [[career/projects/warehouse-integration\|데이터웨어하우스 통합]]
 
 **작고 소중한**
-- [[]]
 - [[data/airflow/__/test-environment\|미작성: 신뢰성 있는 Airfow dag Repository 를 위한 여정]]
 - [[data/airflow/__/dag-linter\|미작성: Ruff 영감을 받아 DAG linter 제작기]]
 - [[career/projects/api-enhancement\|미작성: DW API w/ Arrow Flight SQL]]
