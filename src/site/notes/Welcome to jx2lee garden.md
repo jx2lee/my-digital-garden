@@ -36,6 +36,7 @@
 
 | Notes                                                                                     | Modified         |
 | ----------------------------------------------------------------------------------------- | ---------------- |
+| [[opensource-contributions\|오픈소스 기여]]                                                  | 2025-10-14 23:17 |
 | [[career/bithumb\|What did I do at Bithumb]]                                           | 2025-10-12 19:38 |
 | [[etc/__/language/rust\|rust]]                                                         | 2025-10-03 21:17 |
 | [[data/warehouse/redshift-lock\|Redshift Lock 메커니즘]]                                   | 2025-10-03 16:22 |
@@ -45,6 +46,5 @@
 | [[career/projects/warehouse-integration\|데이터웨어하우스 통합]]                                 | 2025-09-20 16:40 |
 | [[data/airflow/__/test-environment\|신뢰성 있는 Airfow dag Repository 를 위한 여정]]             | 2025-09-20 16:18 |
 | [[career/projects\|프로젝트]]                                                              | 2025-09-20 16:18 |
-| [[data/dbt/__/dbt-cicd-pipeline\|Github Action 을 활용한 dbt 파이프라인 구축]]                    | 2025-09-20 16:15 |
 
 { .block-language-dataview}

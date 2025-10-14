@@ -44,6 +44,7 @@
 >     - [Add CloudRunServiceHook and operator](https://github.com/apache/airflow/pull/40008)
 >     - [enable AIRFLOW\__CELERY__BROKER_URL_CMD when passwordSecretName is true](https://github.com/apache/airflow/pull/40270)
 > - professional-services-data-validator:
+>     - [fix: Remove implicit "connections" subdirectory from GCS connections path (PSO_DV_CONN_HOME)](https://github.com/GoogleCloudPlatform/professional-services-data-validator/pull/1598)
 >     - [feat: Enable --grouped-columns for validate custom-query column](https://github.com/GoogleCloudPlatform/professional-services-data-validator/pull/1587)
 >     - [feat: add support for Oracle BOOLEAN](https://github.com/GoogleCloudPlatform/professional-services-data-validator/pull/1558)
 >     - [feat: use python-oracledb instead of cx_Oracle](https://github.com/GoogleCloudPlatform/professional-services-data-validator/pull/1515)
