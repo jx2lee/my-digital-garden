@@ -49,6 +49,10 @@
 >     - [feat: add support for Oracle BOOLEAN](https://github.com/GoogleCloudPlatform/professional-services-data-validator/pull/1558)
 >     - [feat: use python-oracledb instead of cx_Oracle](https://github.com/GoogleCloudPlatform/professional-services-data-validator/pull/1515)
 >     - [fix: deduplicate spanner client in SpannerBackend](https://github.com/GoogleCloudPlatform/professional-services-data-validator/pull/1554)
+> - astronomer-cosmos:
+>     - [Improve MWAA getting-started docs by removing unused imports](https://github.com/astronomer/astronomer-cosmos/pull/1562)
+>     - [refactor: remove duplicated _construct_dest_file_path](https://github.com/astronomer/astronomer-cosmos/pull/2077)
+>     - [feat(operators): support dbt docs on Kubernetes via DbtDocsS3KubernetesOperator](https://github.com/astronomer/astronomer-cosmos/pull/2058)
 > - dbt
 >     - [Fix configuration of turning test warnings into failures](https://github.com/dbt-labs/dbt-core/pull/9347)
 >     - [Fix package-lock file's bad indentation](https://github.com/dbt-labs/dbt-core/pull/9341)
@@ -70,4 +74,3 @@
 >     - [Add postgres client package](https://github.com/mage-ai/mage-ai/pull/5486)
 >     - [Why bq client create dataset in data loader?](https://github.com/mage-ai/mage-ai/issues/5197) support
 > - PyAirbyte: [Chore: Remove import only used in TYPE_CHECKING](https://github.com/airbytehq/PyAirbyte/pull/421)
-> - astronomer-cosmos: [Improve MWAA getting-started docs by removing unused imports](https://github.com/astronomer/astronomer-cosmos/pull/1562)

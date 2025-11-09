@@ -36,9 +36,9 @@
 
 | Notes                                                                                     | Modified         |
 | ----------------------------------------------------------------------------------------- | ---------------- |
-| [[opensource-contributions\|오픈소스 기여]]                                                  | 2025-10-14 23:17 |
-| [[career/bithumb\|What did I do at Bithumb]]                                           | 2025-10-12 19:38 |
-| [[etc/__/language/rust\|rust]]                                                         | 2025-10-03 21:17 |
+| [[opensource-contributions\|오픈소스 기여]]                                                  | 2025-11-09 17:09 |
+| [[career/bithumb\|What did I do at Bithumb]]                                           | 2025-10-26 21:44 |
+| [[etc/__/language/rust\|rust]]                                                         | 2025-10-22 13:22 |
 | [[data/warehouse/redshift-lock\|Redshift Lock 메커니즘]]                                   | 2025-10-03 16:22 |
 | [[data/airflow/__/airflow-taskflow-api-vs-task-sdk\|airflow-taskflow-api-vs-task-sdk]] | 2025-09-29 23:30 |
 | [[data/airflow/overview\|Airflow]]                                                     | 2025-09-29 23:24 |
