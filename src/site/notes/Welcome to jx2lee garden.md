@@ -34,17 +34,17 @@
 { .block-language-dataview}
 
 
-| Notes                                                                                     | Modified         |
-| ----------------------------------------------------------------------------------------- | ---------------- |
-| [[opensource-contributions\|오픈소스 기여]]                                                  | 2025-11-09 17:09 |
-| [[career/bithumb\|What did I do at Bithumb]]                                           | 2025-10-26 21:44 |
-| [[etc/__/language/rust\|rust]]                                                         | 2025-10-22 13:22 |
-| [[data/warehouse/redshift-lock\|Redshift Lock 메커니즘]]                                   | 2025-10-03 16:22 |
-| [[data/airflow/__/airflow-taskflow-api-vs-task-sdk\|airflow-taskflow-api-vs-task-sdk]] | 2025-09-29 23:30 |
-| [[data/airflow/overview\|Airflow]]                                                     | 2025-09-29 23:24 |
-| [[data/warehouse/redshift\|redshift]]                                                  | 2025-09-22 23:42 |
-| [[career/projects/warehouse-integration\|데이터웨어하우스 통합]]                                 | 2025-09-20 16:40 |
-| [[data/airflow/__/test-environment\|신뢰성 있는 Airfow dag Repository 를 위한 여정]]             | 2025-09-20 16:18 |
-| [[career/projects\|프로젝트]]                                                              | 2025-09-20 16:18 |
+| Notes                                                                                       | Modified         |
+| ------------------------------------------------------------------------------------------- | ---------------- |
+| [[career/projects/sad-data-platform\|Software Architecture Document 기반 데이터 플랫폼 문서체계 마련]] | 2025-11-16 18:27 |
+| [[career/bithumb\|What did I do at Bithumb]]                                             | 2025-11-16 18:20 |
+| [[etc/__/language/rust\|rust]]                                                           | 2025-11-10 05:48 |
+| [[opensource-contributions\|오픈소스 기여]]                                                    | 2025-11-09 17:09 |
+| [[data/warehouse/redshift-lock\|Redshift Lock 메커니즘]]                                     | 2025-10-03 16:22 |
+| [[data/airflow/__/airflow-taskflow-api-vs-task-sdk\|airflow-taskflow-api-vs-task-sdk]]   | 2025-09-29 23:30 |
+| [[data/airflow/overview\|Airflow]]                                                       | 2025-09-29 23:24 |
+| [[data/warehouse/redshift\|redshift]]                                                    | 2025-09-22 23:42 |
+| [[career/projects/warehouse-integration\|데이터웨어하우스 통합]]                                   | 2025-09-20 16:40 |
+| [[career/projects\|프로젝트]]                                                                | 2025-09-20 16:18 |
 
 { .block-language-dataview}
