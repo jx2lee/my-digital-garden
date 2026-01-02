@@ -1,5 +1,5 @@
 ---
-{"author":"jx2lee","aliases":"Redshift Lock 메커니즘","created":"2025-09-22T22:47:29.509+09:00","last-updated":"2025-09-22 22:47","tags":null,"dg-publish":true,"dg-home-link":true,"dg-show-local-graph":true,"dg-show-backlinks":false,"dg-show-toc":false,"dg-show-inline-title":false,"dg-show-file-tree":false,"dg-enable-search":true,"dg-link-preview":"ture","dg-show-tags":false,"dg-pass-frontmatter":false,"permalink":"/data/warehouse/redshift-lock/","dgHomeLink":true,"dgShowLocalGraph":true,"dgEnableSearch":true,"dgLinkPreview":"ture","dgPassFrontmatter":true,"noteIcon":""}
+{"author":"jx2lee","aliases":"Redshift Lock 메커니즘","created":"2025-09-22T22:47:29.000+09:00","last-updated":"2025-09-22 22:47","tags":null,"dg-publish":true,"dg-home-link":true,"dg-show-local-graph":true,"dg-show-backlinks":false,"dg-show-toc":false,"dg-show-inline-title":false,"dg-show-file-tree":false,"dg-enable-search":true,"dg-link-preview":"ture","dg-show-tags":false,"dg-pass-frontmatter":false,"permalink":"/data/warehouse/redshift-lock/","dgHomeLink":true,"dgShowLocalGraph":true,"dgEnableSearch":true,"dgLinkPreview":"ture","dgPassFrontmatter":true,"noteIcon":""}
 ---
 
 

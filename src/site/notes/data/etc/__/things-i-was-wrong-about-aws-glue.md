@@ -1,5 +1,5 @@
 ---
-{"author":"jx2lee","aliases":"내가 착각하고 있었던 Glue DynamicFrame","created":"2025-08-19T22:33:03.292+09:00","last-updated":"2025-08-19 22:33","tags":["aws","glue","dynamicframe"],"dg-publish":true,"dg-home-link":true,"dg-show-local-graph":true,"dg-show-backlinks":true,"dg-show-toc":false,"dg-show-inline-title":true,"dg-show-file-tree":false,"dg-enable-search":true,"dg-link-preview":true,"dg-show-tags":false,"dg-pass-frontmatter":false,"permalink":"/data/etc/__/things-i-was-wrong-about-aws-glue/","dgHomeLink":true,"dgShowBacklinks":true,"dgShowLocalGraph":true,"dgShowInlineTitle":true,"dgEnableSearch":true,"dgLinkPreview":true,"dgPassFrontmatter":true,"noteIcon":""}
+{"author":"jx2lee","aliases":"내가 착각하고 있었던 Glue DynamicFrame","created":"2025-08-19T22:33:03.000+09:00","last-updated":"2025-08-19 22:33","tags":["aws","glue","dynamicframe"],"dg-publish":true,"dg-home-link":true,"dg-show-local-graph":true,"dg-show-backlinks":true,"dg-show-toc":false,"dg-show-inline-title":true,"dg-show-file-tree":false,"dg-enable-search":true,"dg-link-preview":true,"dg-show-tags":false,"dg-pass-frontmatter":false,"permalink":"/data/etc/__/things-i-was-wrong-about-aws-glue/","dgHomeLink":true,"dgShowBacklinks":true,"dgShowLocalGraph":true,"dgShowInlineTitle":true,"dgEnableSearch":true,"dgLinkPreview":true,"dgPassFrontmatter":true,"noteIcon":""}
 ---
 
 
