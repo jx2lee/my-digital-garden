@@ -4,46 +4,47 @@
 
 
 
-### 가상자산 거래소의 데이터 엔지니어, 이재준 입니다.
-
-- 새로운 기술에 관심이 많고 본질을 이해하는 걸 좋아해요.
-- 수학 전공, 남들 4년 컴퓨터 공학 지식을 따라잡기 위해 누구보다 열심히 했어요.
-- 여가시간에 크로스핏(~~현재는 헬스, 복싱 혹은 주짓수 희망~~다시 크로스핏 시작!)과 [[opensource-contributions\|오픈소스 기여]]를 해요.
-
-
-[Github](https://github.com/jx2lee) 과 [이력서](https://github.com/jx2lee/resume/blob/main/resume-kr.pdf)는 링크를 통해 확인할 수 있습니다([링크드인](https://www.linkedin.com/in/jx2lee/)). 엔지니어 업무를 진행하면서 만났던 문제, 분기별 진행했던 [[projects\|프로젝트]]를 공유하고 흔적^[since 2023.01.21]을 남기고 있어요. 제가 남긴 내용 중 잘못된 정보나 보완이 필요한 점이 있다면 댓글이나 [이메일](malito:dev.jaejun.lee.1991@gmail.com)로 알려주세요. 건전한 토론과 논의는 언제나 환영합니다. 🤗
+### 👋🏽 가상자산 거래소의 데이터 엔지니어, 이재준 입니다
 
 
 ![|400](https://i.imgur.com/IOPpMZJ.jpeg)
 *Drawing by [minwoo](https://github.com/tommybebe)*
 
 
+- 새로운 기술에 관심이 많고 본질을 이해하는 걸 좋아해요.
+- 수학 전공, 남들 4년 컴퓨터 공학 지식을 따라잡기 위해 누구보다 열심히 했어요.
+- 여가시간에 크로스핏(~~현재는 헬스, 복싱 혹은 주짓수 희망~~다시 [크로스핏](https://www.instagram.com/cfkhan2015_2025/reels/) 시작!)과 [[opensource-contributions\|오픈소스 기여]]를 해요.
+
+
+[Github](https://github.com/jx2lee) 과 [이력서](https://github.com/jx2lee/resume.new/blob/main/jaejun_lee_resume.pdf)는 링크를 통해 확인할 수 있습니다([링크드인](https://www.linkedin.com/in/jx2lee/)). 엔지니어 업무를 진행하면서 만났던 문제, 분기별 진행했던 [[career/projects\|프로젝트]]를 공유하고 흔적^[since 2023.01.21]을 남기고 있어요. 제가 남긴 내용 중 잘못된 정보나 보완이 필요한 점이 있다면 댓글이나 [이메일](malito:dev.jaejun.lee.1991@gmail.com)로 알려주세요. 건전한 토론과 논의는 언제나 환영합니다. 🤗
+
+
 | Components                                        |
 | ------------------------------------------------- |
-| [[data/airflow/airflow-overview\|airflow]]     |
+| [[data/airflow/overview\|Airflow]]             |
 | [[data/dbt/dbt-overview\|dbt]]                 |
-| [[data/kafka/kafka-overview\|kafka]]           |
-| [[data/airbyte/airbyte-overview\|airbyte]]     |
-| [[data/bigquery/bigquery-overview\|bigquery]]  |
-| [[kubernetes/kubernetes-overview\|kubernetes]] |
-| [[data/rdb/rdb-overview\|rdb]]                 |
-| [[data/iceberg/iceberg-overview\|iceberg]]     |
-| [[etc/etc-overview\|etc]]                      |
+| [[data/kafka/overview\|Kafka]]                 |
+| [[data/airbyte/overview\|Airbyte]]             |
+| [[data/warehouse/bigquery/overview\|Bigquery]] |
+| [[kubernetes/overview\|Kubernetes]]            |
+| [[data/iceberg/overview\|Iceberg]]             |
+| [[data/database/database-overview\|Database]]  |
+| [[etc/overview\|etc]]                          |
 
 { .block-language-dataview}
 
 
-| Notes                                                                        | Modified         |
-| ---------------------------------------------------------------------------- | ---------------- |
-| [[data/airflow/airflow-overview\|airflow]]                                | 2025-06-22 18:34 |
-| [[opensource-contributions\|오픈소스 기여]]                                     | 2025-06-10 00:33 |
-| [[data/dbt/__/__DEPRECATED__dbt-metric\|DEPRECATED: dbt metric]]          | 2025-06-05 17:40 |
-| [[data/airflow/__/airflow-with-dbt\|데이터레이크를 하나로]]                         | 2025-06-05 16:50 |
-| [[Welcome to jx2lee garden\|Welcome to jx2lee garden]]                    | 2025-06-05 16:01 |
-| [[data/dbt/__/dbt-cicd-pipeline\|Github Action 을 활용한 dbt CI/CD 파이프라인 구축]] | 2025-04-26 17:27 |
-| [[data/etc/self-serve-data\|Self Serve Data]]                             | 2025-04-26 17:27 |
-| [[data/kafka/__/cdc-pipeline-with-debezium\|Debezium 을 이용한 CDC 파이프라인 구축]] | 2025-04-26 17:27 |
-| [[data/kafka/__/migration-to-kakfa-connect\|서버로그 파이프라인 마이그레이션]]           | 2025-04-26 17:27 |
-| [[projects\|프로젝트]]                                                        | 2025-04-26 17:26 |
+| Notes                                                                                       | Modified         |
+| ------------------------------------------------------------------------------------------- | ---------------- |
+| [[notes/thoughts/at-20260130\|이렇게 일하는게 맞나ㅡAI 가 작성한 코드 리뷰에 대해]]                           | 2026-02-10 22:34 |
+| [[etc/vim\|vim]]                                                                         | 2026-01-24 23:16 |
+| [[career/projects/cdc-pipeline-with-debezium\|Debezium 을 이용한 CDC 파이프라인 구축]]              | 2025-12-07 05:02 |
+| [[career/projects/sad-data-platform\|Software Architecture Document 기반 데이터 플랫폼 문서체계 마련]] | 2025-11-16 18:27 |
+| [[career/bithumb\|What did I do at Bithumb]]                                             | 2025-11-16 18:20 |
+| [[etc/__/language/rust\|rust]]                                                           | 2025-11-10 05:48 |
+| [[opensource-contributions\|오픈소스 기여]]                                                    | 2025-11-09 17:09 |
+| [[data/warehouse/redshift-lock\|Redshift Lock 메커니즘]]                                     | 2025-10-03 16:22 |
+| [[data/airflow/__/airflow-taskflow-api-vs-task-sdk\|airflow-taskflow-api-vs-task-sdk]]   | 2025-09-29 23:30 |
+| [[data/airflow/overview\|Airflow]]                                                       | 2025-09-29 23:24 |
 
 { .block-language-dataview}
