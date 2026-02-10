@@ -68,6 +68,30 @@ permalink: "notes/{{ page.fileSlug | slugify }}/"
         {% include imp %}
       {% endfor %}
       {{ content | hideDataview | taggify | link | safe}}
+      
+      {# Giscus #}
+      {% if giscus %}
+      <hr>
+      <div class="giscus-comments">
+        <script src="https://giscus.app/client.js"
+            data-repo="jx2lee/mdg"
+            data-repo-id="R_kgDOMXC53A"
+            data-category="General"
+            data-category-id="DIC_kwDOMXC53M4CiHRU"
+            data-mapping="pathname"
+            data-strict="0"
+            data-reactions-enabled="1"
+            data-emit-metadata="0"
+            data-input-position="bottom"
+            data-theme="light"
+            data-lang="en"
+            data-loading="lazy"
+            crossorigin="anonymous"
+            async>
+        </script>
+      </div>
+      {% endif %}
+
       {% for imp in dynamics.common.afterContent %}
         {% include imp %}
       {% endfor %}
