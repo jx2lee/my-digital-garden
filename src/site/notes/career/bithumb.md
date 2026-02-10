@@ -28,7 +28,7 @@
     - 꾸준히 만들어가고 있어요. root commit 을 rebase & force push 해서 커밋이 하나지만 매일 같이 변경하고 있답니다. 틀이 다 잡히고 쓰기 가능한 정도이면 Github Action 도 사용해볼 예정이에요.
 - [[data/airflow/__/test-environment\|미작성: 신뢰성 있는 Airfow dag Repository 를 위한 여정]]
 - [[data/airflow/__/dag-linter\|미작성: Ruff 영감을 받아 DAG linter 제작기]]
-- [[career/projects/api-enhancement\|미작성: DW API w/ Arrow Flight SQL]]
+- [[api-enhancement\|미작성: DW API w/ Arrow Flight SQL]]
 
 3버전부터 MWAA 프로덕션에서 실행되는 이미지를 오픈소스로 풀었네요. 기존 사용하던 스크립트와 유사한 형태긴 한데 수정할 게 많아보이긴 합니다.
 https://github.com/aws/amazon-mwaa-docker-images/tree/main/images/airflow/3.0.6

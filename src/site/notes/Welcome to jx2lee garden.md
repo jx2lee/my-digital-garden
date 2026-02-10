@@ -36,9 +36,9 @@
 
 | Notes                                                                                       | Modified         |
 | ------------------------------------------------------------------------------------------- | ---------------- |
-| [[notes/thoughts/at-20260130\|이렇게 일하는게 맞나]]                                              | 2026-01-30 19:58 |
+| [[notes/thoughts/at-20260130\|이렇게 일하는게 맞나ㅡAI 가 작성한 코드 리뷰에 대해]]                           | 2026-02-10 22:34 |
 | [[etc/vim\|vim]]                                                                         | 2026-01-24 23:16 |
-| [[career/projects/cdc-pipeline-with-debezium\|Debezium 을 이용한 CDC 파이프라인 구축]]              | 2025-12-07 22:02 |
+| [[career/projects/cdc-pipeline-with-debezium\|Debezium 을 이용한 CDC 파이프라인 구축]]              | 2025-12-07 05:02 |
 | [[career/projects/sad-data-platform\|Software Architecture Document 기반 데이터 플랫폼 문서체계 마련]] | 2025-11-16 18:27 |
 | [[career/bithumb\|What did I do at Bithumb]]                                             | 2025-11-16 18:20 |
 | [[etc/__/language/rust\|rust]]                                                           | 2025-11-10 05:48 |
