@@ -12,6 +12,17 @@ permalink: "notes/{{ page.fileSlug | slugify }}/"
     {% for imp in dynamics.notes.head %}
       {% include imp %}
     {% endfor %}
+    <style>
+        .giscus-comments {
+        margin-top: 3em; 
+        padding-top: 1em;
+        border-top: 1px solid var(--hr-color, #eee); /* 선택 사항: 본문과 댓글 섹션 구분선 */
+        }
+
+        .giscus-comments hr {
+        display: none;
+        }
+    </style>
   </head>
   <body class="theme-{{meta.baseTheme}} markdown-preview-view markdown-rendered markdown-preview-section {% if settings.dgShowFileTree !== true %}no-filetree{% endif %} {% if settings.dgHomeLink === true and settings.dgShowFileTree !== true %}has-navbar{% endif %} {{meta.bodyClasses}}">
     {%include "components/notegrowthhistory.njk"%}
@@ -71,7 +82,6 @@ permalink: "notes/{{ page.fileSlug | slugify }}/"
       
       {# Giscus #}
       {% if giscus %}
-      <hr>
       <div class="giscus-comments">
         <script src="https://giscus.app/client.js"
             data-repo="jx2lee/mdg"
