@@ -36,6 +36,7 @@
 
 | Notes                                                                                     | Modified         |
 | ----------------------------------------------------------------------------------------- | ---------------- |
+| [[notes/thoughts/at-20260212\|문제를 바라보는 다양한 시각]]                                        | 2026-02-12 23:16 |
 | [[notes/thoughts/at-20260130\|이렇게 일하는게 맞나ㅡAI 가 작성한 코드 리뷰에 대해]]                         | 2026-02-10 23:21 |
 | [[Welcome to jx2lee garden\|Welcome to jx2lee garden]]                                 | 2026-02-10 22:56 |
 | [[etc/vim\|vim]]                                                                       | 2026-01-24 23:16 |
@@ -45,6 +46,5 @@
 | [[data/airflow/__/airflow-taskflow-api-vs-task-sdk\|airflow-taskflow-api-vs-task-sdk]] | 2025-09-29 23:30 |
 | [[data/airflow/overview\|Airflow]]                                                     | 2025-09-29 23:24 |
 | [[data/warehouse/redshift\|redshift]]                                                  | 2025-09-22 23:42 |
-| [[data/airflow/__/test-environment\|신뢰성 있는 Airfow dag Repository 를 위한 여정]]             | 2025-09-20 16:18 |
 
 { .block-language-dataview}
