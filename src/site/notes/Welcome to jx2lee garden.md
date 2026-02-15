@@ -36,10 +36,10 @@
 
 | Notes                                                                                     | Modified         |
 | ----------------------------------------------------------------------------------------- | ---------------- |
+| [[etc/vim\|매번 까먹는 vim 단축키나 팁..]]                                                       | 2026-02-15 12:31 |
 | [[notes/thoughts/at-20260212\|나와 다른 관점 을 떠올리며]]                                        | 2026-02-12 23:17 |
 | [[notes/thoughts/at-20260130\|이렇게 일하는게 맞나ㅡAI 가 작성한 코드 리뷰에 대해]]                         | 2026-02-10 23:21 |
 | [[Welcome to jx2lee garden\|Welcome to jx2lee garden]]                                 | 2026-02-10 22:56 |
-| [[etc/vim\|vim]]                                                                       | 2026-01-24 23:16 |
 | [[etc/__/language/rust\|rust]]                                                         | 2025-11-10 05:48 |
 | [[opensource-contributions\|오픈소스 기여]]                                                  | 2025-11-09 17:09 |
 | [[data/warehouse/redshift-lock\|Redshift Lock 메커니즘]]                                   | 2025-10-03 16:22 |
