@@ -12,8 +12,13 @@ NORMAL
     - backward: `b`
 - blackhole registre: `"_x` or `"_y/d/dd`
     - 블랙홀 레지스터 표현은 `_`
+- vim 현재 창을 백그라운드로 변경: `Ctrl+z`
+    - 이후 다시 돌아가는 방법: `fg`, 커맨드로 입력하기
 
+---
 INSERT
+
+---
 VISUAL
 - 선택한 영역 클립보드에 복사: `"+y`
 - 선택한 영역 앞뒤로 쿼터/더블쿼터 추가: `c""<Esc>P`

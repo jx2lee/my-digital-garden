@@ -29,7 +29,9 @@
 
 
 > [!summary]- Outputs
-> - airflow
+> - apache/airflow
+>     - [Typo readme in breeze (uv command)](https://github.com/apache/airflow/pull/62173)
+>     - [Support for client-side certificates using task-sdk](https://github.com/apache/airflow/pull/62105)
 >     - [feat (airflowctl): add dag operations to conform all API endpoints](https://github.com/apache/airflow/pull/50424)
 >     - [Fix image url in IDE onboarding doc (about task sdk)](https://github.com/apache/airflow/pull/48549)
 >     - [Add a note `airflow users` command is available when FAB auth-manager is enabled](https://github.com/apache/airflow/pull/46862)
@@ -59,6 +61,8 @@
 >     - [dbt-bigquery: add test case when raise ServiceUnavailable in is_retryable](https://github.com/dbt-labs/dbt-bigquery/pull/1224)
 > - kafka-connect-bigquery: [Support n:1 to topic2TableMap (topic:table)](https://github.com/confluentinc/kafka-connect-bigquery/pull/361)
 > - kafka-connect-transform-tojsonstring: [Support to transtorm record without schema (schemaless json format)](https://github.com/an0r0c/kafka-connect-transform-tojsonstring/pull/18)
+> - apache/iceberg-python
+>     - [fix: show helpful error when hive catalog config is missing uri](https://github.com/apache/iceberg-python/pull/3077)
 > - meltano
 >     - [docs: Fix YAML indent on getting started page and fix link to page source in GitHub](https://github.com/meltano/meltano/pull/7187)
 >     - [fix(cli): working GCS state backend properly when any files were located in root bucket](https://github.com/meltano/meltano/pull/8648)
