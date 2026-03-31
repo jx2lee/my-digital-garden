@@ -34,17 +34,17 @@
 { .block-language-dataview}
 
 
-| Notes                                             | Modified         |
-| ------------------------------------------------- | ---------------- |
-| [[data/warehouse/bigquery/overview\|Bigquery]] | 2026-03-31 23:57 |
-| [[data/airbyte/overview\|Airbyte]]             | 2026-03-31 23:56 |
-| [[data/database/database-overview\|Database]]  | 2026-03-31 23:56 |
-| [[data/dbt/dbt-overview\|dbt]]                 | 2026-03-31 23:56 |
-| [[data/kafka/overview\|Kafka]]                 | 2026-03-31 23:55 |
-| [[kubernetes/overview\|Kubernetes]]            | 2026-03-31 23:55 |
-| [[data/iceberg/overview\|Iceberg]]             | 2026-03-31 23:54 |
-| [[etc/vim\|매번 까먹는 vim 단축키나 팁..]]               | 2026-03-28 21:12 |
-| [[opensource-contributions\|오픈소스 기여]]          | 2026-03-18 23:13 |
-| [[notes/thoughts/at-20260306\|나도 처음은 있었지]]     | 2026-03-06 23:22 |
+| Notes                                                  | Modified         |
+| ------------------------------------------------------ | ---------------- |
+| [[kubernetes/overview\|Kubernetes]]                 | 2026-04-01 00:06 |
+| [[eks-why-i-build-it\|데이터엔지니어 가 EKS 기반 데이터플랫폼 삽질기]] | 2026-04-01 00:06 |
+| [[data/warehouse/bigquery/overview\|Bigquery]]      | 2026-03-31 23:57 |
+| [[data/airbyte/overview\|Airbyte]]                  | 2026-03-31 23:56 |
+| [[data/database/database-overview\|Database]]       | 2026-03-31 23:56 |
+| [[data/dbt/dbt-overview\|dbt]]                      | 2026-03-31 23:56 |
+| [[data/kafka/overview\|Kafka]]                      | 2026-03-31 23:55 |
+| [[data/iceberg/overview\|Iceberg]]                  | 2026-03-31 23:54 |
+| [[etc/vim\|매번 까먹는 vim 단축키나 팁..]]                    | 2026-03-28 21:12 |
+| [[opensource-contributions\|오픈소스 기여]]               | 2026-03-18 23:13 |
 
 { .block-language-dataview}
