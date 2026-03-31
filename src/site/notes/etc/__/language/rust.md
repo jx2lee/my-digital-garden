@@ -22,3 +22,4 @@
 - Prelude: 프렐루드, 미리 준비된 의 의미로 러스트 표준 라이브러리를 일컫는 말(std::prelude 에 정의된, e.g Vec/String)
     - The prelude is the list of things that Rust automatically imports into every Rust program
     - https://doc.rust-lang.org/std/prelude/
+    

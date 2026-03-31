@@ -30,3 +30,8 @@ HANDLE files
 - 현재 파일을 이용하기: `!uv run %` percent 기호 사용
     - 혹은 `:terminal` or `:term` 으로 새로운 터미널 window 로 결과로 볼 수 있음([vim terminal](https://github.com/vim/vim/blob/master/runtime/doc/terminal.txt), This feature is for running a terminal emulator in a Vim window. A job can be started connected to the terminal emulator. For example, to run a shell)
     - https://stackoverflow.com/a/49658758
+    - 파일을 생성하지 않고 단순 스크립트를 실행하고 싶다면:
+      `vim(or vi)` > 소스코드 복사/붙여넣기 -> `:%w !uv run python`
+        - `:%` : 버퍼 전체를 대상으로
+        - `w` : 내용을 "쓴다(write)"
+        - `!cmd` : 파일에 저장하는 대신, 내용을 표준 입력(stdin)으로 `cmd`에 넘긴다

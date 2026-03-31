@@ -62,6 +62,7 @@
 > - kafka-connect-bigquery: [Support n:1 to topic2TableMap (topic:table)](https://github.com/confluentinc/kafka-connect-bigquery/pull/361)
 > - kafka-connect-transform-tojsonstring: [Support to transtorm record without schema (schemaless json format)](https://github.com/an0r0c/kafka-connect-transform-tojsonstring/pull/18)
 > - apache/iceberg-python
+>     - [Skip catalog loading for the version command](https://github.com/apache/iceberg-python/pull/3146)
 >     - [fix: show helpful error when hive catalog config is missing uri](https://github.com/apache/iceberg-python/pull/3077)
 > - meltano
 >     - [docs: Fix YAML indent on getting started page and fix link to page source in GitHub](https://github.com/meltano/meltano/pull/7187)
