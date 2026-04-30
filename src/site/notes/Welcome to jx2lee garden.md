@@ -36,6 +36,7 @@
 
 | Notes                                                          | Modified         |
 | -------------------------------------------------------------- | ---------------- |
+| [[etc/__/language/java-jar\|Java Jar(Java ARchive)]]        | 2026-04-30 21:28 |
 | [[notes/thoughts/at-20260430\|꽃길만 걸으세요.]]                   | 2026-04-30 21:11 |
 | [[notes/thoughts/at-20260410\|평가]]                          | 2026-04-30 20:52 |
 | [[kubernetes/__/eks-why-i-build-it\|AWS EKS 기반 데이터플랫폼 삽질기]] | 2026-04-05 15:41 |
@@ -45,6 +46,5 @@
 | [[data/database/database-overview\|Database]]               | 2026-03-31 23:56 |
 | [[data/dbt/dbt-overview\|dbt]]                              | 2026-03-31 23:56 |
 | [[data/kafka/overview\|Kafka]]                              | 2026-03-31 23:55 |
-| [[data/iceberg/overview\|Iceberg]]                          | 2026-03-31 23:54 |
 
 { .block-language-dataview}
