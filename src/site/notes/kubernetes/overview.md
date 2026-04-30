@@ -4,7 +4,7 @@
 
 
 ### 
-- [[eks-why-i-build-it\|데이터엔지니어 가 EKS 기반 데이터플랫폼 삽질기]]
+- [[kubernetes/__/eks-why-i-build-it\|데이터엔지니어 가 EKS 기반 데이터플랫폼 삽질기]]
 
 ### job knowledge
 - [[kubernetes/__/kubernetes-events-during-deletion\|pod 가 삭제되는 과정을 살펴봐요]]
