@@ -25,6 +25,10 @@ VISUAL
     - 싱글쿼터인 경우 "" > '' 변경
 
 ---
+Command-line mode
+- 이전에 했던 커맨드라인 사용하기: NORMAL 모드에서 `@:`
+
+---
 HANDLE files
 - 파일로 저장하기: `:w {file_name}`
 - 현재 파일을 이용하기: `!uv run %` percent 기호 사용
