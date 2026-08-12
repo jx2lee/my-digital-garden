@@ -28,6 +28,8 @@
 
 > [!summary]- 
 > - apache/airflow
+>     - [Honor verbose logging for Celery worker](https://github.com/apache/airflow/pull/69828)
+>     - [Fix Go Edge worker heartbeat cancellation handling](https://github.com/apache/airflow/pull/68535)
 >     - [Typo readme in breeze (uv command)](https://github.com/apache/airflow/pull/62173)
 >     - [Support for client-side certificates using task-sdk](https://github.com/apache/airflow/pull/62105)
 >     - [feat (airflowctl): add dag operations to conform all API endpoints](https://github.com/apache/airflow/pull/50424)
@@ -44,6 +46,16 @@
 >     - [Typo docstring eks trigger in aws provider](https://github.com/apache/airflow/pull/41381)
 >     - [enable AIRFLOW\__CELERY__BROKER_URL_CMD when passwordSecretName is true](https://github.com/apache/airflow/pull/40270)
 >     - [Add CloudRunServiceHook and operator](https://github.com/apache/airflow/pull/40008)
+> - apache/iceberg-python
+>     - [Add `--purge` option to drop table CLI](https://github.com/apache/iceberg-python/pull/3718)
+>     - [Skip catalog loading for the version command](https://github.com/apache/iceberg-python/pull/3146)
+>     - [fix: show helpful error when hive catalog config is missing uri](https://github.com/apache/iceberg-python/pull/3077)
+> - apache/iceberg-go
+>     - [fix(cli): accept case-insentive catalog types in cli](https://github.com/apache/iceberg-go/pull/1650)
+>     - [fix(cli): use standard property keys when creating a namespace](https://github.com/apache/iceberg-go/pull/1633)
+>     - [fix(cli): report correct entity type for missing property](https://github.com/apache/iceberg-go/pull/1621)
+>     - [test(table): use SerializeDV for scanner DV fixture](https://github.com/apache/iceberg-go/pull/1608)
+>     - [fix(cli): report successful drop operation in cli](https://github.com/apache/iceberg-go/pull/1566)
 > - apache/datafusion:
 >     - [Port LikeExpr to use try_to_proto / try_from_proto ](https://github.com/apache/datafusion/pull/22471)
 >     - [Return None for cardinality overflow](https://github.com/apache/datafusion/pull/22309)
@@ -56,6 +68,8 @@
 >     - [feat: use python-oracledb instead of cx_Oracle](https://github.com/GoogleCloudPlatform/professional-services-data-validator/pull/1515)
 >     - [fix: deduplicate spanner client in SpannerBackend](https://github.com/GoogleCloudPlatform/professional-services-data-validator/pull/1554)
 > - astronomer-cosmos:
+>     - [Update docs for DbtDocsS3KubernetesOperator](https://github.com/astronomer/astronomer-cosmos/pull/2575)
+>     - [docs: correct example YAML key from operator_args to operator_kwargs](https://github.com/astronomer/astronomer-cosmos/pull/2091)
 >     - [Improve MWAA getting-started docs by removing unused imports](https://github.com/astronomer/astronomer-cosmos/pull/1562)
 >     - [refactor: remove duplicated _construct_dest_file_path](https://github.com/astronomer/astronomer-cosmos/pull/2077)
 >     - [feat(operators): support dbt docs on Kubernetes via DbtDocsS3KubernetesOperator](https://github.com/astronomer/astronomer-cosmos/pull/2058)
@@ -65,9 +79,6 @@
 >     - [dbt-bigquery: add test case when raise ServiceUnavailable in is_retryable](https://github.com/dbt-labs/dbt-bigquery/pull/1224)
 > - kafka-connect-bigquery: [Support n:1 to topic2TableMap (topic:table)](https://github.com/confluentinc/kafka-connect-bigquery/pull/361)
 > - kafka-connect-transform-tojsonstring: [Support to transtorm record without schema (schemaless json format)](https://github.com/an0r0c/kafka-connect-transform-tojsonstring/pull/18)
-> - apache/iceberg-python
->     - [Skip catalog loading for the version command](https://github.com/apache/iceberg-python/pull/3146)
->     - [fix: show helpful error when hive catalog config is missing uri](https://github.com/apache/iceberg-python/pull/3077)
 > - meltano
 >     - [docs: Fix YAML indent on getting started page and fix link to page source in GitHub](https://github.com/meltano/meltano/pull/7187)
 >     - [fix(cli): working GCS state backend properly when any files were located in root bucket](https://github.com/meltano/meltano/pull/8648)
