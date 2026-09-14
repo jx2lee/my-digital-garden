@@ -36,15 +36,15 @@
 
 | Notes                                                          | Modified         |
 | -------------------------------------------------------------- | ---------------- |
+| [[notes/thoughts/at-20260913\|퇴사부검]]                        | 2026-09-13 21:48 |
 | [[notes/thoughts/at-20260813\|맛집에 일면식 없는 사람과 식사하는 기분]]      | 2026-08-14 00:25 |
+| [[opensource-contributions\|오픈소스 기여]]                       | 2026-08-12 14:28 |
 | [[etc/__/language/java-jar\|Java Jar(Java ARchive)]]        | 2026-07-14 23:55 |
 | [[etc/problemsolving/long-delete-query\|long-delete-query]] | 2026-07-14 23:52 |
 | [[etc/vim\|매번 까먹는 vim 단축키나 팁..]]                            | 2026-06-22 23:46 |
-| [[opensource-contributions\|오픈소스 기여]]                       | 2026-05-31 23:40 |
 | [[notes/thoughts/at-20260430\|꽃길만 걸으세요.]]                   | 2026-04-30 21:11 |
 | [[kubernetes/__/eks-why-i-build-it\|AWS EKS 기반 데이터플랫폼 삽질기]] | 2026-04-05 15:41 |
 | [[kubernetes/overview\|Kubernetes]]                         | 2026-04-01 00:06 |
 | [[data/warehouse/bigquery/overview\|Bigquery]]              | 2026-03-31 23:57 |
-| [[data/airbyte/overview\|Airbyte]]                          | 2026-03-31 23:56 |
 
 { .block-language-dataview}
