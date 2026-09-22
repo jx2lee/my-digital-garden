@@ -5,8 +5,8 @@
 
 > [!info] issues (idle, assignee)[ ](https://github.com/issues?q=is%3Aopen+is%3Aissue+assignee%3Ajx2lee+archived%3Afalse+-org%3Ajx2lee+)
 
-[⌛️In Progress](https://github.com/pulls?q=is%3Aopen+is%3Apr+author%3Ajx2lee+archived%3Afalse+-org%3Ajx2lee+)
-[✅Done](https://github.com/pulls?q=is%3Apr+author%3Ajx2lee+archived%3Afalse+-org%3Ajx2lee+is%3Amerged)
+[⌛️In Progress](https://github.com/pulls/search?q=is%3Aopen+is%3Apr+author%3Ajx2lee+archived%3Afalse+-user%3Ajx2lee++sort%3Aupdated-desc)
+[✅Done](https://github.com/pulls/search?q=is%3Apr+author%3Ajx2lee+archived%3Afalse+-user%3Ajx2lee+is%3Amerged+sort%3Aupdated-desc)
 
 
 **1. 원하는 기능을 제공하지 않거나, 정상적으로 동작하지 않을 때**
@@ -61,6 +61,11 @@
 >     - [Return None for cardinality overflow](https://github.com/apache/datafusion/pull/22309)
 >     - [docs: fix typos in documentation](https://github.com/apache/datafusion/pull/21875)
 >     - [docs: refresh CLI usage output in the user guide](https://github.com/apache/datafusion/pull/21874)
+> - delta-io/delta-rs
+>     - [fix(python): honor encoding in default column properties](https://github.com/delta-io/delta-rs/pull/4740)
+>     - [feat(python): accept Path and PathLike in DeltaTable.is_deltatable](https://github.com/delta-io/delta-rs/pull/4735)
+>     - [fix(python): treat naive load_as_version datetime as UTC](https://github.com/delta-io/delta-rs/pull/4734)
+>     - [docs: replace from_arrow in docstring](https://github.com/delta-io/delta-rs/pull/4733)
 > - professional-services-data-validator:
 >     - [fix: Remove implicit "connections" subdirectory from GCS connections path (PSO_DV_CONN_HOME)](https://github.com/GoogleCloudPlatform/professional-services-data-validator/pull/1598)
 >     - [feat: Enable --grouped-columns for validate custom-query column](https://github.com/GoogleCloudPlatform/professional-services-data-validator/pull/1587)
