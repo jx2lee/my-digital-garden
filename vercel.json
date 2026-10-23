@@ -4,6 +4,8 @@
     "buildCommand": "npm run build",
     "devCommand": "npm run start",
     "routes": [
+        { "src": "^/wedding$", "status": 308, "headers": { "Location": "/wedding/" } },
+        { "src": "^/wedding/(.*)$", "dest": "https://wedding-letter-jade.vercel.app/$1" },
         { "handle": "filesystem" },
         { "src": "/(.*)", "status": 404, "dest": "/404" }
       ]
