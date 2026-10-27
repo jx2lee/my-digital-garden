@@ -1,5 +1,5 @@
 ---
-{"author":"jx2lee","aliases":["오픈소스 기여"],"created":"2024-11-18T23:27:22.000+09:00","last-updated":"2024-06-23 22:17","tags":["opensource"],"comments":true,"dg-publish":true,"dg-home-link":false,"dg-show-local-graph":false,"dg-show-backlinks":false,"dg-show-toc":false,"dg-show-inline-title":false,"dg-show-file-tree":false,"dg-enable-search":true,"dg-link-preview":true,"dg-show-tags":false,"dg-pass-frontmatter":false,"permalink":"/opensource-contributions/","dgEnableSearch":true,"dgLinkPreview":true,"dgPassFrontmatter":true,"noteIcon":""}
+{"author":"jx2lee","aliases":["오픈소스 기여"],"created":"2026-10-26T22:27:38.128+09:00","last-updated":"2024-06-23 22:17","tags":["opensource"],"comments":true,"dg-publish":true,"dg-home-link":false,"dg-show-local-graph":false,"dg-show-backlinks":false,"dg-show-toc":false,"dg-show-inline-title":false,"dg-show-file-tree":false,"dg-enable-search":true,"dg-link-preview":true,"dg-show-tags":false,"dg-pass-frontmatter":false,"permalink":"/opensource-contributions/","dgEnableSearch":true,"dgLinkPreview":true,"dgPassFrontmatter":true,"noteIcon":""}
 ---
 
 
@@ -13,7 +13,7 @@
 - 지금 당장 필요한 기능이 안되거나 수정이 필요한 경우가 많았어요. 회사 VCS 에 올려 따로 관리해도 상관없었어요. 하지만 나와 같은 사람들이 전 세계(?)에 한 명 쯤은 있지 않을까 ? 라는 생각에 기여했어요.
 - 예시.
     - [Support n:1 to topic2TableMap (topic:table)](https://github.com/confluentinc/kafka-connect-bigquery/pull/361)
-    - [Support to transtorm record without schema (schemaless json format)](https://github.com/an0r0c/kafka-connect-transform-tojsonstring/pull/18)
+    - [Support to transtorm record without schema (schemaless json format)](https://github.com/christian-edelsbrunner/kafka-connect-transform-tojsonstring/pull/18)
     - [Add postgres client package](https://github.com/mage-ai/mage-ai/pull/5486)
     - [feat: use python-oracledb instead of cx_Oracle](https://github.com/GoogleCloudPlatform/professional-services-data-validator/pull/1515)
 
@@ -32,12 +32,19 @@
 >     - [Fix Go Edge worker heartbeat cancellation handling](https://github.com/apache/airflow/pull/68535)
 >     - [Typo readme in breeze (uv command)](https://github.com/apache/airflow/pull/62173)
 >     - [Support for client-side certificates using task-sdk](https://github.com/apache/airflow/pull/62105)
+>     - [Add warning in changelog: use OdbcHook for ODBC drivers instead of MsSqlHook](https://github.com/apache/airflow/pull/52646)
+>     - [airflowctl: transition of bulk operations to return BulkResponse](https://github.com/apache/airflow/pull/52458)
+>     - [airflowctl: convert to `BulkResponse` in variables.import](https://github.com/apache/airflow/pull/51514)
+>     - [feat (airflowctl): transition of Variable Command](https://github.com/apache/airflow/pull/50908)
 >     - [feat (airflowctl): add dag operations to conform all API endpoints](https://github.com/apache/airflow/pull/50424)
 >     - [Fix image url in IDE onboarding doc (about task sdk)](https://github.com/apache/airflow/pull/48549)
 >     - [Add a note `airflow users` command is available when FAB auth-manager is enabled](https://github.com/apache/airflow/pull/46862)
+>     - [Allow specifying repo_url in GitDagBundle kwargs](https://github.com/apache/airflow/pull/46345)
 >     - [Enable to add inline ssh key in GitHook](https://github.com/apache/airflow/pull/46181)
 >     - [Forbid extra fields on execution api](https://github.com/apache/airflow/pull/44986)
 >     - [Fix GitDagBundle to support https (include 46073/46179)](https://github.com/apache/airflow/pull/46226)
+>     - [Fix GitDagBundle to support https](https://github.com/apache/airflow/pull/46073)
+>     - [Fix ContinuousTimetable false triggering when last run ends in future](https://github.com/apache/airflow/pull/45175)
 >     - [Set container name to envSourceContainerName in KEDA ScaledObject](https://github.com/apache/airflow/pull/44963)
 >     - [Support connection extra parameters in MsSqlHook](https://github.com/apache/airflow/pull/44310)
 >     - [Support multiple executors in chart](https://github.com/apache/airflow/pull/43606)
@@ -45,12 +52,16 @@
 >     - [Add parent_model param in UploadModelOperator](https://github.com/apache/airflow/pull/42091)
 >     - [Typo docstring eks trigger in aws provider](https://github.com/apache/airflow/pull/41381)
 >     - [enable AIRFLOW\__CELERY__BROKER_URL_CMD when passwordSecretName is true](https://github.com/apache/airflow/pull/40270)
+>     - [Add Coinone to the list of companies](https://github.com/apache/airflow/pull/40176)
 >     - [Add CloudRunServiceHook and operator](https://github.com/apache/airflow/pull/40008)
 > - apache/iceberg-python
 >     - [Add `--purge` option to drop table CLI](https://github.com/apache/iceberg-python/pull/3718)
 >     - [Skip catalog loading for the version command](https://github.com/apache/iceberg-python/pull/3146)
 >     - [fix: show helpful error when hive catalog config is missing uri](https://github.com/apache/iceberg-python/pull/3077)
 > - apache/iceberg-go
+>     - [fix(glue): return ErrNamespaceAlreadyExists for duplicate namespaces](https://github.com/apache/iceberg-go/pull/2012)
+>     - [fix(glue): report destination table on rename create failure](https://github.com/apache/iceberg-go/pull/1997)
+>     - [fix(cli): validate refs type before loading table](https://github.com/apache/iceberg-go/pull/1759)
 >     - [fix(cli): accept case-insentive catalog types in cli](https://github.com/apache/iceberg-go/pull/1650)
 >     - [fix(cli): use standard property keys when creating a namespace](https://github.com/apache/iceberg-go/pull/1633)
 >     - [fix(cli): report correct entity type for missing property](https://github.com/apache/iceberg-go/pull/1621)
@@ -62,10 +73,24 @@
 >     - [docs: fix typos in documentation](https://github.com/apache/datafusion/pull/21875)
 >     - [docs: refresh CLI usage output in the user guide](https://github.com/apache/datafusion/pull/21874)
 > - delta-io/delta-rs
+>     - [fix: match optimize file selection ids for partition values containing "~"](https://github.com/delta-io/delta-rs/pull/4919)
+>     - [fix(catalog-unity): tolerate unknown enum values in table responses](https://github.com/delta-io/delta-rs/pull/4885)
+>     - [fix(catalog-unity): accept null expiration_time in temporary credentials](https://github.com/delta-io/delta-rs/pull/4884)
+>     - [fix: apply the scale when formatting decimal literals in fmt_expr_to_sql](https://github.com/delta-io/delta-rs/pull/4825)
+>     - [fix(python, rust): clean warn message during `make check`](https://github.com/delta-io/delta-rs/pull/4822)
+>     - [fix(python): resolve nested null types against matching field](https://github.com/delta-io/delta-rs/pull/4813)
+>     - [fix(python): escape string literals in update new_values](https://github.com/delta-io/delta-rs/pull/4792)
+>     - [fix(python): fix copy_file keyword args](https://github.com/delta-io/delta-rs/pull/4791)
+>     - [fix(python): allow None writer properties in write overloads](https://github.com/delta-io/delta-rs/pull/4786)
+>     - [fix(python): align gzip compression levels with parquet](https://github.com/delta-io/delta-rs/pull/4779)
+>     - [fix(python): reject NaN bloom filter probabilities](https://github.com/delta-io/delta-rs/pull/4773)
+>     - [feat(python): expose Delta table property constants](https://github.com/delta-io/delta-rs/pull/4737)
 >     - [fix(python): honor encoding in default column properties](https://github.com/delta-io/delta-rs/pull/4740)
 >     - [feat(python): accept Path and PathLike in DeltaTable.is_deltatable](https://github.com/delta-io/delta-rs/pull/4735)
 >     - [fix(python): treat naive load_as_version datetime as UTC](https://github.com/delta-io/delta-rs/pull/4734)
 >     - [docs: replace from_arrow in docstring](https://github.com/delta-io/delta-rs/pull/4733)
+> - python/cpython: [gh-151950: Fix unresolved AST references in ast.rst](https://github.com/python/cpython/pull/158156)
+> - apache/flink-cdc: [[FLINK-40274][cdc-cli] Remove unsupported kubernetes-session from target option help message](https://github.com/apache/flink-cdc/pull/4493)
 > - professional-services-data-validator:
 >     - [fix: Remove implicit "connections" subdirectory from GCS connections path (PSO_DV_CONN_HOME)](https://github.com/GoogleCloudPlatform/professional-services-data-validator/pull/1598)
 >     - [feat: Enable --grouped-columns for validate custom-query column](https://github.com/GoogleCloudPlatform/professional-services-data-validator/pull/1587)
@@ -73,19 +98,25 @@
 >     - [feat: use python-oracledb instead of cx_Oracle](https://github.com/GoogleCloudPlatform/professional-services-data-validator/pull/1515)
 >     - [fix: deduplicate spanner client in SpannerBackend](https://github.com/GoogleCloudPlatform/professional-services-data-validator/pull/1554)
 > - astronomer-cosmos:
+>     - [Use boto3 for Kubernetes dbt docs S3 uploads](https://github.com/astronomer/astronomer-cosmos/pull/2957)
 >     - [Update docs for DbtDocsS3KubernetesOperator](https://github.com/astronomer/astronomer-cosmos/pull/2575)
 >     - [docs: correct example YAML key from operator_args to operator_kwargs](https://github.com/astronomer/astronomer-cosmos/pull/2091)
 >     - [Improve MWAA getting-started docs by removing unused imports](https://github.com/astronomer/astronomer-cosmos/pull/1562)
 >     - [refactor: remove duplicated _construct_dest_file_path](https://github.com/astronomer/astronomer-cosmos/pull/2077)
 >     - [feat(operators): support dbt docs on Kubernetes via DbtDocsS3KubernetesOperator](https://github.com/astronomer/astronomer-cosmos/pull/2058)
+> - dag-factory
+>     - [Add --ignore/-i to lint-subcmd to exclude YAML files](https://github.com/astronomer/dag-factory/pull/583)
+>     - [docs: remove trailing slash from AIRFLOW_HOME example](https://github.com/astronomer/dag-factory/pull/582)
+>     - [Modified Status badge in README](https://github.com/astronomer/dag-factory/pull/298)
 > - dbt
->     - [Fix configuration of turning test warnings into failures](https://github.com/dbt-labs/dbt-core/pull/9347)
->     - [Fix package-lock file's bad indentation](https://github.com/dbt-labs/dbt-core/pull/9341)
+>     - [Fix configuration of turning test warnings into failures](https://github.com/dbt-labs/dbt/pull/9347)
+>     - [Fix package-lock file's bad indentation](https://github.com/dbt-labs/dbt/pull/9341)
 >     - [dbt-bigquery: add test case when raise ServiceUnavailable in is_retryable](https://github.com/dbt-labs/dbt-bigquery/pull/1224)
 > - kafka-connect-bigquery: [Support n:1 to topic2TableMap (topic:table)](https://github.com/confluentinc/kafka-connect-bigquery/pull/361)
-> - kafka-connect-transform-tojsonstring: [Support to transtorm record without schema (schemaless json format)](https://github.com/an0r0c/kafka-connect-transform-tojsonstring/pull/18)
+> - kafka-connect-transform-tojsonstring: [Support to transtorm record without schema (schemaless json format)](https://github.com/christian-edelsbrunner/kafka-connect-transform-tojsonstring/pull/18)
 > - meltano
 >     - [docs: Fix YAML indent on getting started page and fix link to page source in GitHub](https://github.com/meltano/meltano/pull/7187)
+>     - [docs: reindent code block](https://github.com/meltano/meltano/pull/6951)
 >     - [fix(cli): working GCS state backend properly when any files were located in root bucket](https://github.com/meltano/meltano/pull/8648)
 > - datahub
 >     - [docs(dbt): fix indentation in dbt meta mapping docs](https://github.com/datahub-project/datahub/pull/7045)
@@ -94,8 +125,9 @@
 >     - [docs(architecture): edit documents in architecture section](https://github.com/datahub-project/datahub/pull/6798)
 >     - [docs(aws): edit markdown link](https://github.com/datahub-project/datahub/pull/6706)
 >     - [docs(quickstart): enable slack community link](https://github.com/datahub-project/datahub/pull/6209)
-> - great-expectations: [[DOCS] edit term(data_conext, checkpoints)-link in with airflow](https://github.com/great-expectations/great_expectations/pull/6646)
+> - great-expectations: [[DOCS] edit term(data_conext, checkpoints)-link in with airflow](https://github.com/fivetran/great_expectations/pull/6646)
 > - mageai
 >     - [Add postgres client package](https://github.com/mage-ai/mage-ai/pull/5486)
 >     - [Why bq client create dataset in data loader?](https://github.com/mage-ai/mage-ai/issues/5197) support
 > - PyAirbyte: [Chore: Remove import only used in TYPE_CHECKING](https://github.com/airbytehq/PyAirbyte/pull/421)
+> - amazon-mwaa-docker-images: [Remove unused import package in generate-dockerfiles/unit tests](https://github.com/aws/amazon-mwaa-docker-images/pull/354)

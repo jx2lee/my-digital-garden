@@ -36,7 +36,7 @@
 
 | Notes                                                          | Modified         |
 | -------------------------------------------------------------- | ---------------- |
-| [[opensource-contributions\|오픈소스 기여]]                       | 2026-09-22 22:45 |
+| [[opensource-contributions\|오픈소스 기여]]                       | 2026-10-26 22:27 |
 | [[Welcome to jx2lee garden\|Welcome to jx2lee garden]]      | 2026-09-22 22:39 |
 | [[notes/thoughts/at-20260913\|퇴사부검]]                        | 2026-09-15 22:56 |
 | [[notes/thoughts/at-20260813\|맛집에 일면식 없는 사람과 식사하는 기분]]      | 2026-08-14 00:25 |
